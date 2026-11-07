@@ -1,16 +1,18 @@
 {
-  "updated_at_utc": "2026-11-07T03:10:34+00:00",
+  "updated_at_utc": "2026-11-07T03:19:00+00:00",
   "feeds": {
     "main": {
       "playlist_ids": 229,
-      "guide_channels": 2,
-      "programmes": 96,
+      "playlist_names": 402,
+      "guide_channels": 797,
+      "programmes": 52051,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "pluto": {
       "playlist_ids": 2606,
-      "guide_channels": 3036,
-      "programmes": 73923,
+      "playlist_names": 1583,
+      "guide_channels": 3046,
+      "programmes": 74233,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     },
     "tubi": {
@@ -23,8 +25,9 @@
     },
     "xumo": {
       "playlist_ids": 433,
+      "playlist_names": 433,
       "guide_channels": 433,
-      "programmes": 11246,
+      "programmes": 11193,
       "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
     },
     "airy": {
@@ -41,14 +44,16 @@
     },
     "plex_live": {
       "playlist_ids": 2882,
+      "playlist_names": 940,
       "guide_channels": 2882,
-      "programmes": 105973,
+      "programmes": 105774,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
     },
     "roku": {
       "playlist_ids": 247,
+      "playlist_names": 247,
       "guide_channels": 246,
-      "programmes": 15784,
+      "programmes": 15815,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
     },
     "tcl": {
@@ -56,16 +61,25 @@
       "url": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main/tcl_epg.xml"
     },
     "country_us": {
-      "error": "Failed to fetch https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz: 404 Client Error: Not Found for url: https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+      "playlist_ids": 1502,
+      "playlist_names": 1499,
+      "guide_channels": 14,
+      "programmes": 950,
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_ca": {
-      "error": "Failed to fetch https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz: 404 Client Error: Not Found for url: https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+      "playlist_ids": 267,
+      "playlist_names": 267,
+      "guide_channels": 26,
+      "programmes": 1918,
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_uk": {
-      "error": "Failed to fetch https://iptv-org.github.io/iptv/countries/gb.m3u: 404 Client Error: Not Found for url: https://iptv-org.github.io/iptv/countries/gb.m3u",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+      "playlist_ids": 305,
+      "playlist_names": 305,
+      "guide_channels": 17,
+      "programmes": 657,
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     }
   }
 }

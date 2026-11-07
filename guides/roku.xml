@@ -7011,6 +7011,13 @@
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
   
+<programme channel="b238edf1869657abb47970bc9b7bfce1" start="20261109031700 +0000" stop="20261109041900 +0000">
+    <title>CHGO Cubs Podcast</title>
+    <desc>The No. 1 daily Chicago Cubs show. Exclusive interviews, expert analysis, instant reactions &amp; more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed4842d83f116429df77c48dd9e067cf/rokuFeed/assets/1731347743a253189ed0ce84d6c53f3a.jpg" />
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
 <channel id="9ec48964d9b9502396f19fcb3a527074">
     <display-name>PHLY Sports</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9ec48964d9b9502396f19fcb3a527074/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720539914940_Roku_HUD_PHLY.png" />
@@ -14480,6 +14487,13 @@
     <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
+<programme channel="d6f71998860459eca1bed73db5988330" start="20261109031705 +0000" stop="20261109050000 +0000">
+    <title>Just Getting Started</title>
+    <desc>A resort manager teams up with a former military man when someone from his past tries to kill him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/616b37aa2aa95d369dcf16376c3717f3/rokuFeed/assets/b095d2c38a315d21b7ece59c8d173786.jpg" />
+    <rating system="Motion Picture Association of America">PG13</rating>
+  </programme>
+  
 <channel id="dead0e7a46da533c94c61c8710ef3418">
     <display-name>FilmRise British TV</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png" />
@@ -15030,6 +15044,15 @@
     <desc>Pauline decides to confront Martin after opening a letter addressed to him.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/7d6d12cc23e35c1c94b6068047a4c6cf.jpg" />
     <episode-num system="onscreen">S04E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+  
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261109031846 +0000" stop="20261109040900 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>A taxi driver's migraine causes Louisa to go into premature labor.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/7d6d12cc23e35c1c94b6068047a4c6cf.jpg" />
+    <episode-num system="onscreen">S04E08</episode-num>
     <rating system="USA Parental Rating">TVMA</rating>
   </programme>
   
@@ -25605,6 +25628,15 @@
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="dcecb48012b5c99824cb0b1667f4499c" start="20261109031349 +0000" stop="20261109040926 +0000">
+    <title>Highway to Heaven</title>
+    <sub-title>Highway to Heaven</sub-title>
+    <desc>While most of the campers find contentment, Jonathan encourages Jason's reluctant father to join in.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e620846ecae0523ea08a1a8564d14694/rokuFeed/assets/9c0f4fe9c7865a42ba78363eb824fe98.jpg" />
+    <episode-num system="onscreen">S02E02</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
 <channel id="be3c81de355c56f89cbf99301735cfd2">
     <display-name>My Time Movie Network</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" />
@@ -31393,6 +31425,15 @@
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="36d277b3bb5b51890d55fa2c72ccf324" start="20261109031500 +0000" stop="20261109034000 +0000">
+    <title>Ghosts</title>
+    <sub-title>Ghosts</sub-title>
+    <desc>Jay is in a tiff with the mafia after Pete shares a recipe that Jay puts on the menu at his restaurant.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e956b9dfbbdf555dac0317a63bfbb78d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1667593569908_Ghosts16_9Clean.jpeg" />
+    <episode-num system="onscreen">S04E13</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="349e0f0840cf21b888bff327b41a2413">
     <display-name>Scares by Shudder</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" />
@@ -33274,6 +33315,15 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/424b4669932456d9a5e83a30fc10fa54/images/gracenote/assets/p185051_b_h10_ab.jpg" />
     <episode-num system="onscreen">S05E512</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="11c7c3660c6b6f18a21838fd404a7a1d" start="20261109031930 +0000" stop="20261109041145 +0000">
+    <title>Stargate Atlantis</title>
+    <sub-title>Stargate Atlantis</sub-title>
+    <desc>Sheppard and his team are captured by a newly formed galactic coalition and made to stand trial.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/424b4669932456d9a5e83a30fc10fa54/images/gracenote/assets/p185051_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S05E13</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
 <channel id="d0c6ac240cb8529992ee3340e5b7f102">
@@ -38025,6 +38075,15 @@
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="add7a09bd437e6598057a7c7fc55a81d" start="20261109031642 +0000" stop="20261109040811 +0000">
+    <title>The First 48</title>
+    <sub-title>The First 48</sub-title>
+    <desc>New Orleans Detective Ryan Vaught takes on his most challenging case yet.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b6ca5347a9d559229e2648242c1070ab/rokuFeed/assets/90556105d8c8545f9ab54f5826817f4d.jpg" />
+    <episode-num system="onscreen">S15E25</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
 <channel id="ebb810a8868251f18ac64056834c749a">
     <display-name>FilmRise True Crime</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ebb810a8868251f18ac64056834c749a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001493945_RokuChannel_FilmRiseTrueCrime_HUD_Logo_260x147.png" />
@@ -42300,6 +42359,15 @@
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="b3ad0323cd466f4bb0c04ef9bee54543" start="20261109031700 +0000" stop="20261109034300 +0000">
+    <title>Live PD Presents: PD Cam</title>
+    <sub-title>Live PD Presents: PD Cam</sub-title>
+    <desc>A Texas man threatens to kill a police chief; a Florida burglar is caught on building roof.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/10a8ff60d14557b4a8624e5787234843/images/gracenote/assets/p15702048_b_h8_ag.jpg" />
+    <episode-num system="onscreen">S01E16</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
 <channel id="8abbea29b86a5a5da299c7ef2e288cab">
     <display-name>Reelz Famous and Infamous</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8abbea29b86a5a5da299c7ef2e288cab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1733326414482_ReelzFI_260x147_v1.png" />
@@ -44073,6 +44141,15 @@
     <desc>Officers transfer an over caffeinated man to isolation so he can unwind.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f67e3afd8de08eae3fc4a51f26226f7/rokuFeed/assets/e1213c9e8c785e089a504fbdfc7b9fe9.jpg" />
     <episode-num system="onscreen">S04E18</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="645518dc5f92519688baed84d025b14e" start="20261109031752 +0000" stop="20261109034221 +0000">
+    <title>Jail</title>
+    <sub-title>Jail</sub-title>
+    <desc>An irate man bangs his head against the plexiglass.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f67e3afd8de08eae3fc4a51f26226f7/rokuFeed/assets/e1213c9e8c785e089a504fbdfc7b9fe9.jpg" />
+    <episode-num system="onscreen">S01E09</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
@@ -48591,6 +48668,14 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
+<programme channel="65506c44c9535b3787d255f333e7b1f7" start="20261109032000 +0000" stop="20261109041100 +0000">
+    <title>The Great Christmas Light Fight</title>
+    <desc>Brewerton, N.Y.; Portland, Ore.; Glendal, Ariz.; Hazlet, N.J.; Henderson, Nev.; West Frankfort, Ill.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/689d49036dc757279e4daa1a168c5fd3/images/gracenote/assets/p10258236_b_h8_ag.jpg" />
+    <episode-num system="onscreen">S07E01</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="1d3f60995d80521882a379fc06e47679">
     <display-name>The Bob Ross Channel</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1d3f60995d80521882a379fc06e47679/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655142477923_TheBobRossChannel_Roku_ChannelLogos_260x147.png" />
@@ -49386,6 +49471,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Bob paints a colorful landscape.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4a430e33d3c502d8d79d505fc51bc39/images/gracenote/assets/p413742_b_h10_ak.jpg" />
     <episode-num system="onscreen">S25E04</episode-num>
+    <rating system="USA Parental Rating">TVY</rating>
+  </programme>
+  
+<programme channel="1d3f60995d80521882a379fc06e47679" start="20261109031500 +0000" stop="20261109035000 +0000">
+    <title>Joy of Painting</title>
+    <sub-title>Joy of Painting</sub-title>
+    <desc>With guest artist Steve Ross.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4a430e33d3c502d8d79d505fc51bc39/images/gracenote/assets/p413742_b_h10_ak.jpg" />
+    <episode-num system="onscreen">S25E05</episode-num>
     <rating system="USA Parental Rating">TVY</rating>
   </programme>
   
@@ -54106,6 +54200,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
+<programme channel="fe08b9ce5c80c8a52c5253d026d9395c" start="20261109031549 +0000" stop="20261109040754 +0000">
+    <title>Ancient Aliens</title>
+    <sub-title>Ancient Aliens</sub-title>
+    <desc>Researchers ask if Cloud computing represents the rediscovery of an ancient repository of knowledge.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fa908566840575290c65045e7bf0a46/rokuFeed/assets/d76039f2fb555aed955d2f154be66a6b.jpg" />
+    <episode-num system="onscreen">S12E10</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="2a243861dea754eabb13a92e1106a4af">
     <display-name>Complex TV</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2a243861dea754eabb13a92e1106a4af/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775050519108_ROKU_Editable_260x147_Cente.png" />
@@ -56841,6 +56944,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVMA</rating>
   </programme>
   
+<programme channel="fb29ccf15bc8583ca1db8c42902eeae8" start="20261109031846 +0000" stop="20261109034600 +0000">
+    <title>Hot Ones</title>
+    <sub-title>Hot Ones</sub-title>
+    <desc>James Corden is the 12-time Emmy Award-winning host of "The Late Late Show with James Corden."</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c5a6b1ac2af51fa96dabc784ad77ea6/rokuFeed/assets/b25db50626fa576cab5dda6133592cba.jpg" />
+    <episode-num system="onscreen">S19E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+  
 <channel id="bcd2f34b280f5bae874ed3b487a96e96">
     <display-name>MrBeast</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bcd2f34b280f5bae874ed3b487a96e96/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1691089927361_mrBeastHUD-Logo-horizontal.png" />
@@ -58447,6 +58559,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
+<programme channel="11a0e337ea9b53d4b7a9517e219d7f5b" start="20261109031953 +0000" stop="20261109034813 +0000">
+    <title>UnspeakablePlays</title>
+    <sub-title>UnspeakablePlays</sub-title>
+    <desc>Unspeakable transforms his bland private island into an extravagant paradise full of cool builds.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/30397fb813775333b77cb892084231d2/images/gracenote/assets/p24938697_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S02E06</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="067e6b6fa36352ad8984a8d97c9a39d4">
     <display-name>FilmRise Creators</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/067e6b6fa36352ad8984a8d97c9a39d4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158180785_RokuChannel_FilmRiseCreators_HUD_Logo_260x147.png" />
@@ -59362,6 +59483,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="067e6b6fa36352ad8984a8d97c9a39d4" start="20261109031658 +0000" stop="20261109035203 +0000">
+    <title>Game Theory</title>
+    <sub-title>Game Theory</sub-title>
+    <desc>The immunity of Ellie in "The Last of Us Part 2" is debunked; the bizarre lore of Garten of Banban.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/30596c5fac385a078d33851d6b4b6a24/images/gracenote/assets/p26210555_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S06E15</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
 <channel id="0597d2a4b388b1497a9bf48812e5d070">
     <display-name>iShowSpeed TV</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0597d2a4b388b1497a9bf48812e5d070/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778863314015_ishowspeed_logo_hud.png" />
@@ -59878,6 +60008,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Speed explores Grenada for the first time, diving into island culture, adventure, and new experiences.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef2185a06c56a77d2188a5926d764bc2/rokuFeed/assets/f868594b075357f7a38d2c2bbf200624.jpg" />
     <episode-num system="onscreen">S01E04</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="0597d2a4b388b1497a9bf48812e5d070" start="20261109032052 +0000" stop="20261109041953 +0000">
+    <title>Ishowspeed Africa Tour 2025/6</title>
+    <sub-title>Ishowspeed Africa Tour 2025/6</sub-title>
+    <desc>IShowSpeed explores ANGOLA culture, chaos, and viral moments across Africa.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b47ed77e52e49bff593f9c76d2ff3a6/rokuFeed/assets/e41142cc2afd5462a5ba45c50d2622ad.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
@@ -62023,6 +62162,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Buying and testing out 1,000 of the most cursed products that shouldn't be sold on Amazon.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f438271f66e85c7288abd7bd33305ff9/rokuFeed/assets/d4b1ab5e21ea5f69acb07632280a8fa4.jpg" />
     <episode-num system="onscreen">S03E14</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="be6338f82720cc9d9548acfa377a2aab" start="20261109031902 +0000" stop="20261109034537 +0000">
+    <title>Stokes Twins</title>
+    <sub-title>Stokes Twins</sub-title>
+    <desc>The twins continue testing 1,000 of the most insane Amazon products to find out why they're cursed.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f438271f66e85c7288abd7bd33305ff9/rokuFeed/assets/d4b1ab5e21ea5f69acb07632280a8fa4.jpg" />
+    <episode-num system="onscreen">S03E15</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
@@ -68502,6 +68650,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Ryan helps two of MrBeast's contestants try to get along; Ryan makes Carter look rich.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/12d50a34895951fc838eca00d9d1c2e1/images/gracenote/assets/p25400855_b_h10_ac.jpg" />
     <episode-num system="onscreen">S06E01</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="1b5977c99bc753ec4564fcbb3955c1aa" start="20261109032040 +0000" stop="20261109034621 +0000">
+    <title>Ryan Trahan</title>
+    <sub-title>Ryan Trahan</sub-title>
+    <desc>Ryan hops on an A380 and experiences the luxury of its most expensive seats.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/12d50a34895951fc838eca00d9d1c2e1/images/gracenote/assets/p25400855_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S06E02</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
@@ -76458,6 +76615,14 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
   
+<programme channel="4ad47ace83b25065955adca3f8e9bdcf" start="20261109031900 +0000" stop="20261109040800 +0000">
+    <title>The Price Is Right</title>
+    <desc>Contestants bid for prizes then compete for fabulous showcases.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d13c2b9b2eec58199fa8f80d70f742a1/images/gracenote/assets/p21463338_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S1988E7245</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="ffe5d9e0480d1c5e1dcead3abd966ac7">
     <display-name>Let's Make a Deal</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ffe5d9e0480d1c5e1dcead3abd966ac7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793674388_LMAD_HUDLogoCenterAligned_260x147.png" />
@@ -79756,6 +79921,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVMA</rating>
   </programme>
   
+<programme channel="b41118f76d1a5abcb701b9cc0a035c5b" start="20261109031600 +0000" stop="20261109041600 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>Ramsay's Kitchen Nightmares</sub-title>
+    <desc>Gordon meets his match in an ex-boxer and his feisty wife who run a restaurant in rural Wales.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5f6d9fa38fb570297b3629056705f36/rokuFeed/assets/2f3efb4ddce456ff99cf4a87b368c4a9.jpg" />
+    <episode-num system="onscreen">S05E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+  
 <channel id="a4d5fe37a0f5592dee5dbbb242d73fac">
     <display-name>Growing Up Hip Hop WeTV</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a4d5fe37a0f5592dee5dbbb242d73fac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731689489118_Roku_GUHH_WEtv_HUD1_260x147_efefef.png" />
@@ -81939,6 +82113,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="28b13463c3cf9b26eb0f87ff11c2a8ec" start="20261109031217 +0000" stop="20261109040659 +0000">
+    <title>Untold Stories of the E.R.</title>
+    <sub-title>Untold Stories of the E.R.</sub-title>
+    <desc>A pianist's finger gets accidentally sawed off; a man's pacemaker threatens to kill him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/499b3cd79f6056b689647a1feeacf664/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1710263376223_4a6588ffdf8255c6aff4168e6b775b3c.jpg" />
+    <episode-num system="onscreen">S10E02</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
 <channel id="dacd8aab4ff68232ed9d452aa706e2e6">
     <display-name>World Of Love Island</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dacd8aab4ff68232ed9d452aa706e2e6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763489824921_ROKU_INFO_HUD.png" />
@@ -84050,6 +84233,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>The team designs a ride that competes with the Ford Raptor at half the cost.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a53342e7f3b45458a3164067516ccc5d/images/gracenote/assets/p316307_b_h10_ab.jpg" />
     <episode-num system="onscreen">S2012E08</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="ca25dfba8ba45a1bb277c8b0ca8f56c4" start="20261109031500 +0000" stop="20261109033300 +0000">
+    <title>Xtreme 4x4</title>
+    <sub-title>Xtreme 4x4</sub-title>
+    <desc>The F-150 receives a cost-conscious Lighting powerplant; an in-depth look at Jeep Speed racers.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a53342e7f3b45458a3164067516ccc5d/images/gracenote/assets/p316307_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2012E16</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
   
@@ -86532,6 +86724,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
+<programme channel="091bf303c7fd2bc2ec6683b1dbbadae1" start="20261109031600 +0000" stop="20261109034141 +0000">
+    <title>Storage Wars</title>
+    <sub-title>Storage Wars</sub-title>
+    <desc>Ivy lets Ivy Jr. run the operation; Mary, Shana and Edwina just can't seem to make anything stick.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35cd8c8e9136575bb211d9693b23a181/rokuFeed/assets/ba6534678289570196052aeda02b51a8.jpg" />
+    <episode-num system="onscreen">S12E07</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="11b69d01eadbc0259b0d05042a49f842">
     <display-name>Mecum TV</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11b69d01eadbc0259b0d05042a49f842/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751557780578_MecumTV-Circle-260x147_HUD-01.png" />
@@ -87162,6 +87363,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Monster activity is taking place all over Texas including a hybrid man-goat terrorizing Lake Worth.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/145cbfafc345530a96b65a58f7ef81c3/images/gracenote/assets/p9749169_b_h10_ah.jpg" />
     <episode-num system="onscreen">S02E01</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="62fc9a6990970240178dae0203ef63e8" start="20261109031915 +0000" stop="20261109040830 +0000">
+    <title>Monsters and Mysteries in America</title>
+    <sub-title>Monsters and Mysteries in America</sub-title>
+    <desc>A deadly swamp Pukwudgie; sisters who are used as breeders for aliens.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/145cbfafc345530a96b65a58f7ef81c3/images/gracenote/assets/p9749169_b_h10_ah.jpg" />
+    <episode-num system="onscreen">S02E02</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
@@ -88336,6 +88546,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>A man hopes to save his relationship by proving he isn't the father of another woman's baby.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0470a50df0d65f72a7dc6111b416b0fe/rokuFeed/assets/5dc9e0050e46509796be3f979f1489a9.jpg" />
     <episode-num system="onscreen">S03E71</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="ce8a61a75e94b71f52ad51ed92b1ec65" start="20261109032046 +0000" stop="20261109034421 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <sub-title>Lauren Lake's Paternity Court</sub-title>
+    <desc>An Iowa man, who has been raising a child on his own, wants to be sure he is the biological father.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0470a50df0d65f72a7dc6111b416b0fe/rokuFeed/assets/5dc9e0050e46509796be3f979f1489a9.jpg" />
+    <episode-num system="onscreen">S03E72</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
@@ -99812,6 +100031,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
+<programme channel="b602b0edb0cd58a5a5be2b7554166c07" start="20261109031413 +0000" stop="20261109040857 +0000">
+    <title>Autopista al Cielo</title>
+    <sub-title>Autopista al Cielo</sub-title>
+    <desc>Una hija distanciada está escribiendo una revelación vengativa sobre su madre.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62ae54d2757258b185aa1da36dc37c56/rokuFeed/assets/e3fe679b0a02513a8964996da071d28b.jpg" />
+    <episode-num system="onscreen">S03E18</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
 <channel id="f2bbfc9566f9519aad982aea41b95f83">
     <display-name>Misterios sin resolver</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f2bbfc9566f9519aad982aea41b95f83/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673454073290_FilmRise_Misterios_SinResolver_HUDlogo_260x147.png" />
@@ -100246,6 +100474,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Este episodio incluye: Los Sueños Se Hacen Realidad, El Asesino de New Orleans, Alivio Cómico &amp; Actualización.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5839df523f325bab80d69e35d8a9734f/rokuFeed/assets/ecd5601e8e4f54e7af0f2f1365bc2cce.jpg" />
     <episode-num system="onscreen">S05E06</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="f2bbfc9566f9519aad982aea41b95f83" start="20261109031725 +0000" stop="20261109040928 +0000">
+    <title>Misterios sin resolver</title>
+    <sub-title>Misterios sin resolver</sub-title>
+    <desc>Este episodio incluye: OVNI en Falcon Lake, Adentro de Frontera, Actualización.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5839df523f325bab80d69e35d8a9734f/rokuFeed/assets/ecd5601e8e4f54e7af0f2f1365bc2cce.jpg" />
+    <episode-num system="onscreen">S05E08</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
@@ -105659,6 +105896,13 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <episode-num system="onscreen">S01E27</episode-num>
   </programme>
   
+<programme channel="04be54c79d1f55d0909e684f64f9fb57" start="20261109031500 +0000" stop="20261109034500 +0000">
+    <title>Azteca fit</title>
+    <desc>Lo mejor del mundo fitness llega con diversos ejercicios que se pueden hacer desde casa.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f7b2873574715cb28439942001e6f581/images/gracenote/assets/p25238391_b_h11_aa.jpg" />
+    <episode-num system="onscreen">S01E26</episode-num>
+  </programme>
+  
 <channel id="447d63b6da208bb796b69f0383c474a1">
     <display-name>Danger TV</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" />
@@ -106427,6 +106671,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>Es posible que un neozelandés con un pasado violento no pueda reunirse con su novia alemana en Australia</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/48ed0a52cbb84e9809f8518b9a06f24f/rokuFeed/assets/8cc4b2071b4d53b0a5b87deb9dc8758a.png" />
     <episode-num system="onscreen">S05E18</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="447d63b6da208bb796b69f0383c474a1" start="20261109031402 +0000" stop="20261109042509 +0000">
+    <title>19-S La TIierra Grita</title>
+    <sub-title>19-S La TIierra Grita</sub-title>
+    <desc>México enfrenta la furia de la naturaleza mientras poderosos terremotos ponen a prueba su resiliencia y solidaridad.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c13d13926cd1dedd4385558567f4b4ca/images/gracenote/assets/p33715441_st_h10_aa.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
@@ -109100,6 +109353,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
+<programme channel="cdfd1ee39343a406984976d2687e894d" start="20261109031400 +0000" stop="20261109040100 +0000">
+    <title>Vas No Vas</title>
+    <sub-title>Vas No Vas</sub-title>
+    <desc>Los participantes juegan y negocian en una competición de nervios, suerte e intuición.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2182aa8f54fe36b9afac25fcf608b784/rokuFeed/assets/04983ed61b475cb2a83ffdd0aea7b128.jpg" />
+    <episode-num system="onscreen">S02E16</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
 <channel id="0de9839c79b758589c580dcdd4b40a8a">
     <display-name>Caso Cerrado</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0de9839c79b758589c580dcdd4b40a8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747831065584_CASO_CERRADO_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" />
@@ -110874,6 +111136,15 @@ Time of death becomes pivotal after a pregnant woman is found murdered in her ai
     <desc>A pesar del odio que siente por ella, Luciana decide apoyar a Andrea para que se case con Alejandro.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b9b0d127ce53571c854179e11834cb80/images/gracenote/assets/p561713_b_h10_aa.jpg" />
     <episode-num system="onscreen">S01E40</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="396f57d10b5d5ec98648f810dcbe1f11" start="20261109031418 +0000" stop="20261109035948 +0000">
+    <title>Destilando amor</title>
+    <sub-title>Destilando amor</sub-title>
+    <desc>Rodrigo prepara todo para pasar un día entero en una isla a solas con Gaviota.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cb7f29b39d605560bf4778e2d1e2a844/images/gracenote/assets/p18360474_b_h8_ac.jpg" />
+    <episode-num system="onscreen">S01E55</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   

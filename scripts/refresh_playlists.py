@@ -209,6 +209,7 @@ def archive_item_entry(document: dict) -> PlaylistEntry | None:
     if "publicdomain" not in license_url.lower():
         return None
 
+    time.sleep(0.2)
     response = requests.get(
         f"https://archive.org/metadata/{quote(identifier, safe='')}",
         headers=HEADERS,
@@ -229,7 +230,10 @@ def archive_item_entry(document: dict) -> PlaylistEntry | None:
             continue
         if str(file_info.get("private", "")).lower() in {"true", "1"}:
             continue
-        size = int(file_info.get("size") or 0)
+        try:
+            size = int(file_info.get("size") or 0)
+        except (TypeError, ValueError):
+            size = 0
         lower_name = name.lower()
         score = 0
         if "512kb" in lower_name or "256kb" in lower_name:

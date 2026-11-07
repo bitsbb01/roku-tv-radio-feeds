@@ -12,7 +12,7 @@ import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import quote, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -197,6 +197,119 @@ def write_playlist(path: Path, entries: list[PlaylistEntry]) -> None:
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def clean_text(value: object) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).replace('"', "'").strip()
+
+
+def archive_item_entry(document: dict) -> PlaylistEntry | None:
+    identifier = clean_text(document.get("identifier"))
+    if not identifier:
+        return None
+    license_url = clean_text(document.get("licenseurl"))
+    if "publicdomain" not in license_url.lower():
+        return None
+
+    response = requests.get(
+        f"https://archive.org/metadata/{quote(identifier, safe='')}",
+        headers=HEADERS,
+        timeout=(15, 45),
+    )
+    response.raise_for_status()
+    metadata_record = response.json()
+    metadata = metadata_record.get("metadata") or {}
+    item_license = clean_text(metadata.get("licenseurl") or license_url)
+    if "publicdomain" not in item_license.lower():
+        return None
+
+    files = metadata_record.get("files") or []
+    candidates = []
+    for file_info in files:
+        name = str(file_info.get("name") or "")
+        if not name.lower().endswith(".mp4"):
+            continue
+        if str(file_info.get("private", "")).lower() in {"true", "1"}:
+            continue
+        size = int(file_info.get("size") or 0)
+        lower_name = name.lower()
+        score = 0
+        if "512kb" in lower_name or "256kb" in lower_name:
+            score += 30
+        if "h264" in lower_name or "h.264" in lower_name:
+            score += 20
+        if size and size < 1_500_000_000:
+            score += 10
+        if size:
+            score += max(0, 10 - int(size / 500_000_000))
+        candidates.append((score, name))
+    if not candidates:
+        return None
+
+    candidates.sort(reverse=True)
+    filename = candidates[0][1]
+    title = clean_text(document.get("title")) or identifier
+    year = clean_text(document.get("year"))
+    if year and year not in title:
+        title = f"{title} ({year})"
+    logo = f"https://archive.org/services/img/{quote(identifier, safe='')}"
+    stream = f"https://archive.org/download/{quote(identifier, safe='')}/{quote(filename, safe='/')}"
+    extinf = (
+        f'#EXTINF:-1 tvg-id="ia-{identifier}" tvg-logo="{logo}" '
+        f'group-title="Internet Archive - Public Domain label",{title}'
+    )
+    return PlaylistEntry(extinf, stream)
+
+
+def build_archive_feed() -> list[PlaylistEntry]:
+    query = "mediatype:movies AND licenseurl:http*publicdomain*"
+    params = [
+        ("q", query),
+        ("fl[]", "identifier"),
+        ("fl[]", "title"),
+        ("fl[]", "year"),
+        ("fl[]", "licenseurl"),
+        ("sort[]", "downloads desc"),
+        ("rows", "100"),
+        ("page", "1"),
+        ("output", "json"),
+    ]
+    response = requests.get(
+        "https://archive.org/advancedsearch.php",
+        params=params,
+        headers=HEADERS,
+        timeout=(15, 45),
+    )
+    response.raise_for_status()
+    payload = response.json()
+    documents = (payload.get("response") or {}).get("docs") or []
+    logging.info("Internet Archive search returned %d candidates", len(documents))
+
+    results: list[PlaylistEntry] = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+        futures = [pool.submit(archive_item_entry, document) for document in documents]
+        for future in concurrent.futures.as_completed(futures):
+            try:
+                entry = future.result()
+                if entry is not None:
+                    results.append(entry)
+            except Exception as exc:
+                logging.warning("Skipping Internet Archive item: %s", exc)
+
+    # Keep API ranking order for a stable, familiar catalog.
+    by_id = {}
+    for entry in results:
+        match = re.search(r'tvg-id="ia-([^"]+)"', entry.extinf)
+        if match:
+            by_id[match.group(1)] = entry
+    ordered = []
+    seen = set()
+    for document in documents:
+        identifier = clean_text(document.get("identifier"))
+        if identifier in by_id and identifier not in seen:
+            ordered.append(by_id[identifier])
+            seen.add(identifier)
+    return ordered
+
+
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     OUTPUT.mkdir(parents=True, exist_ok=True)
@@ -229,6 +342,21 @@ def main() -> int:
                 "feed": f"playlists/{key}.m3u8",
             }
             logging.info("%s: wrote %d channels", country["name"], len(entries))
+
+        try:
+            archive_entries = build_archive_feed()
+            if len(archive_entries) >= 20:
+                write_playlist(OUTPUT / "archive_movies.m3u8", archive_entries)
+                report["internet_archive"] = {
+                    "channels": len(archive_entries),
+                    "feed": "playlists/archive_movies.m3u8",
+                    "filter": "Uploader-assigned public-domain license label",
+                }
+                logging.info("Wrote Internet Archive movie feed with %d items", len(archive_entries))
+            else:
+                logging.warning("Internet Archive returned only %d playable labeled items; preserving the prior feed", len(archive_entries))
+        except Exception:
+            logging.exception("Internet Archive refresh failed; preserving the last successful Archive feed")
 
         write_playlist(OUTPUT / "all.m3u8", combined)
         report["combined_channels"] = len(combined)

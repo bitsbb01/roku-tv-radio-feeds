@@ -1,23 +1,25 @@
 {
-  "updated_at_utc": "2026-11-07T03:19:00+00:00",
+  "updated_at_utc": "2026-11-07T14:18:24+00:00",
   "feeds": {
     "main": {
       "playlist_ids": 229,
       "playlist_names": 402,
       "guide_channels": 797,
-      "programmes": 52051,
+      "programmes": 51494,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "pluto": {
-      "playlist_ids": 2606,
-      "playlist_names": 1583,
-      "guide_channels": 3046,
-      "programmes": 74233,
+      "playlist_ids": 2622,
+      "playlist_names": 1587,
+      "guide_channels": 3054,
+      "programmes": 73426,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     },
     "tubi": {
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml"
+      "playlist_ids": 0,
+      "guide_channels": 0,
+      "programmes": 0,
+      "note": "No XMLTV schedule is published for this playlist; the app should show No Guide Available."
     },
     "localnow": {
       "error": "not well-formed (invalid token): line 1, column 0",
@@ -27,7 +29,7 @@
       "playlist_ids": 433,
       "playlist_names": 433,
       "guide_channels": 433,
-      "programmes": 11193,
+      "programmes": 17027,
       "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
     },
     "airy": {
@@ -46,14 +48,14 @@
       "playlist_ids": 2882,
       "playlist_names": 940,
       "guide_channels": 2882,
-      "programmes": 105774,
+      "programmes": 104946,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
     },
     "roku": {
-      "playlist_ids": 247,
-      "playlist_names": 247,
-      "guide_channels": 246,
-      "programmes": 15815,
+      "playlist_ids": 250,
+      "playlist_names": 250,
+      "guide_channels": 250,
+      "programmes": 15733,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
     },
     "tcl": {
@@ -64,21 +66,21 @@
       "playlist_ids": 1502,
       "playlist_names": 1499,
       "guide_channels": 14,
-      "programmes": 950,
+      "programmes": 954,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_ca": {
       "playlist_ids": 267,
       "playlist_names": 267,
       "guide_channels": 26,
-      "programmes": 1918,
+      "programmes": 1923,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_uk": {
       "playlist_ids": 305,
       "playlist_names": 305,
       "guide_channels": 17,
-      "programmes": 657,
+      "programmes": 690,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     }
   }

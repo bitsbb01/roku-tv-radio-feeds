@@ -104,7 +104,7 @@ def country_page_url(base: str, page: int) -> str:
 
 def collect_downloads(country: dict) -> tuple[list[str], int]:
     links: list[str] = []
-    previous_page_links: tuple[str, ...] | None = None
+    seen_page_fingerprints: set[tuple[str, ...]] = set()
     pages = 0
     for number in range(1, MAX_PAGES + 1):
         url = country_page_url(country["url"], number)
@@ -116,10 +116,10 @@ def collect_downloads(country: dict) -> tuple[list[str], int]:
             break
 
         fingerprint = tuple(link for link, _ in page_links)
-        # Some site versions redirect a page beyond the end back to page 1.
-        if fingerprint == previous_page_links:
+        # Stop if an out-of-range page redirects to any earlier page.
+        if fingerprint in seen_page_fingerprints:
             break
-        previous_page_links = fingerprint
+        seen_page_fingerprints.add(fingerprint)
         pages += 1
         # Omit rows IPTV Cat explicitly marks offline. Keep rows if the page
         # markup doesn't expose a status value so a layout change won't hide channels.

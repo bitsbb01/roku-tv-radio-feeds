@@ -39,7 +39,7 @@ COUNTRIES = {
         "url": "https://iptvcat.com/united_kingdom__11",
     },
 }
-DOWNLOAD_PATH = re.compile(r"^/my_list/s/[A-Za-z0-9_-]+\\.m3u8?$", re.I)
+DOWNLOAD_PATH = re.compile(r"^/my_list/s/[A-Za-z0-9_-]+\.m3u8?$", re.I)
 HEADERS = {
     "User-Agent": "JGJG-TV-Radio-feed-refresh/1.0 (+https://github.com/bitsbb01/roku-tv-radio-feeds)",
     "Accept": "text/html,application/text,application/x-mpegURL,*/*",
@@ -134,7 +134,7 @@ def collect_downloads(country: dict) -> tuple[list[str], int]:
 def parse_m3u(text: str) -> list[PlaylistEntry]:
     entries: list[PlaylistEntry] = []
     pending_extinf: str | None = None
-    for raw in text.lstrip("\\ufeff").splitlines():
+    for raw in text.lstrip("\ufeff").splitlines():
         line = raw.strip()
         if not line:
             continue
@@ -180,7 +180,7 @@ def make_all_entry(entry: PlaylistEntry, country: dict) -> PlaylistEntry:
     line = entry.extinf
     for key, value in (("tvg-country", country["code"]), ("group-title", country["name"])):
         replacement = f'{key}="{value}"'
-        pattern = re.compile(rf'(?<![\\w-]){re.escape(key)}="[^"]*"')
+        pattern = re.compile(rf'(?<![\w-]){re.escape(key)}="[^"]*"')
         if pattern.search(line):
             line = pattern.sub(replacement, line, count=1)
         else:
@@ -194,7 +194,7 @@ def write_playlist(path: Path, entries: list[PlaylistEntry]) -> None:
     lines = ["#EXTM3U"]
     for entry in entries:
         lines.extend((entry.extinf, entry.url))
-    path.write_text("\\n".join(lines) + "\\n", encoding="utf-8")
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main() -> int:
@@ -233,7 +233,7 @@ def main() -> int:
         write_playlist(OUTPUT / "all.m3u8", combined)
         report["combined_channels"] = len(combined)
         (OUTPUT / "status.json").write_text(
-            json.dumps(report, indent=2, ensure_ascii=False) + "\\n",
+            json.dumps(report, indent=2, ensure_ascii=False) + "\n",
             encoding="utf-8",
         )
         logging.info("Wrote combined feed with %d channels", len(combined))

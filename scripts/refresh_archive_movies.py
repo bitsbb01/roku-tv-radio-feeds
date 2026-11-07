@@ -22,7 +22,7 @@ QUERY = "mediatype:movies AND licenseurl:http*publicdomain*"
 
 
 def clean(value: object) -> str:
-    return re.sub(r"\\s+", " ", str(value or "")).replace('"', "'").strip()
+    return re.sub(r"\s+", " ", str(value or "")).replace('"', "'").strip()
 
 
 def make_entry(doc: dict) -> tuple[str, str] | None:
@@ -114,21 +114,18 @@ def main() -> int:
             except Exception as exc:
                 logging.warning("Skipping an Archive item: %s", exc)
 
-    ordered = []
+    lines = ["#EXTM3U"]
     for doc in docs:
         item = results.get(clean(doc.get("identifier")))
         if item:
-            ordered.extend(item)
-    if len(ordered) < 20:
-        logging.error("Only %d playable labeled items; leaving existing feed untouched", len(ordered) // 2)
+            lines.extend(item)
+    if len(lines) < 41:
+        logging.error("Only %d playable labeled items; leaving existing feed untouched", (len(lines) - 1) // 2)
         return 1
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    lines = ["#EXTM3U"]
-    for index in range(0, len(ordered), 2):
-        lines.extend((ordered[index], ordered[index + 1]))
-    OUTPUT.write_text("\\n".join(lines) + "\\n", encoding="utf-8")
-    logging.info("Wrote %d public-domain-label items to %s", len(ordered) // 2, OUTPUT)
+    OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    logging.info("Wrote %d public-domain-label items to %s", (len(lines) - 1) // 2, OUTPUT)
     return 0
 
 

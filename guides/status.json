@@ -1,0 +1,71 @@
+{
+  "updated_at_utc": "2026-11-07T03:10:34+00:00",
+  "feeds": {
+    "main": {
+      "playlist_ids": 229,
+      "guide_channels": 2,
+      "programmes": 96,
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+    },
+    "pluto": {
+      "playlist_ids": 2606,
+      "guide_channels": 3036,
+      "programmes": 73923,
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
+    },
+    "tubi": {
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml"
+    },
+    "localnow": {
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/main/epg.xml"
+    },
+    "xumo": {
+      "playlist_ids": 433,
+      "guide_channels": 433,
+      "programmes": 11246,
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
+    },
+    "airy": {
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/airy-playlist-generator/main/airy_channels.xml"
+    },
+    "rakuten": {
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml"
+    },
+    "extra": {
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "url": "https://raw.githubusercontent.com/doms9/iptv/default/M3U8/TV.xml"
+    },
+    "plex_live": {
+      "playlist_ids": 2882,
+      "guide_channels": 2882,
+      "programmes": 105973,
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
+    },
+    "roku": {
+      "playlist_ids": 247,
+      "guide_channels": 246,
+      "programmes": 15784,
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
+    },
+    "tcl": {
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main/tcl_epg.xml"
+    },
+    "country_us": {
+      "error": "Failed to fetch https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz: 404 Client Error: Not Found for url: https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+    },
+    "country_ca": {
+      "error": "Failed to fetch https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz: 404 Client Error: Not Found for url: https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+    },
+    "country_uk": {
+      "error": "Failed to fetch https://iptv-org.github.io/iptv/countries/gb.m3u: 404 Client Error: Not Found for url: https://iptv-org.github.io/iptv/countries/gb.m3u",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+    }
+  }
+}

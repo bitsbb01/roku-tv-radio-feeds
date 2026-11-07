@@ -42,6 +42,7 @@ jobs:
             echo "IPTV Cat feeds are unchanged."
           else
             git commit -m "Refresh IPTV Cat playlists"
+            git restore playlists/archive_movies.m3u8
             git fetch origin main
             git rebase origin/main
             git push

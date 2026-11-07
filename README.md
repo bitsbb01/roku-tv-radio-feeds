@@ -8,9 +8,10 @@ Public, automatically refreshed M3U playlists for the Roku TV & Radio app.
 - Canada: https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/playlists/canada.m3u8
 - United Kingdom: https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/playlists/uk.m3u8
 - Combined: https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/playlists/all.m3u8
+- Internet Archive films: https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/playlists/archive_movies.m3u8
 - Refresh status: https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/playlists/status.json
 
-The scraper walks IPTV Cat's public country pages, follows their per-channel M3U download links, skips rows IPTV Cat explicitly marks offline, and merges the remaining playlists. IPTV Cat's channel data and stream availability can change at any time; a listed stream may still fail at playback.
+The scraper walks IPTV Cat's public country pages, follows their per-channel M3U download links, skips rows IPTV Cat explicitly marks offline, and merges the remaining playlists. It also builds a separate Internet Archive movie feed by searching for items with an uploader-assigned public-domain license URL and selecting an MP4 file. That label is not an Archive guarantee of copyright status; the feed displays the label clearly, and individual items should be reviewed before wider distribution. Stream formats and availability can change.
 
 ## Refreshing
 

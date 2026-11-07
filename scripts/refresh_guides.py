@@ -9,9 +9,11 @@ plain XML suitable for the player.
 from __future__ import annotations
 
 import gzip
+import hashlib
 import logging
 import os
 import re
+import shutil
 import sys
 import time
 import xml.etree.ElementTree as ET
@@ -38,9 +40,9 @@ SOURCES = {
     "plex_live": (f"{BASE}/app-m3u-generator/main/playlists/plex_all.m3u", "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"),
     "roku": (f"{BASE}/app-m3u-generator/main/playlists/roku_all.m3u", "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"),
     "tcl": (f"{BASE}/tcl-playlist-generator/main/tcl.m3u8", f"{BASE}/tcl-playlist-generator/main/tcl_epg.xml"),
-    "country_us": ("https://iptv-org.github.io/iptv/countries/us.m3u", "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"),
-    "country_ca": ("https://iptv-org.github.io/iptv/countries/ca.m3u", "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"),
-    "country_uk": ("https://iptv-org.github.io/iptv/countries/gb.m3u", "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"),
+    "country_us": ("https://iptv-org.github.io/iptv/countries/us.m3u", "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"),
+    "country_ca": ("https://iptv-org.github.io/iptv/countries/ca.m3u", "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"),
+    "country_uk": ("https://iptv-org.github.io/iptv/countries/uk.m3u", "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"),
 }
 
 def get_response(url: str) -> requests.Response:
@@ -49,7 +51,7 @@ def get_response(url: str) -> requests.Response:
         try:
             response = requests.get(url, headers=HEADERS, stream=True, timeout=(20, 180))
             response.raise_for_status()
-            response.raw.decode_content = False
+            response.raw.decode_content = urlparse(url).path.lower().endswith(".gz")
             return response
         except requests.RequestException as exc:
             last = exc
@@ -57,19 +59,28 @@ def get_response(url: str) -> requests.Response:
                 time.sleep(2 ** attempt)
     raise RuntimeError(f"Failed to fetch {url}: {last}")
 
-def playlist_ids(url: str) -> set[str]:
+def normalize_name(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", (value or "").casefold())
+
+def playlist_metadata(url: str) -> tuple[set[str], set[str]]:
     response = get_response(url)
     try:
         text = response.content.decode("utf-8-sig", errors="replace")
     finally:
         response.close()
-    ids = set()
+    ids, names = set(), set()
     for line in text.splitlines():
         if line.startswith("#EXTINF:"):
             match = re.search(r'\btvg-id="([^"]+)"', line, re.I)
+            name = re.search(r'\btvg-name="([^"]+)"', line, re.I)
             if match and match.group(1).strip():
                 ids.add(match.group(1).strip().casefold())
-    return ids
+            if name and name.group(1).strip():
+                names.add(normalize_name(name.group(1)))
+            title = line.rsplit(",", 1)[-1].strip()
+            if title:
+                names.add(normalize_name(title))
+    return ids, {name for name in names if name}
 
 def local_time(value: str) -> datetime | None:
     match = re.match(r"^(\d{14})", value or "")
@@ -80,14 +91,24 @@ def local_time(value: str) -> datetime | None:
     except ValueError:
         return None
 
-def write_filtered_guide(url: str, ids: set[str], destination: Path) -> tuple[int, int]:
-    response = get_response(url)
-    source = response.raw
-    if urlparse(url).path.lower().endswith(".gz"):
-        source = gzip.GzipFile(fileobj=response.raw)
+def write_filtered_guide(url: str, ids: set[str], names: set[str], destination: Path) -> tuple[int, int]:
+    cache_dir = ROOT / ".guide-cache"
+    cache_dir.mkdir(exist_ok=True)
+    cache_path = cache_dir / (hashlib.sha256(url.encode()).hexdigest() + (".gz" if urlparse(url).path.lower().endswith(".gz") else ".xml"))
+    if not cache_path.exists():
+        response = get_response(url)
+        try:
+            with cache_path.open("wb") as cached:
+                shutil.copyfileobj(response.raw, cached, length=1024 * 1024)
+        finally:
+            response.close()
+    response = cache_path.open("rb")
+    source = gzip.GzipFile(fileobj=response) if cache_path.suffix == ".gz" else response
     now = datetime.now(timezone.utc)
     earliest, latest = now - timedelta(hours=3), now + timedelta(days=2)
     channels = programmes = 0
+    matched_ids = set(ids)
+    matched_name_ids = set()
     destination.parent.mkdir(parents=True, exist_ok=True)
     temporary = destination.with_suffix(".xml.tmp")
     try:
@@ -97,14 +118,19 @@ def write_filtered_guide(url: str, ids: set[str], destination: Path) -> tuple[in
                 tag = element.tag.rsplit("}", 1)[-1].lower()
                 if tag == "channel":
                     channel_id = (element.attrib.get("id") or "").casefold()
-                    if channel_id in ids:
+                    channel_names = {normalize_name(element.attrib.get("display-name", ""))}
+                    channel_names.update(normalize_name(child.text or "") for child in element if child.tag.rsplit("}", 1)[-1].lower() == "display-name")
+                    if channel_id in ids or (channel_names & names):
+                        matched_ids.add(channel_id)
+                        if channel_names & names:
+                            matched_name_ids.add(channel_id)
                         output.write(ET.tostring(element, encoding="utf-8"))
                         output.write(b"\n")
                         channels += 1
                     element.clear()
                 elif tag == "programme":
                     channel_id = (element.attrib.get("channel") or "").casefold()
-                    if channel_id in ids:
+                    if channel_id in matched_ids:
                         start = local_time(element.attrib.get("start", ""))
                         stop = local_time(element.attrib.get("stop", ""))
                         if start is None or stop is None or (stop >= earliest and start <= latest):
@@ -131,12 +157,12 @@ def main() -> int:
     failed = []
     for name, (playlist_url, guide_url) in SOURCES.items():
         try:
-            ids = playlist_ids(playlist_url)
-            if not ids:
-                raise RuntimeError("playlist contains no tvg-id values")
-            channels, programmes = write_filtered_guide(guide_url, ids, OUT / f"{name}.xml")
-            status["feeds"][name] = {"playlist_ids": len(ids), "guide_channels": channels, "programmes": programmes, "url": guide_url}
-            logging.info("%s: %d channel IDs, %d guide channels, %d programmes", name, len(ids), channels, programmes)
+            ids, names = playlist_metadata(playlist_url)
+            if not ids and not names:
+                raise RuntimeError("playlist contains no usable channel IDs or names")
+            channels, programmes = write_filtered_guide(guide_url, ids, names, OUT / f"{name}.xml")
+            status["feeds"][name] = {"playlist_ids": len(ids), "playlist_names": len(names), "guide_channels": channels, "programmes": programmes, "url": guide_url}
+            logging.info("%s: %d channel IDs, %d names, %d guide channels, %d programmes", name, len(ids), len(names), channels, programmes)
             if programmes == 0:
                 failed.append(name)
         except Exception as exc:

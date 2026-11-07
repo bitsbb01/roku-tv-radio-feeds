@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: refresh-roku-guides
+  group: refresh-roku-tv-radio-feeds
   cancel-in-progress: false
 
 jobs:

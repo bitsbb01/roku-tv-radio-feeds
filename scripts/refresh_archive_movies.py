@@ -28,6 +28,22 @@ def clean(value: object) -> str:
 def make_entry(doc: dict) -> tuple[str, str] | None:
     identifier = clean(doc.get("identifier"))
     license_url = clean(doc.get("licenseurl"))
+    title = clean(doc.get("title"))
+    try:
+        year = int(clean(doc.get("year")))
+    except (TypeError, ValueError):
+        return None
+
+    # Limit the first Roku catalog to vintage titles, avoiding mislabeled
+    # recent user uploads and short-form template videos in Archive search.
+    reject_title = re.compile(
+        r"capcut|template|instagram|tiktok|download|transition|trend|"
+        r"publicvideos|videoplay|online video cutter|full series|trailer|"
+        r"miniaturas|song.?template",
+        re.I,
+    )
+    if year < 1900 or year > 1969 or reject_title.search(title):
+        return None
     if not identifier or "publicdomain" not in license_url.lower():
         return None
 
@@ -66,9 +82,9 @@ def make_entry(doc: dict) -> tuple[str, str] | None:
         return None
 
     filename = sorted(choices, reverse=True)[0][1]
-    title = clean(doc.get("title")) or identifier
-    year = clean(doc.get("year"))
-    if year and year not in title:
+    title = title or identifier
+    year = str(year)
+    if year not in title:
         title = f"{title} ({year})"
     logo = f"https://archive.org/services/img/{quote(identifier, safe='')}"
     stream = f"https://archive.org/download/{quote(identifier, safe='')}/{quote(filename, safe='/')}"

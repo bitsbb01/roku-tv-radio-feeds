@@ -31,7 +31,7 @@ BASE = "https://raw.githubusercontent.com/BuddyChewChew"
 SOURCES = {
     "main": (MAIN, "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"),
     "pluto": (f"{BASE}/app-m3u-generator/main/playlists/plutotv_all.m3u", "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"),
-    "tubi": (f"{BASE}/app-m3u-generator/main/playlists/tubi_all.m3u", f"{BASE}/app-m3u-generator/main/playlists/tubi_epg.xml"),
+    "tubi": (f"{BASE}/app-m3u-generator/main/playlists/tubi_all.m3u", None),
     "localnow": ("https://www.apsattv.com/localnow.m3u", f"{BASE}/localnow-playlist-generator/main/epg.xml"),
     "xumo": (f"{BASE}/xumo-playlist-generator/main/playlists/xumo_playlist.m3u", f"{BASE}/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"),
     "airy": (f"{BASE}/airy-playlist-generator/main/airy_channels.m3u", f"{BASE}/airy-playlist-generator/main/airy_channels.xml"),
@@ -81,6 +81,10 @@ def playlist_metadata(url: str) -> tuple[set[str], set[str]]:
             if title:
                 names.add(normalize_name(title))
     return ids, {name for name in names if name}
+
+def write_empty_guide(destination: Path) -> None:
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text('<?xml version="1.0" encoding="UTF-8"?>\\n<tv generator-info-name="JGJG Roku Guide"></tv>\\n', encoding="utf-8")
 
 def local_time(value: str) -> datetime | None:
     match = re.match(r"^(\d{14})", value or "")
@@ -157,6 +161,11 @@ def main() -> int:
     failed = []
     for name, (playlist_url, guide_url) in SOURCES.items():
         try:
+            if guide_url is None:
+                write_empty_guide(OUT / f"{name}.xml")
+                status["feeds"][name] = {"playlist_ids": 0, "guide_channels": 0, "programmes": 0, "note": "No XMLTV schedule is published for this playlist; the app should show No Guide Available."}
+                logging.info("%s: upstream guide is unavailable; publishing a valid empty XMLTV document", name)
+                continue
             ids, names = playlist_metadata(playlist_url)
             if not ids and not names:
                 raise RuntimeError("playlist contains no usable channel IDs or names")

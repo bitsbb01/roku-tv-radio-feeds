@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: refresh-iptvcat-feeds
+  group: refresh-roku-tv-radio-feeds
   cancel-in-progress: false
 
 jobs:

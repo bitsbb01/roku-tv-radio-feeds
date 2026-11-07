@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "playlists"
 MAX_PAGES = 100
-MAX_WORKERS = 3
+MAX_WORKERS = 8
 MIN_ENTRIES = {"usa": 400, "canada": 100, "uk": 100}
 COUNTRIES = {
     "usa": {
@@ -150,7 +150,7 @@ def parse_m3u(text: str) -> list[PlaylistEntry]:
 
 def fetch_entry(item: tuple[int, str]) -> tuple[str, list[PlaylistEntry]]:
     index, url = item
-    time.sleep(0.25)
+    time.sleep(0.15)
     try:
         entries = parse_m3u(get_text(url))
         return url, entries

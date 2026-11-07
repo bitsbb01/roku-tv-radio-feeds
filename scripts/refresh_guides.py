@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import gzip
 import logging
+import os
 import re
 import sys
 import time
@@ -88,8 +89,9 @@ def write_filtered_guide(url: str, ids: set[str], destination: Path) -> tuple[in
     earliest, latest = now - timedelta(hours=3), now + timedelta(days=2)
     channels = programmes = 0
     destination.parent.mkdir(parents=True, exist_ok=True)
+    temporary = destination.with_suffix(".xml.tmp")
     try:
-        with destination.open("wb") as output:
+        with temporary.open("wb") as output:
             output.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="JGJG Roku Guide">\n')
             for _, element in ET.iterparse(source, events=("end",)):
                 tag = element.tag.rsplit("}", 1)[-1].lower()
@@ -113,8 +115,13 @@ def write_filtered_guide(url: str, ids: set[str], destination: Path) -> tuple[in
                 if output.tell() > 90_000_000:
                     raise RuntimeError(f"{destination.name} exceeded the 90 MB output safety limit")
             output.write(b"</tv>\n")
+        if programmes == 0:
+            raise RuntimeError("guide file contains no matching current programmes")
+        os.replace(temporary, destination)
     finally:
         response.close()
+        if temporary.exists():
+            temporary.unlink()
     return channels, programmes
 
 def main() -> int:

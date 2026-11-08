@@ -1,26 +1,26 @@
 {
   "source": "IPTV Cat public country listings",
-  "updated_at_utc": "2026-11-07T11:45:37+00:00",
+  "updated_at_utc": "2026-11-08T11:57:07+00:00",
   "countries": {
     "usa": {
       "name": "United States",
-      "pages": 31,
-      "download_links": 3051,
-      "channels": 3051,
+      "pages": 37,
+      "download_links": 3684,
+      "channels": 3684,
       "feed": "playlists/usa.m3u8"
     },
     "canada": {
       "name": "Canada",
       "pages": 7,
-      "download_links": 613,
-      "channels": 613,
+      "download_links": 649,
+      "channels": 649,
       "feed": "playlists/canada.m3u8"
     },
     "uk": {
       "name": "United Kingdom",
-      "pages": 5,
-      "download_links": 409,
-      "channels": 409,
+      "pages": 6,
+      "download_links": 588,
+      "channels": 588,
       "feed": "playlists/uk.m3u8"
     }
   },
@@ -29,5 +29,5 @@
     "feed": "playlists/archive_movies.m3u8",
     "filter": "Uploader-assigned public-domain license label"
   },
-  "combined_channels": 4073
+  "combined_channels": 4921
 }

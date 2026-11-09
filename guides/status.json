@@ -1,15 +1,18 @@
 {
-  "updated_at_utc": "2026-11-08T14:28:17+00:00",
+  "updated_at_utc": "2026-11-09T17:46:18+00:00",
   "feeds": {
     "main": {
       "playlist_ids": 229,
       "playlist_names": 402,
       "guide_channels": 797,
-      "programmes": 50826,
+      "programmes": 52710,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "pluto": {
-      "error": "Failed to fetch https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_all.m3u: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_all.m3u",
+      "playlist_ids": 2620,
+      "playlist_names": 1586,
+      "guide_channels": 3050,
+      "programmes": 73777,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     },
     "tubi": {
@@ -26,7 +29,7 @@
       "playlist_ids": 433,
       "playlist_names": 433,
       "guide_channels": 433,
-      "programmes": 17104,
+      "programmes": 15754,
       "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
     },
     "airy": {
@@ -42,14 +45,17 @@
       "url": "https://raw.githubusercontent.com/doms9/iptv/default/M3U8/TV.xml"
     },
     "plex_live": {
-      "error": "Failed to fetch https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_all.m3u: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_all.m3u",
+      "playlist_ids": 2882,
+      "playlist_names": 940,
+      "guide_channels": 2882,
+      "programmes": 103449,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
     },
     "roku": {
       "playlist_ids": 251,
       "playlist_names": 251,
-      "guide_channels": 250,
-      "programmes": 15765,
+      "guide_channels": 249,
+      "programmes": 15884,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
     },
     "tcl": {
@@ -57,24 +63,24 @@
       "url": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main/tcl_epg.xml"
     },
     "country_us": {
-      "playlist_ids": 1504,
-      "playlist_names": 1501,
+      "playlist_ids": 1502,
+      "playlist_names": 1499,
       "guide_channels": 20,
-      "programmes": 1116,
+      "programmes": 1165,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_ca": {
       "playlist_ids": 267,
       "playlist_names": 267,
       "guide_channels": 26,
-      "programmes": 1917,
+      "programmes": 2031,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_uk": {
-      "playlist_ids": 306,
-      "playlist_names": 306,
+      "playlist_ids": 307,
+      "playlist_names": 307,
       "guide_channels": 22,
-      "programmes": 781,
+      "programmes": 808,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     }
   }

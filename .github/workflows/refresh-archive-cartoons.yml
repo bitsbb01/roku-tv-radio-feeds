@@ -40,5 +40,19 @@ jobs:
             echo "Archive cartoon catalogue has no changes."
           else
             git commit -m "Refresh Internet Archive cartoon review catalogue"
-            git push
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort || true
+                echo "Could not rebase generated changes onto origin/main." >&2
+                exit 1
+              fi
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              echo "Push raced with another feed refresh; retrying (attempt $attempt/5)."
+              sleep $((attempt * 2))
+            done
+            echo "Could not push generated changes after 5 attempts." >&2
+            exit 1
           fi

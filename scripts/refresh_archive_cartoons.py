@@ -200,13 +200,16 @@ def main() -> int:
             lines.extend(entry)
     OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
     logging.info("Wrote %d rights-reviewed Roku entries", (len(lines) - 1) // 2)
+    approved_playable_ids = {
+        identifier for identifier, entry in zip(approved, results) if entry
+    }
 
     preview_ids = []
     for item in candidates:
         license_url = clean(item.get("license_url")).lower()
         has_license_label = "publicdomain" in license_url or "creativecommons.org/licenses/" in license_url
         identifier = clean(item.get("identifier"), 160)
-        if has_license_label and identifier and identifier not in preview_ids:
+        if has_license_label and identifier and identifier not in approved_playable_ids and identifier not in preview_ids:
             preview_ids.append(identifier)
         if len(preview_ids) >= MAX_PREVIEW_ITEMS:
             break

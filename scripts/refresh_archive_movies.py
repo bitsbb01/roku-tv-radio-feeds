@@ -131,26 +131,37 @@ def make_entry(doc: dict) -> tuple[str, str] | None:
 
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
-    params = [
-        ("q", QUERY),
-        ("fl[]", "identifier"),
-        ("fl[]", "title"),
-        ("fl[]", "year"),
-        ("fl[]", "licenseurl"),
-        ("sort[]", "downloads desc"),
-        ("rows", "100"),
-        ("page", "1"),
-        ("output", "json"),
+    queries = [
+        QUERY,
+        # Mirrors the user's Archive movies collection search for "films".
+        "collection:movies AND mediatype:movies AND films AND licenseurl:http*publicdomain*",
     ]
-    response = requests.get(
-        "https://archive.org/advancedsearch.php",
-        params=params,
-        headers=HEADERS,
-        timeout=(15, 45),
-    )
-    response.raise_for_status()
-    docs = (response.json().get("response") or {}).get("docs") or []
-    logging.info("Archive search returned %d candidates", len(docs))
+    docs_by_id = {}
+    for query in queries:
+        params = [
+            ("q", query),
+            ("fl[]", "identifier"),
+            ("fl[]", "title"),
+            ("fl[]", "year"),
+            ("fl[]", "licenseurl"),
+            ("sort[]", "downloads desc"),
+            ("rows", "100"),
+            ("page", "1"),
+            ("output", "json"),
+        ]
+        response = requests.get(
+            "https://archive.org/advancedsearch.php",
+            params=params,
+            headers=HEADERS,
+            timeout=(15, 45),
+        )
+        response.raise_for_status()
+        for doc in (response.json().get("response") or {}).get("docs") or []:
+            identifier = clean(doc.get("identifier"))
+            if identifier:
+                docs_by_id.setdefault(identifier, doc)
+    docs = list(docs_by_id.values())
+    logging.info("Archive searches returned %d unique candidates", len(docs))
 
     results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:

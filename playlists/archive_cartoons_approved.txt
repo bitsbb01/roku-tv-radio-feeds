@@ -1,0 +1,2 @@
+# Add one Internet Archive identifier per line after reviewing its rights and Roku-compatible file.
+# Candidate titles and uploader-provided rights URLs are published in archive_cartoons_review.json.

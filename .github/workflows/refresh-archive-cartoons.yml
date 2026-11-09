@@ -1,0 +1,44 @@
+name: Refresh Internet Archive Cartoons
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 8 * * *"
+  push:
+    paths:
+      - "scripts/refresh_archive_cartoons.py"
+      - ".github/workflows/refresh-archive-cartoons.yml"
+      - "playlists/archive_cartoons_approved.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-cartoons-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out feed repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install feed dependency
+        run: python -m pip install requests
+      - name: Build review catalogue and approved playlist
+        run: python scripts/refresh_archive_cartoons.py
+      - name: Commit refreshed catalogue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists/archive_cartoons_review.json playlists/archive_cartoons.m3u8
+          if git diff --cached --quiet; then
+            echo "Archive cartoon catalogue has no changes."
+          else
+            git commit -m "Refresh Internet Archive cartoon review catalogue"
+            git push
+          fi

@@ -1,0 +1,5 @@
+{
+  "source": "Internet Archive Advanced Search",
+  "query": "mediatype:movies AND (subject:cartoon OR subject:animation OR title:cartoon OR title:animation)",
+  "items": []
+}

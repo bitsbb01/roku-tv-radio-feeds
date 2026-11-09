@@ -20,6 +20,8 @@ CANDIDATES = ROOT / "playlists" / "archive_cartoons_review.json"
 APPROVED = ROOT / "playlists" / "archive_cartoons_approved.txt"
 OUTPUT = ROOT / "playlists" / "archive_cartoons.m3u8"
 PREVIEW = ROOT / "playlists" / "archive_cartoons_review.m3u8"
+COVERS = ROOT / "covers" / "ia-cartoons"
+RAW_COVERS = "https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons"
 HEADERS = {"User-Agent": "JGJG-TV-Radio-IA-Cartoons/1.0"}
 QUERY = (
     "mediatype:movies AND (subject:cartoon OR subject:animation "
@@ -88,6 +90,42 @@ def approved_identifiers() -> list[str]:
     return identifiers
 
 
+def cache_cover(identifier: str, record: dict) -> str:
+    """Download an IA item cover/thumbnail and return its stable feed URL."""
+    safe_id = re.sub(r"[^A-Za-z0-9._-]", "_", identifier)
+    names = []
+    for file_info in record.get("files") or []:
+        name = str(file_info.get("name") or "")
+        lower = name.lower()
+        if lower in {"__ia_thumb.jpg", "cover.jpg", "poster.jpg", "thumbnail.jpg"}:
+            names.append(name)
+    names.sort(key=lambda n: 0 if n.lower() == "__ia_thumb.jpg" else 1)
+    urls = [
+        f"https://archive.org/download/{quote(identifier, safe='')}/{quote(name, safe='/')}"
+        for name in names
+    ]
+    urls.append(f"https://archive.org/services/img/{quote(identifier, safe='')}")
+    for url in urls:
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=(15, 45))
+            if response.status_code != 200 or len(response.content) < 1024:
+                continue
+            content_type = response.headers.get("content-type", "").lower()
+            if "image/jpeg" in content_type:
+                extension = ".jpg"
+            elif "image/png" in content_type:
+                extension = ".png"
+            else:
+                continue
+            COVERS.mkdir(parents=True, exist_ok=True)
+            destination = COVERS / f"{safe_id}{extension}"
+            destination.write_bytes(response.content)
+            return f"{RAW_COVERS}/{quote(safe_id + extension, safe='')}"
+        except requests.RequestException as exc:
+            logging.debug("Could not fetch cover for %s from %s: %s", identifier, url, exc)
+    return f"https://archive.org/services/img/{quote(identifier, safe='')}"
+
+
 def playable_entry(identifier: str, preview: bool = False) -> tuple[str, str] | None:
     response = requests.get(
         f"https://archive.org/metadata/{quote(identifier, safe='')}",
@@ -132,7 +170,7 @@ def playable_entry(identifier: str, preview: bool = False) -> tuple[str, str] | 
 
     title = clean(metadata.get("title"), 250) or identifier
     filename = sorted(options, reverse=True)[0][1]
-    logo = f"https://archive.org/services/img/{quote(identifier, safe='')}"
+    logo = cache_cover(identifier, record)
     stream = f"https://archive.org/download/{quote(identifier, safe='')}/{quote(filename, safe='/')}"
     if preview:
         label = "PREVIEW ONLY - title and rights unverified"

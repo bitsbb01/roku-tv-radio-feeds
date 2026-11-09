@@ -1,237 +1,725 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ia-cartoon-ElephantsDream" tvg-logo="https://archive.org/services/img/ElephantsDream" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Elephants Dream
+#EXTINF:-1 tvg-id="ia-cartoon-ElephantsDream" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ElephantsDream.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/us/",Elephants Dream
 https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Popeye_forPresident" tvg-logo="https://archive.org/services/img/Popeye_forPresident" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Popeye for President
+#EXTINF:-1 tvg-id="ia-cartoon-Popeye_forPresident" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Popeye_forPresident.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Popeye for President
 https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-CaseofSp1940" tvg-logo="https://archive.org/services/img/CaseofSp1940" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Case of Spring Fever, A
+#EXTINF:-1 tvg-id="ia-cartoon-CaseofSp1940" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/CaseofSp1940.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Case of Spring Fever, A
 https://archive.org/download/CaseofSp1940/CaseofSp1940_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-DuckandC1951" tvg-logo="https://archive.org/services/img/DuckandC1951" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Duck and Cover
+#EXTINF:-1 tvg-id="ia-cartoon-DuckandC1951" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DuckandC1951.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Duck and Cover
 https://archive.org/download/DuckandC1951/DuckandC1951_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-spree_lunch" tvg-logo="https://archive.org/services/img/spree_lunch" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Spree Lunch
+#EXTINF:-1 tvg-id="ia-cartoon-spree_lunch" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/spree_lunch.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Spree Lunch
 https://archive.org/download/spree_lunch/spree_lunch_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Popeye_Nearlyweds" tvg-logo="https://archive.org/services/img/Popeye_Nearlyweds" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Popeye the Sailor: Nearlyweds
+#EXTINF:-1 tvg-id="ia-cartoon-Popeye_Nearlyweds" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Popeye_Nearlyweds.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Popeye the Sailor: Nearlyweds
 https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-gullivers_travels1939" tvg-logo="https://archive.org/services/img/gullivers_travels1939" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Gulliver's Travels
+#EXTINF:-1 tvg-id="ia-cartoon-gullivers_travels1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/gullivers_travels1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Gulliver's Travels
 https://archive.org/download/gullivers_travels1939/gullivers_travels1939_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version" tvg-logo="https://archive.org/services/img/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Digimon: Digital Monsters - The Complete Collection (Saban Entertainment - English dub)
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Digimon: Digital Monsters - The Complete Collection (Saban Entertainment - English dub)
 https://archive.org/download/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version/Digimon%20Digital%20Monsters%20-%202x50%20-%20A%20Million%20Points%20of%20Light%20%283%29.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-BettyBoopCartoons" tvg-logo="https://archive.org/services/img/BettyBoopCartoons" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop Cartoons
+#EXTINF:-1 tvg-id="ia-cartoon-BettyBoopCartoons" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/BettyBoopCartoons.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Betty Boop Cartoons
 https://archive.org/download/BettyBoopCartoons/The_Candid_Candidate_1937_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-MorePopeyeCartoons" tvg-logo="https://archive.org/services/img/MorePopeyeCartoons" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - More Popeye cartoons!
+#EXTINF:-1 tvg-id="ia-cartoon-MorePopeyeCartoons" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MorePopeyeCartoons.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",More Popeye cartoons!
 https://archive.org/download/MorePopeyeCartoons/TheCrystalBrawl_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-superman_1941" tvg-logo="https://archive.org/services/img/superman_1941" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Superman
+#EXTINF:-1 tvg-id="ia-cartoon-superman_1941" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/superman_1941.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Superman
 https://archive.org/download/superman_1941/superman_1941_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_snow_white" tvg-logo="https://archive.org/services/img/bb_snow_white" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Snow White
+#EXTINF:-1 tvg-id="ia-cartoon-bb_snow_white" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_snow_white.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Snow White
 https://archive.org/download/bb_snow_white/bb_snow_white_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-pdcartooncollection" tvg-logo="https://archive.org/services/img/pdcartooncollection" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - PD Cartoon Collection
+#EXTINF:-1 tvg-id="ia-cartoon-pdcartooncollection" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/pdcartooncollection.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",PD Cartoon Collection
 https://archive.org/download/pdcartooncollection/_HAPPY%20DAYS_%20%281936%29%20-%20Ub%20Iwerks%20cartoon.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-my-mother-the-animation-ova-sub-espanol" tvg-logo="https://archive.org/services/img/my-mother-the-animation-ova-sub-espanol" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - My Mother The Animation Ova Sub Español
+#EXTINF:-1 tvg-id="ia-cartoon-my-mother-the-animation-ova-sub-espanol" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/my-mother-the-animation-ova-sub-espanol.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",My Mother The Animation Ova Sub Español
 https://archive.org/download/my-mother-the-animation-ova-sub-espanol/My%20Mother%20The%20Animation%20Ova%20Sub%20Espa%C3%B1ol.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-JerkyTurkey1945" tvg-logo="https://archive.org/services/img/JerkyTurkey1945" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Jerky Turkey (1945)
+#EXTINF:-1 tvg-id="ia-cartoon-JerkyTurkey1945" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/JerkyTurkey1945.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Jerky Turkey (1945)
 https://archive.org/download/JerkyTurkey1945/Jerky_Turkey_1945_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_minnie_the_moocher" tvg-logo="https://archive.org/services/img/bb_minnie_the_moocher" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Minnie The Moocher
+#EXTINF:-1 tvg-id="ia-cartoon-bb_minnie_the_moocher" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_minnie_the_moocher.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Minnie The Moocher
 https://archive.org/download/bb_minnie_the_moocher/bb_minnie_the_moocher_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Popeye_meetsSinbadtheSailor" tvg-logo="https://archive.org/services/img/Popeye_meetsSinbadtheSailor" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Popeye the Sailor meets Sinbad the Sailor
+#EXTINF:-1 tvg-id="ia-cartoon-Popeye_meetsSinbadtheSailor" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Popeye_meetsSinbadtheSailor.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Popeye the Sailor meets Sinbad the Sailor
 https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-KelloggsSugarFrostedFlakesCereal1976" tvg-logo="https://archive.org/services/img/KelloggsSugarFrostedFlakesCereal1976" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Kellogg's Sugar Frosted Flakes Cereal
+#EXTINF:-1 tvg-id="ia-cartoon-KelloggsSugarFrostedFlakesCereal1976" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/KelloggsSugarFrostedFlakesCereal1976.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Kellogg's Sugar Frosted Flakes Cereal
 https://archive.org/download/KelloggsSugarFrostedFlakesCereal1976/Kellogg%27s%20Sugar%20Frosted%20Flakes%20Cereal%20%281976%29.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-ThisLandIsMine" tvg-logo="https://archive.org/services/img/ThisLandIsMine" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - This Land Is Mine
+#EXTINF:-1 tvg-id="ia-cartoon-ThisLandIsMine" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ThisLandIsMine.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-sa/3.0/",This Land Is Mine
 https://archive.org/download/ThisLandIsMine/TLIM_5_H264.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-A_Bosko_Cartoon_Collection_1930-1932" tvg-logo="https://archive.org/services/img/A_Bosko_Cartoon_Collection_1930-1932" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - A Bosko Cartoon Collection
+#EXTINF:-1 tvg-id="ia-cartoon-A_Bosko_Cartoon_Collection_1930-1932" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/A_Bosko_Cartoon_Collection_1930-1932.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",A Bosko Cartoon Collection
 https://archive.org/download/A_Bosko_Cartoon_Collection_1930-1932/10_Bosko_and_Honey_1932_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-BabyKids" tvg-logo="https://archive.org/services/img/BabyKids" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - BabyKids
+#EXTINF:-1 tvg-id="ia-cartoon-BabyKids" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/BabyKids.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",BabyKids
 https://archive.org/download/BabyKids/T.do.Qrubim.LHMTv.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-haul_in_one" tvg-logo="https://archive.org/services/img/haul_in_one" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Haul in One, A
+#EXTINF:-1 tvg-id="ia-cartoon-haul_in_one" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/haul_in_one.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Haul in One, A
 https://archive.org/download/haul_in_one/haul_in_one_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-SOLDIER" tvg-logo="https://archive.org/services/img/SOLDIER" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - THE BRAVE TIN SOLDIER
+#EXTINF:-1 tvg-id="ia-cartoon-SOLDIER" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SOLDIER.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",THE BRAVE TIN SOLDIER
 https://archive.org/download/SOLDIER/SOLDIER_64k.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-little_sweepea" tvg-logo="https://archive.org/services/img/little_sweepea" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Little Swee' Pea
+#EXTINF:-1 tvg-id="ia-cartoon-little_sweepea" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/little_sweepea.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Little Swee' Pea
 https://archive.org/download/little_sweepea/little_sweepea_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-FantasticPlanetTrailer" tvg-logo="https://archive.org/services/img/FantasticPlanetTrailer" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - FANTASTIC PLANET trailer
+#EXTINF:-1 tvg-id="ia-cartoon-FantasticPlanetTrailer" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/FantasticPlanetTrailer.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",FANTASTIC PLANET trailer
 https://archive.org/download/FantasticPlanetTrailer/FantasticPlanetTrailer.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-taxi-turvy" tvg-logo="https://archive.org/services/img/taxi-turvy" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Taxi-Turvy
+#EXTINF:-1 tvg-id="ia-cartoon-taxi-turvy" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/taxi-turvy.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Taxi-Turvy
 https://archive.org/download/taxi-turvy/taxi-turvy_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-RideforC1937" tvg-logo="https://archive.org/services/img/RideforC1937" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Ride for Cinderella, A
+#EXTINF:-1 tvg-id="ia-cartoon-RideforC1937" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/RideforC1937.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Ride for Cinderella, A
 https://archive.org/download/RideforC1937/RideforC1937_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-insect_to_injury" tvg-logo="https://archive.org/services/img/insect_to_injury" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Insect to Injury
+#EXTINF:-1 tvg-id="ia-cartoon-insect_to_injury" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/insect_to_injury.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Insect to Injury
 https://archive.org/download/insect_to_injury/insect_to_injury_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-shuteye_popeye" tvg-logo="https://archive.org/services/img/shuteye_popeye" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Shuteye Popeye
+#EXTINF:-1 tvg-id="ia-cartoon-shuteye_popeye" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/shuteye_popeye.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Shuteye Popeye
 https://archive.org/download/shuteye_popeye/shuteye_popeye_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-isforAto1953" tvg-logo="https://archive.org/services/img/isforAto1953" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - A is for Atom
+#EXTINF:-1 tvg-id="ia-cartoon-isforAto1953" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/isforAto1953.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",A is for Atom
 https://archive.org/download/isforAto1953/isforAto1953_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-im_in_the_army_now" tvg-logo="https://archive.org/services/img/im_in_the_army_now" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - I'm in the Army Now
+#EXTINF:-1 tvg-id="ia-cartoon-im_in_the_army_now" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/im_in_the_army_now.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",I'm in the Army Now
 https://archive.org/download/im_in_the_army_now/im_in_the_army_now_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-GoingPla1948" tvg-logo="https://archive.org/services/img/GoingPla1948" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Going Places
+#EXTINF:-1 tvg-id="ia-cartoon-GoingPla1948" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/GoingPla1948.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Going Places
 https://archive.org/download/GoingPla1948/GoingPla1948_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_and_grampy" tvg-logo="https://archive.org/services/img/bb_and_grampy" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop And Grampy
+#EXTINF:-1 tvg-id="ia-cartoon-bb_and_grampy" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_and_grampy.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop And Grampy
 https://archive.org/download/bb_and_grampy/bb_and_grampy_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-WhyPlayL1949" tvg-logo="https://archive.org/services/img/WhyPlayL1949" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Why Play Leap Frog?
+#EXTINF:-1 tvg-id="ia-cartoon-WhyPlayL1949" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WhyPlayL1949.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Why Play Leap Frog?
 https://archive.org/download/WhyPlayL1949/WhyPlayL1949_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-RudolphTheRed-nosedReindeer1948" tvg-logo="https://archive.org/services/img/RudolphTheRed-nosedReindeer1948" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Rudolph The Red-Nosed Reindeer (1948)
+#EXTINF:-1 tvg-id="ia-cartoon-RudolphTheRed-nosedReindeer1948" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/RudolphTheRed-nosedReindeer1948.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Rudolph The Red-Nosed Reindeer (1948)
 https://archive.org/download/RudolphTheRed-nosedReindeer1948/RudolphTheRed-nosedReindeer1948_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Physical1953" tvg-logo="https://archive.org/services/img/Physical1953" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Physical Aspects of Puberty
+#EXTINF:-1 tvg-id="ia-cartoon-Physical1953" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Physical1953.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Physical Aspects of Puberty
 https://archive.org/download/Physical1953/Physical1953_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-pokemon-indigo-league-season-1-1998" tvg-logo="https://archive.org/services/img/pokemon-indigo-league-season-1-1998" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Pokémon: Indigo League - The Complete Collection (1997-99, English dub)
+#EXTINF:-1 tvg-id="ia-cartoon-pokemon-indigo-league-season-1-1998" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/pokemon-indigo-league-season-1-1998.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Pokémon: Indigo League - The Complete Collection (1997-99, English dub)
 https://archive.org/download/pokemon-indigo-league-season-1-1998/%5BAnimeRG%5D%20Pok%C3%A9mon%20-%200058%20-%20The%20Ultimate%20Test%20%5B480p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Breakfas1939" tvg-logo="https://archive.org/services/img/Breakfas1939" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Breakfast Pals
+#EXTINF:-1 tvg-id="ia-cartoon-Breakfas1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Breakfas1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Breakfast Pals
 https://archive.org/download/Breakfas1939/Breakfas1939_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-GulliversTravels720p_652" tvg-logo="https://archive.org/services/img/GulliversTravels720p_652" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Gulliver's Travels [720p]
+#EXTINF:-1 tvg-id="ia-cartoon-GulliversTravels720p_652" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/GulliversTravels720p_652.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Gulliver's Travels [720p]
 https://archive.org/download/GulliversTravels720p_652/GulliversTravels_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-LuckyStr1948_2" tvg-logo="https://archive.org/services/img/LuckyStr1948_2" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Lucky Strike Cigarette Commercial: Square Dance
+#EXTINF:-1 tvg-id="ia-cartoon-LuckyStr1948_2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LuckyStr1948_2.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Lucky Strike Cigarette Commercial: Square Dance
 https://archive.org/download/LuckyStr1948_2/LuckyStr1948_2_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-digimon-tamers-the-complete-collection-saban-entertainment-edited-version" tvg-logo="https://archive.org/services/img/digimon-tamers-the-complete-collection-saban-entertainment-edited-version" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Digimon Tamers - The Complete Collection (Saban Entertainment - English dub)
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-tamers-the-complete-collection-saban-entertainment-edited-version" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-tamers-the-complete-collection-saban-entertainment-edited-version.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Digimon Tamers - The Complete Collection (Saban Entertainment - English dub)
 https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/51%20-%20Such%20Sweet%20Sorrow.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-HowtheEy1941" tvg-logo="https://archive.org/services/img/HowtheEy1941" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - How the Eye Functions
+#EXTINF:-1 tvg-id="ia-cartoon-HowtheEy1941" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/HowtheEy1941.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",How the Eye Functions
 https://archive.org/download/HowtheEy1941/HowtheEy1941_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-SantasSuprise" tvg-logo="https://archive.org/services/img/SantasSuprise" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Santa's Surprise
+#EXTINF:-1 tvg-id="ia-cartoon-SantasSuprise" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SantasSuprise.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Santa's Surprise
 https://archive.org/download/SantasSuprise/SantasSuprise_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-phantomjuggler50" tvg-logo="https://archive.org/services/img/phantomjuggler50" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Phantom Juggler of Cleethorpes Pier (2016)
+#EXTINF:-1 tvg-id="ia-cartoon-phantomjuggler50" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/phantomjuggler50.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",The Phantom Juggler of Cleethorpes Pier (2016)
 https://archive.org/download/phantomjuggler50/phantomjuggler50.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TheSpiritOf43_56" tvg-logo="https://archive.org/services/img/TheSpiritOf43_56" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Spirit of '43
+#EXTINF:-1 tvg-id="ia-cartoon-TheSpiritOf43_56" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheSpiritOf43_56.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Spirit of '43
 https://archive.org/download/TheSpiritOf43_56/The_Spirit_of__43_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-The_Curious_Adventures_of_Mr._Wonderbird" tvg-logo="https://archive.org/services/img/The_Curious_Adventures_of_Mr._Wonderbird" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Curious Adventures of Mr. Wonderbird
+#EXTINF:-1 tvg-id="ia-cartoon-The_Curious_Adventures_of_Mr._Wonderbird" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/The_Curious_Adventures_of_Mr._Wonderbird.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Curious Adventures of Mr. Wonderbird
 https://archive.org/download/The_Curious_Adventures_of_Mr._Wonderbird/The_Curious_Adventures_of_Mr._Wonderbird_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-JackFrost_" tvg-logo="https://archive.org/services/img/JackFrost_" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Jack Frost
+#EXTINF:-1 tvg-id="ia-cartoon-JackFrost_" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/JackFrost_.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Jack Frost
 https://archive.org/download/JackFrost_/JackFrost_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-the_snow_queen_1959_animation" tvg-logo="https://archive.org/services/img/the_snow_queen_1959_animation" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Snow Queen (Animation)
+#EXTINF:-1 tvg-id="ia-cartoon-the_snow_queen_1959_animation" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/the_snow_queen_1959_animation.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Snow Queen (Animation)
 https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-GoldRushDaze" tvg-logo="https://archive.org/services/img/GoldRushDaze" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Gold Rush Daze
+#EXTINF:-1 tvg-id="ia-cartoon-GoldRushDaze" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/GoldRushDaze.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Gold Rush Daze
 https://archive.org/download/GoldRushDaze/goldrushdaze_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-WWTVSeries20072011" tvg-logo="https://archive.org/services/img/WWTVSeries20072011" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - WordWorld - TV Series (2007 - 2011)
+#EXTINF:-1 tvg-id="ia-cartoon-WWTVSeries20072011" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WWTVSeries20072011.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",WordWorld - TV Series (2007 - 2011)
 https://archive.org/download/WWTVSeries20072011/WordWorld.S01E37E38.The.Race.to.Mystery.Island-A.Star.is.Born.1080p.Amazon.WEB-DL.DD.2.0.H.264-QOQ.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-digimon-frontier-the-complete-collection-edited-version" tvg-logo="https://archive.org/services/img/digimon-frontier-the-complete-collection-edited-version" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Digimon Frontier - The Complete Collection (Saban Entertainment - English dub)
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-frontier-the-complete-collection-edited-version" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-frontier-the-complete-collection-edited-version.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Digimon Frontier - The Complete Collection (Saban Entertainment - English dub)
 https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/50%20-%20End%20Of%20Time.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-EarthImpact" tvg-logo="https://archive.org/services/img/EarthImpact" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Earth asteroid impact animation.
+#EXTINF:-1 tvg-id="ia-cartoon-EarthImpact" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/EarthImpact.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/2.5/",Earth asteroid impact animation.
 https://archive.org/download/EarthImpact/EarthImpactSml_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Pingu_Season_1to6" tvg-logo="https://archive.org/services/img/Pingu_Season_1to6" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Pingu Seasons 1 to 6
+#EXTINF:-1 tvg-id="ia-cartoon-Pingu_Season_1to6" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Pingu_Season_1to6.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Pingu Seasons 1 to 6
 https://archive.org/download/Pingu_Season_1to6/aaf-pingu.special.pingu.at.the.wedding.party.dvdrip.xvid.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-UnderseaWords-TheLetterA" tvg-logo="https://archive.org/services/img/UnderseaWords-TheLetterA" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Undersea Words - The Letter A
+#EXTINF:-1 tvg-id="ia-cartoon-UnderseaWords-TheLetterA" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/UnderseaWords-TheLetterA.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/us/",Undersea Words - The Letter A
 https://archive.org/download/UnderseaWords-TheLetterA/UnderseaWords1_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-arctic_giant" tvg-logo="https://archive.org/services/img/arctic_giant" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Arctic Giant, The
+#EXTINF:-1 tvg-id="ia-cartoon-arctic_giant" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/arctic_giant.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Arctic Giant, The
 https://archive.org/download/arctic_giant/arctic_giant_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Popeye_ThePanelessWindowWasher" tvg-logo="https://archive.org/services/img/Popeye_ThePanelessWindowWasher" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Popeye: The Paneless Window Washer
+#EXTINF:-1 tvg-id="ia-cartoon-Popeye_ThePanelessWindowWasher" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Popeye_ThePanelessWindowWasher.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Popeye: The Paneless Window Washer
 https://archive.org/download/Popeye_ThePanelessWindowWasher/Popeye_ThePanelessWindowWasher_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_bamboo_isle" tvg-logo="https://archive.org/services/img/bb_bamboo_isle" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Bamboo Isle
+#EXTINF:-1 tvg-id="ia-cartoon-bb_bamboo_isle" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_bamboo_isle.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Bamboo Isle
 https://archive.org/download/bb_bamboo_isle/bb_bamboo_isle_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-SantaandtheThreeBears" tvg-logo="https://archive.org/services/img/SantaandtheThreeBears" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Santa and the Three Bears
+#EXTINF:-1 tvg-id="ia-cartoon-SantaandtheThreeBears" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SantaandtheThreeBears.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Santa and the Three Bears
 https://archive.org/download/SantaandtheThreeBears/SantaandtheThreeBears_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TheLostDream1949" tvg-logo="https://archive.org/services/img/TheLostDream1949" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Lost Dream (1949)
+#EXTINF:-1 tvg-id="ia-cartoon-TheLostDream1949" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheLostDream1949.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",The Lost Dream (1949)
 https://archive.org/download/TheLostDream1949/Little_Audrey_The_Lost_Dream_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Welcome2DriveIn" tvg-logo="https://archive.org/services/img/Welcome2DriveIn" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Welcome Animation (from Drive-In Movie Ads)
+#EXTINF:-1 tvg-id="ia-cartoon-Welcome2DriveIn" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Welcome2DriveIn.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Welcome Animation (from Drive-In Movie Ads)
 https://archive.org/download/Welcome2DriveIn/welcome_animation.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_ill_be_glad_when_youre_dead" tvg-logo="https://archive.org/services/img/bb_ill_be_glad_when_youre_dead" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: I'll Be Glad When You're Dead, You Rascal You
+#EXTINF:-1 tvg-id="ia-cartoon-bb_ill_be_glad_when_youre_dead" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_ill_be_glad_when_youre_dead.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: I'll Be Glad When You're Dead, You Rascal You
 https://archive.org/download/bb_ill_be_glad_when_youre_dead/bb_ill_be_glad_when_youre_dead_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-InMyMerr1932" tvg-logo="https://archive.org/services/img/InMyMerr1932" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - In My Merry Oldsmobile
+#EXTINF:-1 tvg-id="ia-cartoon-InMyMerr1932" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/InMyMerr1932.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",In My Merry Oldsmobile
 https://archive.org/download/InMyMerr1932/InMyMerr1932_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-HowaWatc1949" tvg-logo="https://archive.org/services/img/HowaWatc1949" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - How a Watch Works
+#EXTINF:-1 tvg-id="ia-cartoon-HowaWatc1949" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/HowaWatc1949.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",How a Watch Works
 https://archive.org/download/HowaWatc1949/HowaWatc1949_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-ItsEvery1954" tvg-logo="https://archive.org/services/img/ItsEvery1954" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - It's Everybody's Business
+#EXTINF:-1 tvg-id="ia-cartoon-ItsEvery1954" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ItsEvery1954.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",It's Everybody's Business
 https://archive.org/download/ItsEvery1954/ItsEvery1954_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-LuckyStr1948" tvg-logo="https://archive.org/services/img/LuckyStr1948" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Lucky Strike Cigarette Commercial: Marching Cigarettes
+#EXTINF:-1 tvg-id="ia-cartoon-LuckyStr1948" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LuckyStr1948.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Lucky Strike Cigarette Commercial: Marching Cigarettes
 https://archive.org/download/LuckyStr1948/LuckyStr1948_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Felix_BoldKingCole" tvg-logo="https://archive.org/services/img/Felix_BoldKingCole" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Felix the Cat in Bold King Cole
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_BoldKingCole" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_BoldKingCole.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix the Cat in Bold King Cole
 https://archive.org/download/Felix_BoldKingCole/Felix_BoldKingCole_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_rise_to_fame" tvg-logo="https://archive.org/services/img/bb_rise_to_fame" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop's Rise To Fame
+#EXTINF:-1 tvg-id="ia-cartoon-bb_rise_to_fame" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_rise_to_fame.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop's Rise To Fame
 https://archive.org/download/bb_rise_to_fame/bb_rise_to_fame_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_and_the_little_king" tvg-logo="https://archive.org/services/img/bb_and_the_little_king" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop And The Little King
+#EXTINF:-1 tvg-id="ia-cartoon-bb_and_the_little_king" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_and_the_little_king.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop And The Little King
 https://archive.org/download/bb_and_the_little_king/bb_and_the_little_king_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_be_human" tvg-logo="https://archive.org/services/img/bb_be_human" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Be Human
+#EXTINF:-1 tvg-id="ia-cartoon-bb_be_human" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_be_human.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Be Human
 https://archive.org/download/bb_be_human/bb_be_human_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-NoahsArk_793" tvg-logo="https://archive.org/services/img/NoahsArk_793" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Noah's Ark
+#EXTINF:-1 tvg-id="ia-cartoon-NoahsArk_793" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/NoahsArk_793.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Noah's Ark
 https://archive.org/download/NoahsArk_793/NoahsArk_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-destruction_inc" tvg-logo="https://archive.org/services/img/destruction_inc" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Destruction Inc.
+#EXTINF:-1 tvg-id="ia-cartoon-destruction_inc" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/destruction_inc.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Destruction Inc.
 https://archive.org/download/destruction_inc/destruction_inc_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_big_boss" tvg-logo="https://archive.org/services/img/bb_big_boss" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop's Big Boss
+#EXTINF:-1 tvg-id="ia-cartoon-bb_big_boss" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_big_boss.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop's Big Boss
 https://archive.org/download/bb_big_boss/bb_big_boss_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-secret_agent" tvg-logo="https://archive.org/services/img/secret_agent" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Secret Agent
+#EXTINF:-1 tvg-id="ia-cartoon-secret_agent" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/secret_agent.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Secret Agent
 https://archive.org/download/secret_agent/secret_agent_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-FindingH1929" tvg-logo="https://archive.org/services/img/FindingH1929" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Finding his voice : an animated cartoon synchronized to voice & sound
+#EXTINF:-1 tvg-id="ia-cartoon-FindingH1929" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/FindingH1929.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Finding his voice : an animated cartoon synchronized to voice & sound
 https://archive.org/download/FindingH1929/FindingH1929_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-camp-lazlo-s-03-e-01-hello-summer-goodbye-camp-301" tvg-logo="https://archive.org/services/img/camp-lazlo-s-03-e-01-hello-summer-goodbye-camp-301" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Camp Lazlo All Episodes HD (+Shorts)
+#EXTINF:-1 tvg-id="ia-cartoon-camp-lazlo-s-03-e-01-hello-summer-goodbye-camp-301" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/camp-lazlo-s-03-e-01-hello-summer-goodbye-camp-301.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nd/4.0/",Camp Lazlo All Episodes HD (+Shorts)
 https://archive.org/download/camp-lazlo-s-03-e-01-hello-summer-goodbye-camp-301/Camp%20Lazlo%20Episodes/Season%205/Camp%20Lazlo%20-%20S05E18%20-%20Kamp%20Kringle%20-%20%28509%29.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_betty_in_blunderland" tvg-logo="https://archive.org/services/img/bb_betty_in_blunderland" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Betty in Blunderland
+#EXTINF:-1 tvg-id="ia-cartoon-bb_betty_in_blunderland" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_betty_in_blunderland.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Betty in Blunderland
 https://archive.org/download/bb_betty_in_blunderland/bb_betty_in_blunderland_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-JustImag1947" tvg-logo="https://archive.org/services/img/JustImag1947" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Just Imagine
+#EXTINF:-1 tvg-id="ia-cartoon-JustImag1947" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/JustImag1947.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Just Imagine
 https://archive.org/download/JustImag1947/JustImag1947_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_old_man_of_the_mountain" tvg-logo="https://archive.org/services/img/bb_old_man_of_the_mountain" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: The Old Man Of The Mountain
+#EXTINF:-1 tvg-id="ia-cartoon-bb_old_man_of_the_mountain" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_old_man_of_the_mountain.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: The Old Man Of The Mountain
 https://archive.org/download/bb_old_man_of_the_mountain/bb_old_man_of_the_mountain_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Superman-1941" tvg-logo="https://archive.org/services/img/Superman-1941" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Superman-1941
+#EXTINF:-1 tvg-id="ia-cartoon-Superman-1941" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Superman-1941.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Superman-1941
 https://archive.org/download/Superman-1941/Cartoon-SupermanBLP-VCD.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_chess_nuts" tvg-logo="https://archive.org/services/img/bb_chess_nuts" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Chess Nuts
+#EXTINF:-1 tvg-id="ia-cartoon-bb_chess_nuts" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_chess_nuts.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Chess Nuts
 https://archive.org/download/bb_chess_nuts/bb_chess_nuts_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Popeye_BrideandGloom" tvg-logo="https://archive.org/services/img/Popeye_BrideandGloom" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Popeye: Bride and Gloom
+#EXTINF:-1 tvg-id="ia-cartoon-Popeye_BrideandGloom" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Popeye_BrideandGloom.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Popeye: Bride and Gloom
 https://archive.org/download/Popeye_BrideandGloom/Popeye_BrideandGloom_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TheFriendlyGhost" tvg-logo="https://archive.org/services/img/TheFriendlyGhost" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Friendly Ghost
+#EXTINF:-1 tvg-id="ia-cartoon-TheFriendlyGhost" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheFriendlyGhost.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Friendly Ghost
 https://archive.org/download/TheFriendlyGhost/TheFriendlyGhost_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TwoKitties_worm_zoo" tvg-logo="https://archive.org/services/img/TwoKitties_worm_zoo" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Two Kitties_Worm_Zoo
+#EXTINF:-1 tvg-id="ia-cartoon-TwoKitties_worm_zoo" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TwoKitties_worm_zoo.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Two Kitties_Worm_Zoo
 https://archive.org/download/TwoKitties_worm_zoo/zoo_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_happy_you" tvg-logo="https://archive.org/services/img/bb_happy_you" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Happy You And Merry Me
+#EXTINF:-1 tvg-id="ia-cartoon-bb_happy_you" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_happy_you.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Happy You And Merry Me
 https://archive.org/download/bb_happy_you/bb_happy_you_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-tintinseries43" tvg-logo="https://archive.org/services/img/tintinseries43" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Adventures of Tintin (1991, Standard Broadcast Version)
+#EXTINF:-1 tvg-id="ia-cartoon-tintinseries43" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/tintinseries43.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",The Adventures of Tintin (1991, Standard Broadcast Version)
 https://archive.org/download/tintinseries43/39-TintinAndThePicaros2.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-CopyingIsNotTheft" tvg-logo="https://archive.org/services/img/CopyingIsNotTheft" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Copying Is Not Theft
+#EXTINF:-1 tvg-id="ia-cartoon-CopyingIsNotTheft" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/CopyingIsNotTheft.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-sa/3.0/us/",Copying Is Not Theft
 https://archive.org/download/CopyingIsNotTheft/CINT_Nik_H264_720_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-CameToSupper" tvg-logo="https://archive.org/services/img/CameToSupper" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Wabbit Who Came to Supper
+#EXTINF:-1 tvg-id="ia-cartoon-CameToSupper" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/CameToSupper.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",The Wabbit Who Came to Supper
 https://archive.org/download/CameToSupper/cametosup_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-StopDriv1959" tvg-logo="https://archive.org/services/img/StopDriv1959" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Stop Driving Us Crazy!
+#EXTINF:-1 tvg-id="ia-cartoon-StopDriv1959" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/StopDriv1959.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Stop Driving Us Crazy!
 https://archive.org/download/StopDriv1959/StopDriv1959_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-now_youre_talking_1927" tvg-logo="https://archive.org/services/img/now_youre_talking_1927" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Now You're Talking
+#EXTINF:-1 tvg-id="ia-cartoon-now_youre_talking_1927" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/now_youre_talking_1927.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Now You're Talking
 https://archive.org/download/now_youre_talking_1927/now_youre_talking_1927_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-MovieTra1950_2" tvg-logo="https://archive.org/services/img/MovieTra1950_2" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Movie Trailers: 'Doomsday' Horror Animation
+#EXTINF:-1 tvg-id="ia-cartoon-MovieTra1950_2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MovieTra1950_2.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Movie Trailers: 'Doomsday' Horror Animation
 https://archive.org/download/MovieTra1950_2/MovieTra1950_2_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-digimon-ghost-game-complete-series" tvg-logo="https://archive.org/services/img/digimon-ghost-game-complete-series" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Digimon Ghost Game Complete Series (English Sub)
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-ghost-game-complete-series" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-ghost-game-complete-series.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Digimon Ghost Game Complete Series (English Sub)
 https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/67%20-%20The%20Devourer%20of%20All.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Gullivers_Travels-1939" tvg-logo="https://archive.org/services/img/Gullivers_Travels-1939" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Gulliver's_Travels-1939
+#EXTINF:-1 tvg-id="ia-cartoon-Gullivers_Travels-1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Gullivers_Travels-1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Gulliver's_Travels-1939
 https://archive.org/download/Gullivers_Travels-1939/GulliversTravels-1939_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-showdown" tvg-logo="https://archive.org/services/img/showdown" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Showdown
+#EXTINF:-1 tvg-id="ia-cartoon-showdown" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/showdown.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Showdown
 https://archive.org/download/showdown/showdown_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Sinking_of_the_Lusitania" tvg-logo="https://archive.org/services/img/Sinking_of_the_Lusitania" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Sinking of the Lusitania
+#EXTINF:-1 tvg-id="ia-cartoon-Sinking_of_the_Lusitania" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Sinking_of_the_Lusitania.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",The Sinking of the Lusitania
 https://archive.org/download/Sinking_of_the_Lusitania/SinkingOfTheLusitania_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-mummy_strikes" tvg-logo="https://archive.org/services/img/mummy_strikes" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Mummy Strikes, The
+#EXTINF:-1 tvg-id="ia-cartoon-mummy_strikes" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/mummy_strikes.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Mummy Strikes, The
 https://archive.org/download/mummy_strikes/mummy_strikes_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-STSKTVSeries" tvg-logo="https://archive.org/services/img/STSKTVSeries" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Sid The Science Kid - TV Series (2008)
+#EXTINF:-1 tvg-id="ia-cartoon-STSKTVSeries" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/STSKTVSeries.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",Sid The Science Kid - TV Series (2008)
 https://archive.org/download/STSKTVSeries/Sid.The.Science.Kid.S01E41.AMZN.WEB-DL.DD2.0.H.264-RTN.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-AnimatedMechanicalArtPiecesAtMit" tvg-logo="https://archive.org/services/img/AnimatedMechanicalArtPiecesAtMit" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Animated mechanical art pieces at MIT
+#EXTINF:-1 tvg-id="ia-cartoon-AnimatedMechanicalArtPiecesAtMit" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/AnimatedMechanicalArtPiecesAtMit.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Animated mechanical art pieces at MIT
 https://archive.org/download/AnimatedMechanicalArtPiecesAtMit/P1120976_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-princess_iron_fan" tvg-logo="https://archive.org/services/img/princess_iron_fan" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Princess Iron Fan (鐵扇公主)
+#EXTINF:-1 tvg-id="ia-cartoon-princess_iron_fan" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/princess_iron_fan.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Princess Iron Fan (鐵扇公主)
 https://archive.org/download/princess_iron_fan/princess_iron_fan_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-pingu-the-complete-series-1-and-2-original-audio-version" tvg-logo="https://archive.org/services/img/pingu-the-complete-series-1-and-2-original-audio-version" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Pingu - The Complete Series 1 & 2 (Original audio version)
+#EXTINF:-1 tvg-id="ia-cartoon-pingu-the-complete-series-1-and-2-original-audio-version" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/pingu-the-complete-series-1-and-2-original-audio-version.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Pingu - The Complete Series 1 & 2 (Original audio version)
 https://archive.org/download/pingu-the-complete-series-1-and-2-original-audio-version/Pingu%20-%209.%20Pingu%20Plays%20Fish%20Tennis%20-%20%28Original%20VHS%20version%20-%20HQ%20-%20Restored%29.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-3L_sampler_01" tvg-logo="https://archive.org/services/img/3L_sampler_01" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - 3L vj loops series 1
+#EXTINF:-1 tvg-id="ia-cartoon-3L_sampler_01" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/3L_sampler_01.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",3L vj loops series 1
 https://archive.org/download/3L_sampler_01/_dotray24_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TheStainRimminenRoche" tvg-logo="https://archive.org/services/img/TheStainRimminenRoche" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Stain
+#EXTINF:-1 tvg-id="ia-cartoon-TheStainRimminenRoche" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheStainRimminenRoche.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",The Stain
 https://archive.org/download/TheStainRimminenRoche/the_stain_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_stop_that_noise" tvg-logo="https://archive.org/services/img/bb_stop_that_noise" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Stop That Noise
+#EXTINF:-1 tvg-id="ia-cartoon-bb_stop_that_noise" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_stop_that_noise.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Stop That Noise
 https://archive.org/download/bb_stop_that_noise/bb_stop_that_noise_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-krishna-balram-in-kalvakra-2009" tvg-logo="https://archive.org/services/img/krishna-balram-in-kalvakra-2009" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Krishna Balram in Kalvakra (2009)
+#EXTINF:-1 tvg-id="ia-cartoon-krishna-balram-in-kalvakra-2009" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/krishna-balram-in-kalvakra-2009.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Krishna Balram in Kalvakra (2009)
 https://archive.org/download/krishna-balram-in-kalvakra-2009/Krishna%20Balram%20in%20Kalvakra%20%282009%29.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-my-mother-the-animation-doblado-japones-sub-espanol-anime-day_20230825" tvg-logo="https://archive.org/services/img/my-mother-the-animation-doblado-japones-sub-espanol-anime-day_20230825" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - My Mother The Animation Doblado Japonés Sub Español Anime Day
+#EXTINF:-1 tvg-id="ia-cartoon-my-mother-the-animation-doblado-japones-sub-espanol-anime-day_20230825" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/my-mother-the-animation-doblado-japones-sub-espanol-anime-day_20230825.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",My Mother The Animation Doblado Japonés Sub Español Anime Day
 https://archive.org/download/my-mother-the-animation-doblado-japones-sub-espanol-anime-day_20230825/My%20Mother%20The%20Animation%20Doblado%20Japon%C3%A9s%20Sub%20Espa%C3%B1ol%20AnimeDay.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-Herman_CheeseBurglar" tvg-logo="https://archive.org/services/img/Herman_CheeseBurglar" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Cheese Burglar featuring Herman
+#EXTINF:-1 tvg-id="ia-cartoon-Herman_CheeseBurglar" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Herman_CheeseBurglar.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Cheese Burglar featuring Herman
 https://archive.org/download/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-HepCatSymphony" tvg-logo="https://archive.org/services/img/HepCatSymphony" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Hep Cat Symphony
+#EXTINF:-1 tvg-id="ia-cartoon-HepCatSymphony" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/HepCatSymphony.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Hep Cat Symphony
 https://archive.org/download/HepCatSymphony/HepCatSymphony_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_musical_mountaineers" tvg-logo="https://archive.org/services/img/bb_musical_mountaineers" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Musical Mountaineers
+#EXTINF:-1 tvg-id="ia-cartoon-bb_musical_mountaineers" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_musical_mountaineers.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Musical Mountaineers
 https://archive.org/download/bb_musical_mountaineers/bb_musical_mountaineers_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-digimon-adventure-2020-english-dub-studiopolis-toei-animation" tvg-logo="https://archive.org/services/img/digimon-adventure-2020-english-dub-studiopolis-toei-animation" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Digimon Adventure (2020): The Complete Collection (English dub)
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-adventure-2020-english-dub-studiopolis-toei-animation" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-adventure-2020-english-dub-studiopolis-toei-animation.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Digimon Adventure (2020): The Complete Collection (English dub)
 https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E67_%28Dub%29%20THE%20END%20OF%20THE%20ADVENTURE.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-FallenHeir" tvg-logo="https://archive.org/services/img/FallenHeir" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Falling Hare
+#EXTINF:-1 tvg-id="ia-cartoon-FallenHeir" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/FallenHeir.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Falling Hare
 https://archive.org/download/FallenHeir/fallen_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TheLionTamer_645" tvg-logo="https://archive.org/services/img/TheLionTamer_645" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Lion Tamer
+#EXTINF:-1 tvg-id="ia-cartoon-TheLionTamer_645" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheLionTamer_645.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",The Lion Tamer
 https://archive.org/download/TheLionTamer_645/TheLionTamer-AmosAndAndy_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-HowtheEa1940" tvg-logo="https://archive.org/services/img/HowtheEa1940" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - How the Ear Functions
+#EXTINF:-1 tvg-id="ia-cartoon-HowtheEa1940" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/HowtheEa1940.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",How the Ear Functions
 https://archive.org/download/HowtheEa1940/HowtheEa1940_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-TheHypnoticEyeEpisode2" tvg-logo="https://archive.org/services/img/TheHypnoticEyeEpisode2" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - The Hypnotic Eye Episode 2
+#EXTINF:-1 tvg-id="ia-cartoon-TheHypnoticEyeEpisode2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheHypnoticEyeEpisode2.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",The Hypnotic Eye Episode 2
 https://archive.org/download/TheHypnoticEyeEpisode2/TheHypnoticEye2_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_house_cleaning_blues" tvg-logo="https://archive.org/services/img/bb_house_cleaning_blues" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: House Cleaning Blues
+#EXTINF:-1 tvg-id="ia-cartoon-bb_house_cleaning_blues" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_house_cleaning_blues.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: House Cleaning Blues
 https://archive.org/download/bb_house_cleaning_blues/bb_house_cleaning_blues_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-customers_wanted" tvg-logo="https://archive.org/services/img/customers_wanted" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Customers Wanted
+#EXTINF:-1 tvg-id="ia-cartoon-customers_wanted" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/customers_wanted.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Customers Wanted
 https://archive.org/download/customers_wanted/customers_wanted_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-bb_poor_cinderella" tvg-logo="https://archive.org/services/img/bb_poor_cinderella" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Betty Boop: Poor Cinderella (1934)
+#EXTINF:-1 tvg-id="ia-cartoon-bb_poor_cinderella" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_poor_cinderella.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Poor Cinderella (1934)
 https://archive.org/download/bb_poor_cinderella/bb_poor_cinderella_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-StaySafe1960" tvg-logo="https://archive.org/services/img/StaySafe1960" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Stay Safe, Stay Strong: The Facts About Nuclear Weapons
+#EXTINF:-1 tvg-id="ia-cartoon-StaySafe1960" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/StaySafe1960.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Stay Safe, Stay Strong: The Facts About Nuclear Weapons
 https://archive.org/download/StaySafe1960/StaySafe1960_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-private_snafu_spies" tvg-logo="https://archive.org/services/img/private_snafu_spies" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - Private SNAFU: Spies
+#EXTINF:-1 tvg-id="ia-cartoon-private_snafu_spies" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/private_snafu_spies.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Private SNAFU: Spies
 https://archive.org/download/private_snafu_spies/private_snafu_spies_512kb.mp4
-#EXTINF:-1 tvg-id="ia-cartoon-5_More_Minutes" tvg-logo="https://archive.org/services/img/5_More_Minutes" group-title="PREVIEW ONLY - title and rights unverified",REVIEW - 5 More Minutes
+#EXTINF:-1 tvg-id="ia-cartoon-5_More_Minutes" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/5_More_Minutes.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",5 More Minutes
 https://archive.org/download/5_More_Minutes/5_M_M.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Aladdin_315" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Aladdin_315.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Aladdin (Mel-O-Toons)
+https://archive.org/download/Aladdin_315/Aladdin_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-billion_dollar_limited" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/billion_dollar_limited.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Billion Dollar Limited
+https://archive.org/download/billion_dollar_limited/billion_dollar_limited_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TrustedComputing" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TrustedComputing.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/sampling+/1.0/",Trusted Computing
+https://archive.org/download/TrustedComputing/TrustedComputing_LAFKON_SUPERHIGH_H.264._AAC_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ever-after-high-way-too-wonderland" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ever-after-high-way-too-wonderland.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Ever After High: Way Too Wonderland (Full Movie)
+https://archive.org/download/ever-after-high-way-too-wonderland/Ever%20After%20High-%20Way%20Too%20Wonderland%20Movie.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-casper-the-friendly-ghost-the-complete-collection-1950-59" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/casper-the-friendly-ghost-the-complete-collection-1950-59.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Casper the Friendly Ghost - The Complete Collection (1950-59)
+https://archive.org/download/casper-the-friendly-ghost-the-complete-collection-1950-59/Casper%20-%20Zero%20the%20Hero%20%281954%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-warriors_of_net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/warriors_of_net.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.0/",Warriors of The Net
+https://archive.org/download/warriors_of_net/warriors_trail_1227_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-swiss_trick" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/swiss_trick.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Swiss Trick
+https://archive.org/download/swiss_trick/swiss_trick_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-inspector-gadget-go-go-gadget-series" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/inspector-gadget-go-go-gadget-series.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Inspector Gadget: The Complete Seasons 1 & 2 (1983-86)
+https://archive.org/download/inspector-gadget-go-go-gadget-series/Inspector%20Gadget%20S02E21%20Gadget%20and%20the%20Red%20Rose.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-oneaspaceodyssey" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/oneaspaceodyssey.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.0/",ONE: A Space Odyssey
+https://archive.org/download/oneaspaceodyssey/oneaspaceodyssey_divx_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-japoteurs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/japoteurs.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Japoteurs
+https://archive.org/download/japoteurs/japoteurs_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bb_not_now" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_not_now.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Not Now
+https://archive.org/download/bb_not_now/bb_not_now_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ThePervert" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ThePervert.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",The Pervert
+https://archive.org/download/ThePervert/ThePervert2.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-jbvo-episodes_202405" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/jbvo-episodes_202405.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc/4.0/",JBVO episodes
+https://archive.org/download/jbvo-episodes_202405/JBVO%20S1E28%20-%20You%20Say%20It%2C%20I%20Spray%20It.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bb_parade_of_the_wooden_soldiers" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_parade_of_the_wooden_soldiers.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Parade of the Wooden Soldiers
+https://archive.org/download/bb_parade_of_the_wooden_soldiers/bb_parade_of_the_wooden_soldiers_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-thebeatlescartoon_201910" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/thebeatlescartoon_201910.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",All The Beatles Cartoon
+https://archive.org/download/thebeatlescartoon_201910/39%20-%20Wait%20-%20I%27m%20only%20sleeping.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bb_swat_the_fly" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_swat_the_fly.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Swat The Fly
+https://archive.org/download/bb_swat_the_fly/bb_swat_that_fly_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-sf-saiyuki-starzinger-the-complete-series-1-1978-79" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/sf-saiyuki-starzinger-the-complete-series-1-1978-79.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",SF Saiyuki Starzinger - The Complete Series 1 (1978-79)
+https://archive.org/download/sf-saiyuki-starzinger-the-complete-series-1-1978-79/Starzinger.Ep64.x264.AC3_Simu.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PopeyeTheSailor-AncientFistory" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PopeyeTheSailor-AncientFistory.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Popeye the Sailor - Ancient Fistory
+https://archive.org/download/PopeyeTheSailor-AncientFistory/PopeyeTheSailor-AncientFistory_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-YheAirRace" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/YheAirRace.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",The Air Race
+https://archive.org/download/YheAirRace/AirRaceThe1933WillieWhopperiwerks_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-GoofyGoatAntics1933" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/GoofyGoatAntics1933.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Goofy Goat Antics (1933)
+https://archive.org/download/GoofyGoatAntics1933/Goofy_Goat_Antics_1933_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-kanashimi-no-belladonna" tvg-logo="https://archive.org/services/img/kanashimi-no-belladonna" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Kanashimi No Belladonna
+https://archive.org/download/kanashimi-no-belladonna/Kanashimi_no_Belladonna_eng_sub.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WashingPeppaPig" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WashingPeppaPig.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",washing peppa pig
+https://archive.org/download/WashingPeppaPig/Peppa-Pig-Washingwww.savevid.com.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DB-RTL7-Lektor" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DB-RTL7-Lektor.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",Dragon Ball (RTL7 Polish Lektor) - All Episodes (COMPLETE, TV + VHS rips)
+https://archive.org/download/DB-RTL7-Lektor/153%20-%20Dans%20les%20Flammes%20de%20L%27enfer%20%28Polish%20Voiceover%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DesignOfSignage" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DesignOfSignage.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-sa/2.5/",Design Of Signage VJ Clips
+https://archive.org/download/DesignOfSignage/railwayicons42btFFMJPEG_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_NeptuneNonsense" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_NeptuneNonsense.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix the Cat in Neptune Nonsense
+https://archive.org/download/Felix_NeptuneNonsense/Felix_NeptuneNonsense_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ExtraEss1938" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ExtraEss1938.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Extra (Esso Screen Ad)
+https://archive.org/download/ExtraEss1938/ExtraEss1938_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-AnnoucForYoungLovers" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/AnnoucForYoungLovers.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Young Lover Message (from Drive-In Movie Ads)
+https://archive.org/download/AnnoucForYoungLovers/young_lovers.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Mickey-Mouse-Works" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Mickey-Mouse-Works.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Mickey Mouse Works
+https://archive.org/download/Mickey-Mouse-Works/Mickey%20Mouse%20Works%20%281999%29/Season%202/Mickey%20Mouse%20Works%20-%20S02E12%20-%20%2825%29%20Bird%20Brained%20Donald..%20%5BDVB%5D.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bb_morning_noon_and_night" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_morning_noon_and_night.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: Morning, Noon And Night
+https://archive.org/download/bb_morning_noon_and_night/bb_morning_noon_and_night_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DowntheG1935" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DowntheG1935.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Down the Gasoline Trail
+https://archive.org/download/DowntheG1935/DowntheG1935_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WGTVSeries2007" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WGTVSeries2007.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",WordGirl - TV Series (2007)
+https://archive.org/download/WGTVSeries2007/WordGirl.S06E15E16.Invasion.of.the.Bunny.Lovers.Parts.1.and.2.1080p.Amazon.WEB-DL.DD%2B2.0.H.264-QOQ.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Fantasmagori" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Fantasmagori.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Fantasmagori
+https://archive.org/download/Fantasmagori/fantasmagori_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-toriko-english-dub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/toriko-english-dub.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Toriko (English Dub)
+https://archive.org/download/toriko-english-dub/Toriko%20Special/One%20Piece%20x%20Toriko%20x%20Dragon%20Ball%20-%20History%27s%20Strongest%20Collaboration%20vs.%20Glutton%20of%20the%20Sea%21.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Sita04_BattleofLanka" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Sita04_BattleofLanka.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Battle of Lanka
+https://archive.org/download/Sita04_BattleofLanka/Sita04_BattleofLanka_sorensen_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ALIVE_IN_JOBURG" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ALIVE_IN_JOBURG.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Alive In Joburg
+https://archive.org/download/ALIVE_IN_JOBURG/Alive_in_Joburg_compr480_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Jitters_583" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Jitters_583.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Jungle Jitters
+https://archive.org/download/Jitters_583/jitters_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-home_front" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/home_front.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Private SNAFU - The Home Front
+https://archive.org/download/home_front/home_front_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bb_she_wronged_him_right" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_she_wronged_him_right.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: She Wronged Him Right
+https://archive.org/download/bb_she_wronged_him_right/bb_she_wronged_him_right_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bb_the_impractical_joker" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bb_the_impractical_joker.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Betty Boop: The Impractical Joker
+https://archive.org/download/bb_the_impractical_joker/bb_the_impractical_joker_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PegLegPe1938" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PegLegPe1938.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Peg-Leg Pedro
+https://archive.org/download/PegLegPe1938/PegLegPe1938_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Coachfor1936" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Coachfor1936.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Coach for Cinderella, A
+https://archive.org/download/Coachfor1936/Coachfor1936_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Free_VJ_LOOPS_created_with_THRILL_SERIES_2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Free_VJ_LOOPS_created_with_THRILL_SERIES_2.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-sa/3.0/",3L vj loops series 2
+https://archive.org/download/Free_VJ_LOOPS_created_with_THRILL_SERIES_2/_opart68_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-eekthecats01e01misereekextendedcut" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/eekthecats01e01misereekextendedcut.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Eek! The Cat
+https://archive.org/download/eekthecats01e01misereekextendedcut/Eek%20the%20Cat/Eek%21%20The%20Cat%205x14%20-%20Rock-Eek%206%20-%205x10%20-%20Eekscaliber%20%5Bs-mouche%5D.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bluey-in-4K" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bluey-in-4K.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Bluey (2018) - 4K Upscale
+https://archive.org/download/bluey-in-4K/Season%203/Bluey%202018%20S03e47%20Cricket.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheHypnoticEyeEpisode10" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheHypnoticEyeEpisode10.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",The Hypnotic Eye episode 10
+https://archive.org/download/TheHypnoticEyeEpisode10/TheHypnoticEye10_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-NurseryRhymesHumptyDumptySongsWithLyrics" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/NurseryRhymesHumptyDumptySongsWithLyrics.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/2.5/in/",Nursery Rhymes Humpty Dumpty Songs with lyrics.
+https://archive.org/download/NurseryRhymesHumptyDumptySongsWithLyrics/Nursery_Rhymes_Humpty_Dumpty_Songs_with_lyrics_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SpaceThunderKids" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SpaceThunderKids.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Space Thunder Kids
+https://archive.org/download/SpaceThunderKids/SpaceThunderKidsDIVX_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-aoitaiken-blueani" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/aoitaiken-blueani.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Sex Ed Teacher (Aoi Taiken 1)
+https://archive.org/download/aoitaiken-blueani/sexedtaiken9.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-santas-new-ride" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/santas-new-ride.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd-nc/1.0/",Santa's New Ride
+https://archive.org/download/santas-new-ride/santas-new-ride_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ScrubMeMamaWithABoogieBeat" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ScrubMeMamaWithABoogieBeat.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Scrub Me Mama With A Boogie Beat
+https://archive.org/download/ScrubMeMamaWithABoogieBeat/ScrubMeMamaWithABoogieBeat_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-piano_tooners" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/piano_tooners.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Piano Tooners
+https://archive.org/download/piano_tooners/piano_tooners_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Jiggly_butt" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Jiggly_butt.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",The Jiggly Butt
+https://archive.org/download/Jiggly_butt/JIGG_IPOD.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-pencilmania" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/pencilmania.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Pencil Mania
+https://archive.org/download/pencilmania/pencilmania_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-nu-pogodi-complete" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/nu-pogodi-complete.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by/4.0/",Nu Pogodi- Complete Era
+https://archive.org/download/nu-pogodi-complete/Season%201/Episode%209.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ManofAct1955" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ManofAct1955.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Man of Action
+https://archive.org/download/ManofAct1955/ManofAct1955_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-MeetKing1949" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MeetKing1949.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Meet King Joe
+https://archive.org/download/MeetKing1949/MeetKing1949_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WeLearnA1965" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WeLearnA1965.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",We Learn About the Telephone I
+https://archive.org/download/WeLearnA1965/WeLearnA1965_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-adventure-the-complete-collection-filipino-english-dub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-adventure-the-complete-collection-filipino-english-dub.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Digimon Adventure - The Complete Collection (Filipino-English dub)
+https://archive.org/download/digimon-adventure-the-complete-collection-filipino-english-dub/Digimon%20Adventure%20Episode%2054%20-%20Farewell%20Digimon%20World%20%28Filipino%20English%29%20%2810-bit%29%20%28SD%20BDRip%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Somethin1940" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Somethin1940.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Something for Nothing
+https://archive.org/download/Somethin1940/Somethin1940_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-vts-01-1_20200929_2234" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/vts-01-1_20200929_2234.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",ABC Saturday Morning Cartoons 12/20/86 WOC
+https://archive.org/download/vts-01-1_20200929_2234/ABC%20Saturday%20Morning%20Cartoons%2012-20-86%20WOC/VIDEO_TS/VTS_01_3.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SupermanCartoonsVideoQualityUpgrades" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SupermanCartoonsVideoQualityUpgrades.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",SUPERMAN CARTOONS video quality upgrades
+https://archive.org/download/SupermanCartoonsVideoQualityUpgrades/Supermanvolcano.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_AprilMaze_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_AprilMaze_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix the Cat in April Maze
+https://archive.org/download/Felix_AprilMaze_NoAudio/Felix_AprilMaze_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-a_is_for_atom" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/a_is_for_atom.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",A is for Atom
+https://archive.org/download/a_is_for_atom/isforAto1953_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-a-kockasfulu-nyul" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/a-kockasfulu-nyul.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",A Kockásfülű Nyúl (The Rabbit With Checkered Ears)
+https://archive.org/download/a-kockasfulu-nyul/A%20kock%C3%A1sf%C3%BCl%C5%B1%20ny%C3%BAl%20-%20Zened%C3%A9lut%C3%A1n%20%2825.%20r%C3%A9sz%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-NinaVision" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/NinaVision.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-sa/3.0/us/",NinaVision
+https://archive.org/download/NinaVision/The_Wit_and_Wisdom_of_Cancer_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Sita_Sings_the_Blues
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-NCTVSeries20152024" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/NCTVSeries20152024.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",Nature Cat - TV Series (2015 - 2024)
+https://archive.org/download/NCTVSeries20152024/Nature.Cat.S05E01-02.The.Legend.of.Cowboy.Kitty.The.Corn.Conundrum.1080p.PBSK.WEB-DL.AAC.2.0.H.264-4f8c4100292.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-thomas-the-tank-engine-friends-the-complete-series-1-5-1984-98" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/thomas-the-tank-engine-friends-the-complete-series-1-5-1984-98.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Thomas the Tank Engine & Friends: The Complete Series 1-5 (1984-98)
+https://archive.org/download/thomas-the-tank-engine-friends-the-complete-series-1-5-1984-98/S05E26%20-%20Snow.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-jungle_drums" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/jungle_drums.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Jungle Drums
+https://archive.org/download/jungle_drums/jungle_drums_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ChickenALaKing-1937" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ChickenALaKing-1937.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Chicken A La King - 1937
+https://archive.org/download/ChickenALaKing-1937/CC-Chicken_A_La_King-512K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WhatMake1952" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WhatMake1952.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",What Makes Us Tick
+https://archive.org/download/WhatMake1952/WhatMake1952_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-mechanical_monsters_1941" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/mechanical_monsters_1941.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Mechanical Monsters
+https://archive.org/download/mechanical_monsters_1941/mechanical_monsters_1941_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Princess_Iron_Fan_1941_divx5_denoised" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Princess_Iron_Fan_1941_divx5_denoised.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Princess Iron Fan (Tien Shan Gong Zhu)
+https://archive.org/download/Princess_Iron_Fan_1941_divx5_denoised/Princess_Iron_Fan_1941_divx5_denoised_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_AllPuzzled_NoAudio" tvg-logo="https://archive.org/services/img/Felix_AllPuzzled_NoAudio" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix: All Puzzled
+https://archive.org/download/Felix_AllPuzzled_NoAudio/Felix_AllPuzzled_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-rocketeers" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/rocketeers.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Rocketeers
+https://archive.org/download/rocketeers/rocketeers_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_TwoLipTime_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_TwoLipTime_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix the Cat in Two-Lip Time
+https://archive.org/download/Felix_TwoLipTime_NoAudio/Felix_TwoLipTime_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-MovieTra1950_3" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MovieTra1950_3.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Movie Trailers: 'Marathon of Fright'
+https://archive.org/download/MovieTra1950_3/MovieTra1950_3_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-yennefer-animated-blender-fan-animation-warning-nsfw-by-gamingarzia." tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/yennefer-animated-blender-fan-animation-warning-nsfw-by-gamingarzia..jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",Yennefer Animated Blender Fan Animation (Please, read the description first, WARNING, NSFW!)
+https://archive.org/download/yennefer-animated-blender-fan-animation-warning-nsfw-by-gamingarzia./Yennefer-sucking-a-big-cock-Sound-update.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PopeyeTheSailorMeetsAliBabasFortyThieves" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PopeyeTheSailorMeetsAliBabasFortyThieves.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Popeye The Sailor Meets Ali Baba's Forty Thieves
+https://archive.org/download/PopeyeTheSailorMeetsAliBabasFortyThieves/PopeyeAliBabaRestored_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-AladdinAndHisWonderfulLamp" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/AladdinAndHisWonderfulLamp.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Aladdin and His Wonderful Lamp
+https://archive.org/download/AladdinAndHisWonderfulLamp/AladdinAndTheWonderfulLamp_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-pingu-uk-vhs-and-dvd-collection" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/pingu-uk-vhs-and-dvd-collection.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by/4.0/",Pingu - (1986 - 2006)
+https://archive.org/download/pingu-uk-vhs-and-dvd-collection/The%20Adventures%20of%20Pingu%20%281993%2C%20Audio%20Tape%204%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-spanish_twist" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/spanish_twist.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Spanish Twist, A
+https://archive.org/download/spanish_twist/spanish_twist_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DefendersOfSpace" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DefendersOfSpace.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Defenders of Space
+https://archive.org/download/DefendersOfSpace/Defenders_of_space_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Princess1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Princess1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Princess and the Pauper, The
+https://archive.org/download/Princess1939/Princess1939_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-BigBuckBunnyFULLHD60FPS" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/BigBuckBunnyFULLHD60FPS.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Big Buck Bunny - FULL HD 60 FPS
+https://archive.org/download/BigBuckBunnyFULLHD60FPS/Big%20Buck%20Bunny%20-%20FULL%20HD%2060FPS.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Precisel1937" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Precisel1937.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Precisely So (Part I)
+https://archive.org/download/Precisel1937/Precisel1937_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WorkingD1957" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WorkingD1957.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Working Dollars
+https://archive.org/download/WorkingD1957/WorkingD1957_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WaltDisneySignatureCollection_201808" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WaltDisneySignatureCollection_201808.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/4.0/",Walt Disney Signature Collection
+https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheLittleStranger1936" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheLittleStranger1936.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Little Stranger (1936)
+https://archive.org/download/TheLittleStranger1936/Color_Classics-The_Little_Stranger-256K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ojamajo-doremi-the-complete-collection-1999-2000" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ojamajo-doremi-the-complete-collection-1999-2000.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Ojamajo DoReMi - The Complete Collection (1999-2000)
+https://archive.org/download/ojamajo-doremi-the-complete-collection-1999-2000/%5BDoremi%5D.Ojamajo.Doremi.51.%5B640x480%5D.%5B865B5A04%5D.v2.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Sentinel1955" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Sentinel1955.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Sentinel in the Sky
+https://archive.org/download/Sentinel1955/Sentinel1955_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-nadia-the-secret-of-blue-water-the-complete-collection-1990-91" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/nadia-the-secret-of-blue-water-the-complete-collection-1990-91.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Nadia: The Secret of Blue Water - The Complete Collection (1990-91)
+https://archive.org/download/nadia-the-secret-of-blue-water-the-complete-collection-1990-91/%5BJudas%5D%20Fushigi%20no%20Umi%20no%20Nadia%20-%20S01E39.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-BlackKnight" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/BlackKnight.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd-nc/1.0/",Black Knight
+https://archive.org/download/BlackKnight/BlackKnight_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-MovieTra1950" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MovieTra1950.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Movie Trailers:
+https://archive.org/download/MovieTra1950/MovieTra1950_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Precisel1937_2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Precisel1937_2.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Precisely So (Part II)
+https://archive.org/download/Precisel1937_2/Precisel1937_2_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-superman_the_man_of_steele" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/superman_the_man_of_steele.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Superman - Son of Krypton
+https://archive.org/download/superman_the_man_of_steele/superman1.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheAdventuresOfPinocchio1978EnglishVersion" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheAdventuresOfPinocchio1978EnglishVersion.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",The Adventures Of Pinocchio 1978 ( English Version)
+https://archive.org/download/TheAdventuresOfPinocchio1978EnglishVersion/The%20Adventures%20of%20Pinocchio%201978%20%28English%20Version%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Supermanfeature-lengthAnimatiom" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Supermanfeature-lengthAnimatiom.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",SUPERMAN (feature-length animation)
+https://archive.org/download/Supermanfeature-lengthAnimatiom/Supermanfeature-lengthAnimatiom.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-magical-doremi-the-complete-collection-4kids-entertainment-english-dub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/magical-doremi-the-complete-collection-4kids-entertainment-english-dub.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Magical DoReMi - The Complete Collection (4Kids Entertainment - English dub)
+https://archive.org/download/magical-doremi-the-complete-collection-4kids-entertainment-english-dub/Magical%20DoReMi%20-%2051.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-moment2016" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/moment2016.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",A Moment in Time
+https://archive.org/download/moment2016/moment2016.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-AutoLite1940" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/AutoLite1940.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Auto-Lite on Parade
+https://archive.org/download/AutoLite1940/AutoLite1940_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-bloodysnow" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/bloodysnow.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd-nc/1.0/",Bloody Snow
+https://archive.org/download/bloodysnow/bloodysnow_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-snowdrift-dot-coop-intro" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/snowdrift-dot-coop-intro.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-sa/4.0/",Snowdrift.coop Intro Video
+https://archive.org/download/snowdrift-dot-coop-intro/snowdrift-dot-coop-intro.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-VoltesVamericanEnglishDub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/VoltesVamericanEnglishDub.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Voltes V (American English Dub)
+https://archive.org/download/VoltesVamericanEnglishDub/VoltesVamericanEnglishDub.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-tigger-movie" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/tigger-movie.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Disney's The Tigger Movie
+https://archive.org/download/tigger-movie/TiggerMovie.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-make_mine_freedom_ipod" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/make_mine_freedom_ipod.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Make Mine Freedom
+https://archive.org/download/make_mine_freedom_ipod/make_mine_freedom_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-curious-george-a-halloween-boo-fest-2013-universal-dvd-video" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/curious-george-a-halloween-boo-fest-2013-universal-dvd-video.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Curious George: A Halloween Boo Fest (DVD)
+https://archive.org/download/curious-george-a-halloween-boo-fest-2013-universal-dvd-video/CURIOUS_GEORGE5.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_inHollywood_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_inHollywood_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix in Hollywood
+https://archive.org/download/Felix_inHollywood_NoAudio/Felix_inHollywood_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-protectors_of_the_universe_korean_animation" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/protectors_of_the_universe_korean_animation.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Protectors of the Universe (Korean Animation)
+https://archive.org/download/protectors_of_the_universe_korean_animation/korean_animation_protectors_of_the_universe_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-fox-animation-renaissance-triple-feature" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/fox-animation-renaissance-triple-feature.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",FOX Animation Renaissance Triple Feature (FernGully + Once Upon A Forest + The Pagemaster)
+https://archive.org/download/fox-animation-renaissance-triple-feature/The.Pagemaster.1994.1080p.BluRay.x265-RARBG.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-walt-disney-animation-studios-1937-present_202502" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/walt-disney-animation-studios-1937-present_202502.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by/4.0/",Walt Disney Animation Studios (1937-Present)
+https://archive.org/download/walt-disney-animation-studios-1937-present_202502/%28S03E17%29%20Moana%202%20%282024%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-opportunities_unlimited" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/opportunities_unlimited.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Opportunities Unlimited
+https://archive.org/download/opportunities_unlimited/opportunities_unlimited_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WayOfTheMantis" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WayOfTheMantis.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Way of the Mantis
+https://archive.org/download/WayOfTheMantis/WayOfTheMantis_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LeRomanDeRenard_1930" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LeRomanDeRenard_1930.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Le Roman De Renard / The Tale of the Fox (1930)
+https://archive.org/download/LeRomanDeRenard_1930/LeRomanDeRenard1930.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-vts-01-1_20201006" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/vts-01-1_20201006.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Bon Voyage Charlie Brown and What Have We Learned Charlie Brown WOC
+https://archive.org/download/vts-01-1_20201006/Bon%20Voyage%20Charlie%20Brown%20and%20What%20Have%20We%20Learned%20Charlie%20Brown%20WOC/VIDEO_TS/VTS_01_4.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_FindsOut_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_FindsOut_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix Finds Out
+https://archive.org/download/Felix_FindsOut_NoAudio/Felix_FindsOut_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-batman-mask-of-the-phantasm-1993" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/batman-mask-of-the-phantasm-1993.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",Batman: Mask Of The Phantasm (Including the First Four Episodes of Batman TAS)
+https://archive.org/download/batman-mask-of-the-phantasm-1993/The%20Making%20of%20Batman%20Mask%20of%20the%20Phantasm.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Adventur1948" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Adventur1948.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Adventures of Junior Raindrop, The
+https://archive.org/download/Adventur1948/Adventur1948_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PATBWWTVSeries2004" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PATBWWTVSeries2004.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",Peep And The Big Wide World - TV Series (2004)
+https://archive.org/download/PATBWWTVSeries2004/Peep%20and%20the%20Big%20Wide%20World-Who%20Stole%20the%20Big%20Wide%20World%20%3B%20M-U-D%20Spells%20Trouble.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-penalty" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/penalty.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Penalty!
+https://archive.org/download/penalty/penalty_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-doctor-who-1963-animations" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/doctor-who-1963-animations.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Doctor Who (1963) Animated Pack
+https://archive.org/download/doctor-who-1963-animations/Season%206/Doctor%20Who%20-%20S06E14%20-%20The%20Invasion%20%284%29%20Animated.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Medicated_Baby_Heads" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Medicated_Baby_Heads.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/2.5/",Neurotically Yours :: Medicated Baby Heads
+https://archive.org/download/Medicated_Baby_Heads/MedicatedBabyHeads_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-arctic_giant_ipod" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/arctic_giant_ipod.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Arctic Giant
+https://archive.org/download/arctic_giant_ipod/arctic_giant_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-my-mother-the-animation-doblado-japones-sub-espanol-anime-day" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/my-mother-the-animation-doblado-japones-sub-espanol-anime-day.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",My Mother The Animation Doblado Japonés Sub Español Anime Day
+https://archive.org/download/my-mother-the-animation-doblado-japones-sub-espanol-anime-day/My%20Mother%20The%20Animation%20Doblado%20Japon%C3%A9s%20Sub%20Espa%C3%B1ol%20AnimeDay.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-MagicSchoolBusAllEpisodes" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MagicSchoolBusAllEpisodes.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/4.0/",Magic School Bus All episodes (from Discovery Education)
+https://archive.org/download/MagicSchoolBusAllEpisodes/s01e52.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-CodeMonkeysSeason2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/CodeMonkeysSeason2.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Code Monkeys Season 2
+https://archive.org/download/CodeMonkeysSeason2/Code%20Monkeys%20-%20S02E13%20-%20Car%20Robber%20Sunnyvale.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-midoridvd" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/midoridvd.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Midori (少女椿) International DVD
+https://archive.org/download/midoridvd/midori2.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-EducatedFish-1937" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/EducatedFish-1937.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Educated Fish - 1937
+https://archive.org/download/EducatedFish-1937/CC-Educated_Fish-512K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-GreenPas1926" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/GreenPas1926.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Green Pastures
+https://archive.org/download/GreenPas1926/GreenPas1926_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-theboss" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/theboss.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd-nc/1.0/",The Boss
+https://archive.org/download/theboss/theboss_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-WhenYouA1948" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/WhenYouA1948.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",When You Are a Pedestrian
+https://archive.org/download/WhenYouA1948/WhenYouA1948_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DBZ-Cloverway-Episodes" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DBZ-Cloverway-Episodes.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",Dragon Ball Z (Cloverway LATAM dub) - All Episodes (Original Master Tapes, TV + VHS rips INCOMPLETE)
+https://archive.org/download/DBZ-Cloverway-Episodes/Dragon%20Ball%20Z%20%28Cloverway%20LATAM%20dub%29%20-%20Episode%20224%20%28Cartoon%20Network%20broadcast%2C%20VHS%20rip%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-RobotixTheMovie1985" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/RobotixTheMovie1985.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Robotix The Movie ( 1985)
+https://archive.org/download/RobotixTheMovie1985/Robotix%20%20The%20Movie%20%281985%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-JJTJPJJMTVSeries" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/JJTJPJJMTVSeries.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",Jay Jay The Jet Plane & Jay Jay's Mysteries - TV Series (1998 - 2001, 2005)
+https://archive.org/download/JJTJPJJMTVSeries/Jay%20Jay%20the%20Jet%20Plane%20-%20Upside%20Down%20Waterfall.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-BUGSBUNNYALLTHISANDRABBITSTEWCgNjXeU5OTk" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/BUGSBUNNYALLTHISANDRABBITSTEWCgNjXeU5OTk.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",BUGS BUNNY ALL THIS AND RABBIT STEW Cg Nj Xe U 5 OTk
+https://archive.org/download/BUGSBUNNYALLTHISANDRABBITSTEWCgNjXeU5OTk/BUGS%20BUNNY%20-%20ALL%20THIS%20AND%20RABBIT%20STEW-CgNjXeU5OTk.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-vts-01-1_20200929" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/vts-01-1_20200929.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",ABC Saturday Morning Cartoons 12/19/81 WOC
+https://archive.org/download/vts-01-1_20200929/ABC%20Saturday%20Morning%20Cartoons%2012-19-81%20WOC/VIDEO_TS/VTS_01_5.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-great-mouse-detective-original" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/great-mouse-detective-original.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by/4.0/",The Great Mouse Detective (Original 1986 Version)
+https://archive.org/download/great-mouse-detective-original/Great%20Mouse%20Detective%20Original.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-xavier-renegade-angel-collection" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/xavier-renegade-angel-collection.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc/4.0/",Xavier: Renegade Angel Season 1-2 WEB-DL Rip's + DVD ISO's (X:RA Collection)
+https://archive.org/download/xavier-renegade-angel-collection/Season%202/Xavier%20%20Renegade%20Angel%20S02e10%20Braingea%27s%20Final%20Cranny.ia.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheBoatShaunTheSheep" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheBoatShaunTheSheep.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",the boat shaun the sheep
+https://archive.org/download/TheBoatShaunTheSheep/Shaun-The-Sheep-The-Boat-Episode-61www.savevid.com.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-studio-ghibli-storyboard-films" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/studio-ghibli-storyboard-films.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Studio Ghibli - storyboard films
+https://archive.org/download/studio-ghibli-storyboard-films/My%20Neighbour%20Totoro%20%281988%2C%20storyboards%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-7SmokeAtmosphereHdFreeStockFootageDigital.meals" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/7SmokeAtmosphereHdFreeStockFootageDigital.meals.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd/3.0/",(7) Smoke Atmosphere HD | Free Stock Footage | digital.meals
+https://archive.org/download/7SmokeAtmosphereHdFreeStockFootageDigital.meals/MVI_5054_27.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LesOeufsDePaques" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LesOeufsDePaques.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Les Oeufs de Paques
+https://archive.org/download/LesOeufsDePaques/SegundoDeChomon-LesOeufsDePaques1907_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Sleepytom_pixNmix_clips" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Sleepytom_pixNmix_clips.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-sa/2.5/",VJ Clips Made for the Channel4 pixnmix project
+https://archive.org/download/Sleepytom_pixNmix_clips/whispyredstuff.sleepytom.Pjpeg80_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-vts-01-1_20200825" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/vts-01-1_20200825.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",ABC Saturday Morning Cartoons 9-9-89 WOC
+https://archive.org/download/vts-01-1_20200825/ABC%20Saturday%20Morning%20Cartoons%209-9-89%20WOC/VIDEO_TS/VTS_01_5.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-dinosaur-train-season-1-complete" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/dinosaur-train-season-1-complete.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",TheFirstArchives: Dinosaur Train Complete Season 1
+https://archive.org/download/dinosaur-train-season-1-complete/Season%201/Episode%209.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheCameramansRevenge" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheCameramansRevenge.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",The Cameraman's Revenge
+https://archive.org/download/TheCameramansRevenge/TheCameramansRevenge_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-vts-01-1_20210131" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/vts-01-1_20210131.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc/4.0/",(Mostly) Complete Broadcast: WHO FRAMED ROGER RABBIT?—Cartoon Network—November 26, 2011
+https://archive.org/download/vts-01-1_20210131/VTS_01_4.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TipTopsi1934" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TipTopsi1934.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Tip-Tops in Peppyland, The
+https://archive.org/download/TipTopsi1934/TipTopsi1934_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-belladonna_1973" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/belladonna_1973.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Belladonna (1973)
+https://archive.org/download/belladonna_1973/Belladonna%20of%20Sadness%20%281973%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheCaseOfTheScreamingBishop" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheCaseOfTheScreamingBishop.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",The Case of The Screaming Bishop
+https://archive.org/download/TheCaseOfTheScreamingBishop/CaseOfTheScreamingBishop_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_GetstheCan_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_GetstheCan_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix Gets the Can
+https://archive.org/download/Felix_GetstheCan_NoAudio/Felix_GetstheCan_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ssfBURNMAP" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ssfBURNMAP.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-sa/1.0/",1906 Burn map
+https://archive.org/download/ssfBURNMAP/ssfBURNMAP_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-jojos-circus" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/jojos-circus.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",JoJo's Circus (2003) The Complete Series
+https://archive.org/download/jojos-circus/JoJo%27s%20Circus%20-%20S03E07%20-%20My%20Grannys%20Shoes.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-40sSupermanCartoonCopiedInskyCaptainAndTheWorldOfTomorrow" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/40sSupermanCartoonCopiedInskyCaptainAndTheWorldOfTomorrow.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",40s Superman cartoon copied in 'Sky Captain and the World of Tomorrow'
+https://archive.org/download/40sSupermanCartoonCopiedInskyCaptainAndTheWorldOfTomorrow/Superman_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Buddha_Thus_Have_I_Heard" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Buddha_Thus_Have_I_Heard.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Buddha-Thus Have I Heard
+https://archive.org/download/Buddha_Thus_Have_I_Heard/142Buddha_thusHaveIHeard_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-RaidersOfGalaxy" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/RaidersOfGalaxy.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Raiders of Galaxy
+https://archive.org/download/RaidersOfGalaxy/RaidersOfGalaxy_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-adventure-1999-disney-xd-asian-english-dub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-adventure-1999-disney-xd-asian-english-dub.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Digimon Adventure (1999) (Disney XD - Asian-English dub)
+https://archive.org/download/digimon-adventure-1999-disney-xd-asian-english-dub/Digimon%20Adventure%20%281999%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LiveandL1947" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LiveandL1947.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Live and Let Live
+https://archive.org/download/LiveandL1947/LiveandL1947_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-firemans_life" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/firemans_life.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Fireman's Life, A
+https://archive.org/download/firemans_life/firemans_life_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ElHotelElectrico" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ElHotelElectrico.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",El Hotel Eléctrico
+https://archive.org/download/ElHotelElectrico/SegundoDeChomn-ElHotelElectrico1905_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_GoesWest_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_GoesWest_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix Goes West
+https://archive.org/download/Felix_GoesWest_NoAudio/Felix_GoesWest_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Penwiper1926" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Penwiper1926.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Penwiper, The
+https://archive.org/download/Penwiper1926/Penwiper1926_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-storyofami2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/storyofami2.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",The Story of Ami 2
+https://archive.org/download/storyofami2/storyofami29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LittleLambkins-1940" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LittleLambkins-1940.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Little Lambkins - 1940
+https://archive.org/download/LittleLambkins-1940/CC-Little_Lambkins-512K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ThePlayfulPolarBears-1938" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ThePlayfulPolarBears-1938.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Playful Polar Bears - 1938
+https://archive.org/download/ThePlayfulPolarBears-1938/CC-The_Playful_Polar_Bears-512K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-5-ice-age-movies" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/5-ice-age-movies.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",5 Ice Age Movies
+https://archive.org/download/5-ice-age-movies/Ice%20Age%205%20%282016%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-RoninWarriorsUSSeries" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/RoninWarriorsUSSeries.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Ronin Warriors
+https://archive.org/download/RoninWarriorsUSSeries/Ronin%20Warrior%2039.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Felix_DoublesforDarwin_NoAudio" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Felix_DoublesforDarwin_NoAudio.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix: Doubles for Darwin
+https://archive.org/download/Felix_DoublesforDarwin_NoAudio/Felix_DoublesforDarwin_NoAudio_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DandelionFreeCulture" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DandelionFreeCulture.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Dandelion Free Culture
+https://archive.org/download/DandelionFreeCulture/wishesWide_HD.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-popeyethesailor-publicdomain" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/popeyethesailor-publicdomain.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",All public domain Popeye the Sailor shorts
+https://archive.org/download/popeyethesailor-publicdomain/The%20Paneless%20Window%20Washer%20%281937%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ScarlettcastdigitalImage-May2008_112" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ScarlettcastdigitalImage-May2008_112.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd/3.0/us/",ScarlettCast@Digital Image - May, 2008
+https://archive.org/download/ScarlettcastdigitalImage-May2008_112/ScarlettCast.May_2008_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-a-bugs-life-1998-animation-movies-for-kids" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/a-bugs-life-1998-animation-movies-for-kids.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",A Bugs Life 1998 Animation movies for kids
+https://archive.org/download/a-bugs-life-1998-animation-movies-for-kids/A%20Bugs%20Life%201998%20Animation%20movies%20for%20kids.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LesLunatiques" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LesLunatiques.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Les Lunatiques
+https://archive.org/download/LesLunatiques/SegundoDeChomnLesLunatiques1908_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SnackBarCartoonSpace" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SnackBarCartoonSpace.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Snack Bar Space Animation (from Drive-In Movie Ads)
+https://archive.org/download/SnackBarCartoonSpace/snackbar_space_cartoon.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-the_conceited_general" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/the_conceited_general.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Conceited General (骄傲的将军)
+https://archive.org/download/the_conceited_general/the_conceited_general_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheSongOfTheBirds-1935" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheSongOfTheBirds-1935.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Song Of The Birds - 1935
+https://archive.org/download/TheSongOfTheBirds-1935/CC-The_Song_Of_The_Birds-512K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-reiniger_the_star_of_bethlehem" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/reiniger_the_star_of_bethlehem.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Star of Bethlehem
+https://archive.org/download/reiniger_the_star_of_bethlehem/the_star_of_bethlehem_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-tiny-toon-adventures-how-i-spent-my-vacation-1992-warner-home-video-vhs_202507" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/tiny-toon-adventures-how-i-spent-my-vacation-1992-warner-home-video-vhs_202507.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-sa/4.0/",1. Tiny Toon Adventures How I Spent My Vacation
+https://archive.org/download/tiny-toon-adventures-how-i-spent-my-vacation-1992-warner-home-video-vhs_202507/Tiny%20Toons%20In%20Two-Tone%20Town%201993%20Version%201%20WARNER%20HOME%20VIDEO%20VHS.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-pingu-the-complete-series-5-6" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/pingu-the-complete-series-5-6.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Pingu - The Complete Series 5 & 6
+https://archive.org/download/pingu-the-complete-series-5-6/pingu.s06e26.pingu.and.the.abominable.snowman.dvdrip.xvid.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheStoryOfHeidiEnglishVersion" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheStoryOfHeidiEnglishVersion.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",The Story Of Heidi English Version
+https://archive.org/download/TheStoryOfHeidiEnglishVersion/The%20Story%20of%20Heidi%20English%20Version.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-JenniferBraxtonTooSexy" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/JenniferBraxtonTooSexy.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-sa/2.5/",Too Sexy
+https://archive.org/download/JenniferBraxtonTooSexy/Too_Sexy_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ZeppelinVs.PterodactylsTheLostCartoon1942" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ZeppelinVs.PterodactylsTheLostCartoon1942.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Zeppelin vs. Pterodactyls: The Lost Cartoon
+https://archive.org/download/ZeppelinVs.PterodactylsTheLostCartoon1942/ZvpCartoon_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LeVoleurInvisible" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LeVoleurInvisible.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Le Voleur Invisible
+https://archive.org/download/LeVoleurInvisible/1909SegundoDeChomnLeVoleurInvisibletheInvisiibleThief.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-plane_dumb" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/plane_dumb.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Plane Dumb
+https://archive.org/download/plane_dumb/plane_dumb_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-FelixAprilMaze" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/FelixAprilMaze.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Felix The Cat - April Maze
+https://archive.org/download/FelixAprilMaze/felix_april_maze_instr_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SpaceTransformer" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SpaceTransformer.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Space Transformer
+https://archive.org/download/SpaceTransformer/SpaceTransformer_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-down-and-dirty-duck" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/down-and-dirty-duck.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Down And Dirty Duck (18+) (1974) (WARNING: ADULT CONTENT!)
+https://archive.org/download/down-and-dirty-duck/Down%20and%20Dirty%20Duck%20%281974%29%20%2818%2B%29%20NSFW.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-AliceofWonderlandinParis" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/AliceofWonderlandinParis.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Alice of Wonderland in Paris
+https://archive.org/download/AliceofWonderlandinParis/AliceofWonderlandinParis_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-thomas-the-tank-engine-friends-the-complete-series-5-1998" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/thomas-the-tank-engine-friends-the-complete-series-5-1998.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Thomas the Tank Engine & Friends - The Complete Series 5 (1998)
+https://archive.org/download/thomas-the-tank-engine-friends-the-complete-series-5-1998/9%20Put%20Upon%20Percy.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-GoldRushGumby" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/GoldRushGumby.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Gold Rush Gumby
+https://archive.org/download/GoldRushGumby/GoldRush_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-super-mario-bros.-the-great-mission-to-rescue-princess-peach-1986" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/super-mario-bros.-the-great-mission-to-rescue-princess-peach-1986.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Super Mario Bros. - The Great Mission to Rescue Princess Peach! (1986)
+https://archive.org/download/super-mario-bros.-the-great-mission-to-rescue-princess-peach-1986/Super%20Mario%20Bros.%20-%20The%20Great%20Mission%20to%20Rescue%20Princess%20Peach%21%20%281986%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-FoxPop" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/FoxPop.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Fox Pop
+https://archive.org/download/FoxPop/foxpop_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LesPapillonsJaponais" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LesPapillonsJaponais.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Les Papillons Japonais
+https://archive.org/download/LesPapillonsJaponais/SegundoDeChomnLesPapillonsJaponais1908_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Roundand1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Roundand1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Round and Round (Widgets)
+https://archive.org/download/Roundand1939/Roundand1939_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-4SmokeAtmosphereHdFreeStockFootageDigital.meals" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/4SmokeAtmosphereHdFreeStockFootageDigital.meals.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd/3.0/",(4) Smoke Atmosphere HD | Free Stock Footage | digital.meals
+https://archive.org/download/4SmokeAtmosphereHdFreeStockFootageDigital.meals/MVI_0160_2.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Insainment.web.tv" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Insainment.web.tv.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",Insainment TV
+https://archive.org/download/Insainment.web.tv/TheBeatlesYellowSubmarine493_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-RJGTVSeries" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/RJGTVSeries.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",Ready Jet Go! - TV Series (2016 - 2019)
+https://archive.org/download/RJGTVSeries/Ready.Jet.Go.S01E53E54.Diggin.Earth-Mindys.Mystery.720p.PBSK.WEBRip.AAC2.0.x264-RTN.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-youareapirateremovingsoon...coppampgun.com" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/youareapirateremovingsoon...coppampgun.com.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",You Are A Pirate! by Fred Perry
+https://archive.org/download/youareapirateremovingsoon...coppampgun.com/You%20Are%20a%20Pirate%21%20Removing%20soon...%20Coppa%20%5BMpgun.com%5D.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SmallFry-1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SmallFry-1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Small Fry - 1939
+https://archive.org/download/SmallFry-1939/CC-Small_Fry-512K_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-CaptainPlanetAndThePlaneteersS01E01AHeroForEarth" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/CaptainPlanetAndThePlaneteersS01E01AHeroForEarth.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Captain Planet And The Planeteers S 01 E 01 A Hero For Earth
+https://archive.org/download/CaptainPlanetAndThePlaneteersS01E01AHeroForEarth/Captain%20Planet%20and%20the%20Planeteers%20-%20S01E01%20-%20A%20Hero%20for%20Earth.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-jill_tentacle_monster" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/jill_tentacle_monster.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nd/4.0/",Jill and tentacle monster
+https://archive.org/download/jill_tentacle_monster/jill_breast_feeding.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheMadDoctor1933MickeyMouseSoundCartoon" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheMadDoctor1933MickeyMouseSoundCartoon.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",The Mad Doctor 1933 Mickey Mouse Sound Cartoon
+https://archive.org/download/TheMadDoctor1933MickeyMouseSoundCartoon/TheMadDoctor1933MickeyMouseSoundCartoon.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-munchers" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/munchers.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Munchers: A Fable
+https://archive.org/download/munchers/munchers_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PsychedelicBicLighters" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PsychedelicBicLighters.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Psychedelic Bic Lighters (from Drive-In Movie Ads)
+https://archive.org/download/PsychedelicBicLighters/psychedelic_bic_lighters.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PussnBootsTravelsAroundTheWorld" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PussnBootsTravelsAroundTheWorld.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Puss 'n Boots Travels Around The World
+https://archive.org/download/PussnBootsTravelsAroundTheWorld/Puss%20%27n%20Boots%20Travels%20Around%20the%20World.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Aluminum1956_2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Aluminum1956_2.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Aluminum on the March (Part II)
+https://archive.org/download/Aluminum1956_2/Aluminum1956_2_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-looney-tunes-merrie-melodies_20250512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/looney-tunes-merrie-melodies_20250512.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",LooneyTunes Collection v2022 P2
+https://archive.org/download/looney-tunes-merrie-melodies_20250512/Classic%20Shorts%20Part%2010/0999%20-%20Bugged%20by%20a%20Bee%20%28Web%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheHole" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheHole.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Hole
+https://archive.org/download/TheHole/TheHole_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Free_VJ_LOOPS_created_with_THRILL_SERIES_10" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Free_VJ_LOOPS_created_with_THRILL_SERIES_10.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",3L vj loops series 10
+https://archive.org/download/Free_VJ_LOOPS_created_with_THRILL_SERIES_10/3L_tube_07_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Aluminum1956" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Aluminum1956.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Aluminum on the March (Part I)
+https://archive.org/download/Aluminum1956/Aluminum1956_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-superman_mechanical_monsters" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/superman_mechanical_monsters.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Superman - The Mechanical Monsters
+https://archive.org/download/superman_mechanical_monsters/superman_mechanical_monsters.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-galactik-football-s-02-e-44-warren-steps-in_202205" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/galactik-football-s-02-e-44-warren-steps-in_202205.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Galactik Football - Full Series
+https://archive.org/download/galactik-football-s-02-e-44-warren-steps-in_202205/Galactik%20Football%20S03E78%20The%20Stars%20of%20Akillian%20are%20Eternal%20%283%29%20Series%20Finale.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-tramp_tramp_tramp_1926" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/tramp_tramp_tramp_1926.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Tramp, Tramp, Tramp
+https://archive.org/download/tramp_tramp_tramp_1926/tramp_tramp_tramp_1926_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Dragon-Ball-Z-Movies-1-15-Portugal-Dub-Incomplete" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Dragon-Ball-Z-Movies-1-15-Portugal-Dub-Incomplete.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",Dragon Ball Z Movies 1-14 (Portugal Dub, Incomplete)
+https://archive.org/download/Dragon-Ball-Z-Movies-1-15-Portugal-Dub-Incomplete/Dragon%20Ball%20Z%20-%20Filme%209%20-%20O%20Super-Homem%20da%20Gal%C3%A1xia.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ToldByaT1939" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ToldByaT1939.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Told By a Tooth
+https://archive.org/download/ToldByaT1939/ToldByaT1939_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SesameStreetTheBestOfElmoAndFiesta1999UKVHS" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SesameStreetTheBestOfElmoAndFiesta1999UKVHS.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/4.0/",Sesame Street - The Best Of Elmo and Fiesta (D610978 Pal/VHS)
+https://archive.org/download/SesameStreetTheBestOfElmoAndFiesta1999UKVHS/Sesame%20Street%20-The%20Best%20of%20Elmo%20and%20Fiesta%20%281999%2C%20UK%20VHS%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Free_VJ_LOOPS_created_with_THRILL_SERIES_4" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Free_VJ_LOOPS_created_with_THRILL_SERIES_4.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",3L vj loops series 4
+https://archive.org/download/Free_VJ_LOOPS_created_with_THRILL_SERIES_4/3L_shark_04_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-BuzzyBoop1938" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/BuzzyBoop1938.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Buzzy Boop (1938)
+https://archive.org/download/BuzzyBoop1938/BuzzyBoopSharedByCresantstar_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-shrek-2-2004-full-screen_202406" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/shrek-2-2004-full-screen_202406.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nd/4.0/",Shrek 2 ( 2004) ( Full Screen)
+https://archive.org/download/shrek-2-2004-full-screen_202406/Shrek%202%20%282004%29%20%28Full%20Screen%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-ever-after-high-dragon-games-full-movie" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/ever-after-high-dragon-games-full-movie.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Ever After High: Dragon Games (Full Movie)
+https://archive.org/download/ever-after-high-dragon-games-full-movie/Ever%20After%20High%20-%20Dragon%20Games.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LittleBoyBlue" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LittleBoyBlue.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Little Boy Blue
+https://archive.org/download/LittleBoyBlue/1936LittleBoyBlue_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-LirisFantastique" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/LirisFantastique.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",L'Iris Fantastique
+https://archive.org/download/LirisFantastique/SegundoDeChomn-LirisFantastique1912_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-5SmokeAtmosphereHdFreeStockFootageDigital.meals" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/5SmokeAtmosphereHdFreeStockFootageDigital.meals.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nd/3.0/",(5) Smoke Atmosphere HD | Free Stock Footage | digital.meals
+https://archive.org/download/5SmokeAtmosphereHdFreeStockFootageDigital.meals/MVI_50545.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-adventure-01-and-02-filipino-english-dub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-adventure-01-and-02-filipino-english-dub.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/zero/1.0/",Digimon Adventure 01 and Zero Two - The Filipino-English dub (OUTDATED)
+https://archive.org/download/digimon-adventure-01-and-02-filipino-english-dub/adventure9part3.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Holistic_Forge_Works_Animation" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Holistic_Forge_Works_Animation.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc/2.5/",Holistic Forge Works Animation Studios
+https://archive.org/download/Holistic_Forge_Works_Animation/victory_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-my-life-me-complete-series" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/my-life-me-complete-series.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",My Life Me - The Complete Series (english dub)(360p)
+https://archive.org/download/my-life-me-complete-series/My%20Life%20Me%20S1E08A%20-%20Birch%27s%20Beef.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Freedoma1952" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Freedoma1952.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Freedom and Power (Part I)
+https://archive.org/download/Freedoma1952/Freedoma1952_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-PudgyAndTheLostKitten1938" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/PudgyAndTheLostKitten1938.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Lost Kitten 1938
+https://archive.org/download/PudgyAndTheLostKitten1938/PudgyAndTheLostKitten1939_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-DucktatorsWwii" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/DucktatorsWwii.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",The Ducktators
+https://archive.org/download/DucktatorsWwii/08-TheDucktators_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-EdisonMotionPicturesCollectionPartThree19021922" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/EdisonMotionPicturesCollectionPartThree19021922.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Edison Motion Pictures Collection Part Three 1903-1922
+https://archive.org/download/EdisonMotionPicturesCollectionPartThree19021922/1922A_day_with_Thomas6_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Fantasmagorie" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Fantasmagorie.jpg" group-title="Internet Archive | http://creativecommons.org/publicdomain/mark/1.0/",Fantasmagorie
+https://archive.org/download/Fantasmagorie/Emile%20Cohl%20-%20Fantasmagorie%201908-aEAObel8yIE.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-disneycartoons-publicdomain" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/disneycartoons-publicdomain.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/mark/1.0/",All public domain Walt Disney Studios cartoons
+https://archive.org/download/disneycartoons-publicdomain/The%20Winged%20Scourge%20%281943%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Free_VJ_LOOPS_created_with_THRILL_SERIES_6" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Free_VJ_LOOPS_created_with_THRILL_SERIES_6.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",3L vj loops series 6
+https://archive.org/download/Free_VJ_LOOPS_created_with_THRILL_SERIES_6/_a62_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SaintPau1941" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SaintPau1941.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Saint Paul Police Detectives and Their Work: A Color Chartoon
+https://archive.org/download/SaintPau1941/SaintPau1941_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TODDTheINDESTRUCTIBLEManYouTube360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TODDTheINDESTRUCTIBLEManYouTube360p.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by-nc-nd/3.0/",TODD, The INDESTRUCTIBLE Man!
+https://archive.org/download/TODDTheINDESTRUCTIBLEManYouTube360p/TODD%2C%20the%20INDESTRUCTIBLE%20man%21%20-%20YouTube%20%28360p%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-in_the_bag" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/in_the_bag.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",In The Bag
+https://archive.org/download/in_the_bag/in_the_bag_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-SinbadTheSailor" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/SinbadTheSailor.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Sinbad The Sailor
+https://archive.org/download/SinbadTheSailor/SinbadTheSailor_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Pvt.SNAFU.Gripes" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Pvt.SNAFU.Gripes.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Private Snafu - Gripes
+https://archive.org/download/Pvt.SNAFU.Gripes/Pvt.SNAFU.Gripes_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-CaminandesLlamigos" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/CaminandesLlamigos.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/by/3.0/",Caminandes 3: Llamigos
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-HumorousPhasesOfFunnyFaces" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/HumorousPhasesOfFunnyFaces.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",Humorous Phases Of Funny Faces
+https://archive.org/download/HumorousPhasesOfFunnyFaces/Humorous_Phases_Of_Funny_Faces__J._Stuart_Blackton_1906_public_domain_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-TheReturnOfMr.Hook" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/TheReturnOfMr.Hook.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",The Return of Mr. Hook
+https://archive.org/download/TheReturnOfMr.Hook/TheReturnOfMr.Hook_512kb.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-digimon-movie-collection-1-4-1999-2001-asian-english-dub" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/digimon-movie-collection-1-4-1999-2001-asian-english-dub.jpg" group-title="Internet Archive | https://creativecommons.org/publicdomain/zero/1.0/",Digimon Movie Collection 1-4 (1999-2001, Asian-English dub)
+https://archive.org/download/digimon-movie-collection-1-4-1999-2001-asian-english-dub/Digimon%20Movie%2004.%20Revenge%20of%20Diaboromon%20%282001%20film%29%20%28Asian-English%20dub%29.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-MaxiesWorldTheCompleteSeries" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/MaxiesWorldTheCompleteSeries.jpg" group-title="Internet Archive | https://creativecommons.org/licenses/by-nc-nd/4.0/",Maxie's World: The Complete Series
+https://archive.org/download/MaxiesWorldTheCompleteSeries/Bumpers.mp4
+#EXTINF:-1 tvg-id="ia-cartoon-Free_VJ_LOOPS_created_with_THRILL_SERIES_5" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-cartoons/Free_VJ_LOOPS_created_with_THRILL_SERIES_5.jpg" group-title="Internet Archive | http://creativecommons.org/licenses/publicdomain/",3L vj loops series 5
+https://archive.org/download/Free_VJ_LOOPS_created_with_THRILL_SERIES_5/3L_silvstripemotorotoo2_512kb.mp4

@@ -125,18 +125,6 @@
     <url>http://www.nuevosiglo.com.uy.E</url>
   </channel>
   
-<programme start="20261109131400 -0300" stop="20261109144800 -0300" channel="Lifetime.br">
-    <title lang="pt">Luzes Câmeras Natal</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Romance</category>
-  </programme>
-  
-<programme start="20261109144800 -0300" stop="20261109162400 -0300" channel="Lifetime.br">
-    <title lang="pt">Um Reencontro Natalino</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Romance</category>
-  </programme>
-  
 <programme start="20261109162400 -0300" stop="20261109180000 -0300" channel="Lifetime.br">
     <title lang="pt">O Voo Antes do Natal</title>
     <category lang="pt">Filme</category>
@@ -347,19 +335,10 @@
     <category lang="pt">Romance</category>
   </programme>
   
-<programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
-    <title lang="en">Paramount Movie Channel</title>
-    <desc lang="en">Paramount Movie Channel</desc>
-  </programme>
-  
-<programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
-    <title lang="en">Paramount Movie Channel</title>
-    <desc lang="en">Paramount Movie Channel</desc>
-  </programme>
-  
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
-    <title lang="en">Paramount Movie Channel</title>
-    <desc lang="en">Paramount Movie Channel</desc>
+<programme start="20261111191500 -0300" stop="20261111203900 -0300" channel="Lifetime.br">
+    <title lang="pt">Papai Noel Casamenteiro</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
   </programme>
   
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
@@ -607,14 +586,19 @@
     <desc lang="en">Paramount Movie Channel</desc>
   </programme>
   
-<programme start="20261109142500 +0700" stop="20261109155500 +0700" channel="Lifetime.id">
-    <title lang="id">MasterChef Australia</title>
-    <episode-num system="onscreen">S18 E28</episode-num>
+<programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
+    <title lang="en">Paramount Movie Channel</title>
+    <desc lang="en">Paramount Movie Channel</desc>
   </programme>
   
-<programme start="20261109155500 +0700" stop="20261109165500 +0700" channel="Lifetime.id">
-    <title lang="id">MasterChef Australia</title>
-    <episode-num system="onscreen">S18 E29</episode-num>
+<programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
+    <title lang="en">Paramount Movie Channel</title>
+    <desc lang="en">Paramount Movie Channel</desc>
+  </programme>
+  
+<programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="Paramount.Movie.Channel.DUMMY.us">
+    <title lang="en">Paramount Movie Channel</title>
+    <desc lang="en">Paramount Movie Channel</desc>
   </programme>
   
 <programme start="20261109165500 +0700" stop="20261109180000 +0700" channel="Lifetime.id">
@@ -869,69 +853,24 @@
     <episode-num system="onscreen">S18 E32</episode-num>
   </programme>
   
-<programme start="20261109143400 +0000" stop="20261109145900 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">O Sister, Where Art Thou?</sub-title>
-    <desc lang="en">When Becky helps Harris keep a secret from Darlene, it causes a split between the two sisters.</desc>
-    <date>2018</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme start="20261111180000 +0700" stop="20261111183000 +0700" channel="Lifetime.id">
+    <title lang="id">Meals In Minutes</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
   
-<programme start="20261109145900 +0000" stop="20261109152500 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Rage Against the Machine</sub-title>
-    <desc lang="en">Dan gets injured covering D.J.'s vending machine route, but choosing to sue could lead to D.J. getting fired.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme start="20261111183000 +0700" stop="20261111190000 +0700" channel="Lifetime.id">
+    <title lang="id">1,000 Ways To Dine</title>
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   
-<programme start="20261109152500 +0000" stop="20261109155000 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Don't Shoot the Piano Teacher</sub-title>
-    <desc lang="en">When Ben offers Mark free piano lessons, Darlene thinks it’s a way to test his parenting skills.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme start="20261111190000 +0700" stop="20261111193000 +0700" channel="Lifetime.id">
+    <title lang="id">1,000 Ways To Dine</title>
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
   
-<programme start="20261109155000 +0000" stop="20261109161600 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">We Contine to Truck</sub-title>
-    <desc lang="en">As Darlene grapples with a life-altering offer, a conversation with David turns her world more upside-down.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109161600 +0000" stop="20261109164100 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Preemies, Weed and Infidelity</sub-title>
-    <desc lang="en">After Emilio's deported, Jackie steps up and creates a birth plan for Becky.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme start="20261111193000 +0700" stop="20261111203000 +0700" channel="Lifetime.id">
+    <title lang="id">Dr. Pimple: Breaking</title>
+    <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
   
 <programme start="20261109164100 +0000" stop="20261109170700 +0000" channel="plex.tv.The.Conners.plex">
@@ -2439,66 +2378,66 @@
     </rating>
   </programme>
   
-<programme start="20261109144600 +0000" stop="20261109151400 +0000" channel="plex.tv.Forensic.Files.plex">
-    <title lang="en">Forensic Files</title>
-    <sub-title lang="en">Double Cross</sub-title>
-    <desc lang="en">Naval officer threatening to go public about sexual harassment and assault at work is murdered.</desc>
-    <date>2008</date>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
-    <episode-num system="onscreen">S13 E5</episode-num>
+<programme start="20261111180600 +0000" stop="20261111183200 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Live From Lanford</sub-title>
+    <desc lang="en">The Conners share their opinions on voting; Louise gets an offer that could take her away from Lanford.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109151400 +0000" stop="20261109154200 +0000" channel="plex.tv.Forensic.Files.plex">
-    <title lang="en">Forensic Files</title>
-    <sub-title lang="en">Dancing with the Devil</sub-title>
-    <desc lang="en">Suspect arrested for drug possession sheds light on a bizarre tale of a stripper's murder case.</desc>
-    <date>2008</date>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
-    <episode-num system="onscreen">S13 E6</episode-num>
+<programme start="20261111183200 +0000" stop="20261111185700 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Brothers, Babies and Breakdowns</sub-title>
+    <desc lang="en">Dan avoids coping with a death, only to be faced with it head-on; Ben and Darlene address his baby fever.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E13</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109154200 +0000" stop="20261109160700 +0000" channel="plex.tv.Forensic.Files.plex">
-    <title lang="en">Forensic Files</title>
-    <sub-title lang="en">Last Dance</sub-title>
-    <desc lang="en">In 2000, the body of exotic dancer Rachel Siani was found beneath a New Jersey bridge.</desc>
-    <date>2008</date>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
-    <episode-num system="onscreen">S13 E7</episode-num>
+<programme start="20261111185700 +0000" stop="20261111192300 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Bad Dads and Grads</sub-title>
+    <desc lang="en">Dan begins to bond with his younger half-brother but is angry their dad paid for Ed Jr.'s college education.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E14</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109160700 +0000" stop="20261109163500 +0000" channel="plex.tv.Forensic.Files.plex">
-    <title lang="en">Forensic Files</title>
-    <sub-title lang="en">Constructive Criticism</sub-title>
-    <desc lang="en">In 2000, construction manager Darrell North was found dead in his work trailer in Ft. Worth, Texas.</desc>
-    <date>2008</date>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
-    <episode-num system="onscreen">S13 E8</episode-num>
+<programme start="20261111192300 +0000" stop="20261111194800 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Beards, Thrupples and Robots</sub-title>
+    <desc lang="en">Darlene gets a job at Price Warehouse; Ben shaves his beard to look more clean-cut to advertisers.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E15</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109163500 +0000" stop="20261109170300 +0000" channel="plex.tv.Forensic.Files.plex">
-    <title lang="en">Forensic Files</title>
-    <sub-title lang="en">Home Evasion</sub-title>
-    <desc lang="en">In 2000, Judy Southern arrived home from work and was shot by a gunman waiting within.</desc>
-    <date>2008</date>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
-    <episode-num system="onscreen">S13 E9</episode-num>
+<programme start="20261111194800 +0000" stop="20261111201300 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Tats and Tias</sub-title>
+    <desc lang="en">Newly unemployed Harris moves back into the house; the entire Conner family contemplate tattoos.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E16</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -3881,39 +3820,68 @@
     </rating>
   </programme>
   
-<programme start="20261109144300 +0000" stop="20261109153100 +0000" channel="plex.tv.The.Price.is.Right.plex">
-    <title lang="en">The Price is Right</title>
-    <desc lang="en">Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes.</desc>
-    <date>1985</date>
-    <category lang="en">Daytime TV + Games</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/21d8860db602a21578a24755a5ceda32.jpg" />
-    <episode-num system="onscreen">S14 E5874</episode-num>
+<programme start="20261111175500 +0000" stop="20261111182300 +0000" channel="plex.tv.Forensic.Files.plex">
+    <title lang="en">Forensic Files</title>
+    <sub-title lang="en">Core Evidence</sub-title>
+    <desc lang="en">A beverage company pleads guilty to violating federal safety laws when a baby dies from E. coli.</desc>
+    <date>1999</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
+    <episode-num system="onscreen">S4 E10</episode-num>
     <rating system="US">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109153100 +0000" stop="20261109162100 +0000" channel="plex.tv.The.Price.is.Right.plex">
-    <title lang="en">The Price is Right</title>
-    <desc lang="en">Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes.</desc>
-    <date>1985</date>
-    <category lang="en">Daytime TV + Games</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/21d8860db602a21578a24755a5ceda32.jpg" />
-    <episode-num system="onscreen">S14 E5875</episode-num>
+<programme start="20261111182300 +0000" stop="20261111185100 +0000" channel="plex.tv.Forensic.Files.plex">
+    <title lang="en">Forensic Files</title>
+    <sub-title lang="en">Haunting Vision</sub-title>
+    <desc lang="en">A woman is haunted by the memory of her father murdering her mother.</desc>
+    <date>1999</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
+    <episode-num system="onscreen">S4 E11</episode-num>
     <rating system="US">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109162100 +0000" stop="20261109170000 +0000" channel="plex.tv.The.Price.is.Right.plex">
-    <title lang="en">The Price is Right</title>
-    <desc lang="en">Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes.</desc>
-    <date>1985</date>
-    <category lang="en">Daytime TV + Games</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/21d8860db602a21578a24755a5ceda32.jpg" />
-    <episode-num system="onscreen">S14 E5882</episode-num>
+<programme start="20261111185100 +0000" stop="20261111191900 +0000" channel="plex.tv.Forensic.Files.plex">
+    <title lang="en">Forensic Files</title>
+    <sub-title lang="en">With Every Breath</sub-title>
+    <desc lang="en">A flu-like epidemic spreads throughout a Navajo reservation in 1983.</desc>
+    <date>1999</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
+    <episode-num system="onscreen">S4 E12</episode-num>
     <rating system="US">
-      <value>TV-G</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111191900 +0000" stop="20261111194700 +0000" channel="plex.tv.Forensic.Files.plex">
+    <title lang="en">Forensic Files</title>
+    <sub-title lang="en">Slippery Motives</sub-title>
+    <desc lang="en">Investigators come to suspect a wife's bathtub drowning may not have been an accident.</desc>
+    <date>1999</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111194700 +0000" stop="20261111201600 +0000" channel="plex.tv.Forensic.Files.plex">
+    <title lang="en">Forensic Files</title>
+    <sub-title lang="en">Badge of Deceit</sub-title>
+    <desc lang="en">Women in a Louisiana city live in fear of a rapist who leaves no clues to his identity.</desc>
+    <date>2000</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/973b5ba3c5c3ab47cbbb6087e2e506ec.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
     </rating>
   </programme>
   
@@ -4997,35 +4965,39 @@
     </rating>
   </programme>
   
-<programme start="20261109141700 +0000" stop="20261109151400 +0000" channel="plex.tv.Farscape.plex">
-    <title lang="en">Farscape</title>
-    <sub-title lang="en">Through the Looking Glass</sub-title>
-    <desc lang="en">Moya tries to starburst to prove to the crew that she still can; it goes slightly wrong though and she gets stuck in starburst, and splits into several different dimensions.</desc>
-    <date>1999</date>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Bingeworthy</category>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e023725b2bd4e023e569f0c76ae0c325.jpg" />
-    <episode-num system="onscreen">S1 E17</episode-num>
+<programme start="20261111180300 +0000" stop="20261111182700 +0000" channel="plex.tv.The.Price.is.Right.plex">
+    <title lang="en">The Price is Right</title>
+    <desc lang="en">Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes.</desc>
+    <date>1974</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/21d8860db602a21578a24755a5ceda32.jpg" />
+    <episode-num system="onscreen">S1974 E592</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   
-<programme start="20261109151400 +0000" stop="20261109161200 +0000" channel="plex.tv.Farscape.plex">
-    <title lang="en">Farscape</title>
-    <sub-title lang="en">A Bug's Life</sub-title>
-    <desc lang="en">Peacekeeper commandos board the ship after a fuel leak and join the Moya's crew in battle against a deadly virus.</desc>
-    <date>1999</date>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e023725b2bd4e023e569f0c76ae0c325.jpg" />
-    <episode-num system="onscreen">S1 E18</episode-num>
+<programme start="20261111182700 +0000" stop="20261111191500 +0000" channel="plex.tv.The.Price.is.Right.plex">
+    <title lang="en">The Price is Right</title>
+    <desc lang="en">Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes.</desc>
+    <date>1988</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/21d8860db602a21578a24755a5ceda32.jpg" />
+    <episode-num system="onscreen">S1988 E6941</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111191500 +0000" stop="20261111200500 +0000" channel="plex.tv.The.Price.is.Right.plex">
+    <title lang="en">The Price is Right</title>
+    <desc lang="en">Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes.</desc>
+    <date>1988</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/21d8860db602a21578a24755a5ceda32.jpg" />
+    <episode-num system="onscreen">S1988 E6941</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
     </rating>
   </programme>
   
@@ -5925,39 +5897,49 @@
     </rating>
   </programme>
   
-<programme start="20261109100000 +0000" stop="20261109150000 +0000" channel="plex.tv.PokerGO.plex">
-    <title lang="en">PokerGO Greatest Hits</title>
-    <sub-title lang="en">Daniel Negreanu</sub-title>
-    <desc lang="en">PokerGO is the #1 poker streaming service in the world.</desc>
-    <category lang="en">Sports</category>
-    <icon src="http://tmsimg.com/assets/p28562973_b_h8_aa.jpg?w=3840&amp;h=2160" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="plex.tv.PokerGO.plex">
-    <title lang="en">PokerGO Greatest Hits</title>
-    <sub-title lang="en">Phil Ivey</sub-title>
-    <desc lang="en">Watch every hand Phil Ivey has ever played on the first seven seasons of High Stakes Poker.</desc>
-    <category lang="en">Sports</category>
-    <icon src="http://tmsimg.com/assets/p28562973_b_h8_aa.jpg?w=3840&amp;h=2160" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
+<programme start="20261111180900 +0000" stop="20261111190600 +0000" channel="plex.tv.Farscape.plex">
+    <title lang="en">Farscape</title>
+    <sub-title lang="en">A Perfect Murder</sub-title>
+    <desc lang="en">Chiana and Crichton are sucked into a game world ruled by a virtual stark; to escape, they must fight against friends and enemies in disguises.</desc>
+    <date>2002</date>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Bingeworthy</category>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e023725b2bd4e023e569f0c76ae0c325.jpg" />
+    <episode-num system="onscreen">S4 E9</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
   </programme>
   
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="plex.tv.PokerGO.plex">
-    <title lang="en">National Heads-Up Poker Championship</title>
-    <desc lang="en">The National Heads-Up Poker Championship features 64 players, a $25K buy-in and $500K to the winner.</desc>
-    <category lang="en">Sports</category>
-    <icon src="http://tmsimg.com/assets/p12281368_b_h8_ab.jpg?w=3840&amp;h=2160" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <premiere lang="en" />
+<programme start="20261111190600 +0000" stop="20261111195900 +0000" channel="plex.tv.Farscape.plex">
+    <title lang="en">Farscape</title>
+    <sub-title lang="en">Coup by Clam</sub-title>
+    <desc lang="en">An alien doctor poisons the Moya's crew with deadly mollusks.</desc>
+    <date>2002</date>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Bingeworthy</category>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e023725b2bd4e023e569f0c76ae0c325.jpg" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111195900 +0000" stop="20261111205200 +0000" channel="plex.tv.Farscape.plex">
+    <title lang="en">Farscape</title>
+    <sub-title lang="en">Unrealized Reality</sub-title>
+    <desc lang="en">An interdimensional being believes that Crichton's wormhole knowledge threatens the universe.</desc>
+    <date>2002</date>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Action</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e023725b2bd4e023e569f0c76ae0c325.jpg" />
+    <episode-num system="onscreen">S4 E11</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -6554,39 +6536,45 @@
     </rating>
   </programme>
   
-<programme start="20261109142300 +0000" stop="20261109151500 +0000" channel="plex.tv.Iron.Chef.plex">
-    <title lang="en">IronChef</title>
-    <sub-title lang="en">Asparagus</sub-title>
-    <desc lang="en">Sakai faces a challenger known as Mr. Gourmet. Komine is a world-class vegetable chef.</desc>
-    <category lang="en">Food + Home + Culture</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/358e8bb0-913e-4c07-aaae-5a82ec046466/Plex_xumoTile_FilmRise_IronChef_1920x1080RDX.jpg" />
-    <episode-num system="onscreen">S5 E21</episode-num>
+<programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="plex.tv.PokerGO.plex">
+    <title lang="en">Poker After Dark</title>
+    <sub-title lang="en">Week 4: $50K Cash Game (Part 2)</sub-title>
+    <desc lang="en">Todd Brunson, Mike Matusow, Phil Hellmuth, Dennis Philips, Brandon Adams, Antonio Esfandiari.</desc>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <icon src="http://tmsimg.com/assets/p9357872_b_h8_ab.jpg?w=3840&amp;h=2160" />
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <premiere lang="en" />
     <rating system="US">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109151500 +0000" stop="20261109160600 +0000" channel="plex.tv.Iron.Chef.plex">
-    <title lang="en">IronChef</title>
-    <sub-title lang="en">Battle for the Egg</sub-title>
-    <desc lang="en">Zeityen Wan hopes to make magic with his noodle dishes in just one hour.</desc>
-    <category lang="en">Food + Home + Culture</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/358e8bb0-913e-4c07-aaae-5a82ec046466/Plex_xumoTile_FilmRise_IronChef_1920x1080RDX.jpg" />
-    <episode-num system="onscreen">S5 E22</episode-num>
+<programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="plex.tv.PokerGO.plex">
+    <title lang="en">Poker After Dark</title>
+    <sub-title lang="en">Week 4: $50K Cash Game (Part 2)</sub-title>
+    <desc lang="en">Todd Brunson, Mike Matusow, Phil Hellmuth, Dennis Phillips, Brandon Adams, Antonio Esfandiari.</desc>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <icon src="http://tmsimg.com/assets/p9357872_b_h8_ab.jpg?w=3840&amp;h=2160" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <premiere lang="en" />
     <rating system="US">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109160600 +0000" stop="20261109165700 +0000" channel="plex.tv.Iron.Chef.plex">
-    <title lang="en">IronChef</title>
-    <sub-title lang="en">Squid</sub-title>
-    <desc lang="en">The first pizza expert to enter Kitchen Stadium tries to create a pizza with squid.</desc>
-    <category lang="en">Food + Home + Culture</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/358e8bb0-913e-4c07-aaae-5a82ec046466/Plex_xumoTile_FilmRise_IronChef_1920x1080RDX.jpg" />
-    <episode-num system="onscreen">S5 E23</episode-num>
+<programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="plex.tv.PokerGO.plex">
+    <title lang="en">Poker After Dark</title>
+    <sub-title lang="en">Week 4: $50K Cash Game (Part 2)</sub-title>
+    <desc lang="en">Todd Brunson, Mike Matusow, Phil Hellmuth, Dennis Philips, Brandon Adams, Antonio Esfandiari.</desc>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <icon src="http://tmsimg.com/assets/p9357872_b_h8_ab.jpg?w=3840&amp;h=2160" />
+    <episode-num system="onscreen">S6 E22</episode-num>
+    <premiere lang="en" />
     <rating system="US">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
@@ -7274,60 +7262,40 @@
     </rating>
   </programme>
   
-<programme start="20261109143200 +0000" stop="20261109150100 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
-    <title lang="en">Fate/Stay Night</title>
-    <sub-title lang="en">Moonlit Elegance</sub-title>
-    <desc lang="en">Saber and Shiro make a deal, and Saber begins training Shiro for battle.</desc>
-    <date>2006</date>
-    <category lang="en">Anime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gaming + Anime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92e901292e0daf44479b00abb52e3b3d.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+<programme start="20261111180300 +0000" stop="20261111185300 +0000" channel="plex.tv.Iron.Chef.plex">
+    <title lang="en">IronChef</title>
+    <sub-title lang="en">Spanish Mackerel</sub-title>
+    <desc lang="en">The challenger is a master chef hailing from Kyoto. Can the Iron Chef win this battle?</desc>
+    <category lang="en">Food + Home + Culture</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/358e8bb0-913e-4c07-aaae-5a82ec046466/Plex_xumoTile_FilmRise_IronChef_1920x1080RDX.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
   </programme>
   
-<programme start="20261109150100 +0000" stop="20261109153300 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
-    <title lang="en">Fate/Stay Night</title>
-    <sub-title lang="en">A Peaceful Interlude</sub-title>
-    <desc lang="en">Shiro's first training session doesn't go well; Rin gives Shiro a jewel to swallow.</desc>
-    <date>2006</date>
-    <category lang="en">Anime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gaming + Anime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92e901292e0daf44479b00abb52e3b3d.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
+<programme start="20261111185300 +0000" stop="20261111194300 +0000" channel="plex.tv.Iron.Chef.plex">
+    <title lang="en">IronChef</title>
+    <sub-title lang="en">Pen Shell</sub-title>
+    <desc lang="en">The challenger is a seafood expert who chooses and masterfully cooks gifts from the sea.</desc>
+    <category lang="en">Food + Home + Culture</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/358e8bb0-913e-4c07-aaae-5a82ec046466/Plex_xumoTile_FilmRise_IronChef_1920x1080RDX.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
   </programme>
   
-<programme start="20261109153300 +0000" stop="20261109160300 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
-    <title lang="en">Fate/Stay Night</title>
-    <sub-title lang="en">Fresh Blood Temple (Blood Fort Andromeda)</sub-title>
-    <desc lang="en">Shiro is near death during a battle but is able to summon Saber before his time runs out.</desc>
-    <date>2006</date>
-    <category lang="en">Anime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gaming + Anime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92e901292e0daf44479b00abb52e3b3d.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  
-<programme start="20261109160300 +0000" stop="20261109163500 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
-    <title lang="en">Fate/Stay Night</title>
-    <sub-title lang="en">Tearing the Sky</sub-title>
-    <desc lang="en">Shiro must come to Saber's aid when unleashing her Noble Phantasm, Excalibur, leaves her drained.</desc>
-    <date>2006</date>
-    <category lang="en">Anime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gaming + Anime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92e901292e0daf44479b00abb52e3b3d.jpg" />
-    <episode-num system="onscreen">S1 E12</episode-num>
+<programme start="20261111194300 +0000" stop="20261111203300 +0000" channel="plex.tv.Iron.Chef.plex">
+    <title lang="en">IronChef</title>
+    <sub-title lang="en">Bamboo Shoots</sub-title>
+    <desc lang="en">The challenger is a stubborn chef descended from a long line of Tokyo dwellers.</desc>
+    <category lang="en">Food + Home + Culture</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/358e8bb0-913e-4c07-aaae-5a82ec046466/Plex_xumoTile_FilmRise_IronChef_1920x1080RDX.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
   </programme>
   
 <programme start="20261109163500 +0000" stop="20261109170400 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
@@ -8777,69 +8745,72 @@
     <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
   
-<programme start="20261109143300 +0000" stop="20261109150300 +0000" channel="plex.tv.The.Addams.Family.plex">
-    <title lang="en">The Addams Family</title>
-    <sub-title lang="en">The Addams Family And The Spaceman</sub-title>
-    <desc lang="en">While enjoying a moonlight picnic and snail hunt, the Addams Family is mistaken for Martians by uniformed investigators from Mysterious Space Objects Headquarters.  In turn, Gomez (John Astin) and the clan regard their inquisitors with suspicion.</desc>
-    <date>1965</date>
-    <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
-    <episode-num system="onscreen">S1 E127</episode-num>
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
+<programme start="20261111180800 +0000" stop="20261111183800 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
+    <title lang="en">The Eminence in Shadow</title>
+    <sub-title lang="en">Unseen Intentions</sub-title>
+    <desc lang="en">Princess Rose flees to the north of the Royal Capital; the Oriana Kingdom wants to handle it internally as a purely domestic matter.</desc>
+    <date>2023</date>
+    <category lang="en">Anime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Bingeworthy</category>
+    <category lang="en">Global</category>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/381e098db3c5511c17bfef66d6e200d2.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
   </programme>
   
-<programme start="20261109150300 +0000" stop="20261109153300 +0000" channel="plex.tv.The.Addams.Family.plex">
-    <title lang="en">The Addams Family</title>
-    <sub-title lang="en">My Son, The Chimp</sub-title>
-    <desc lang="en">An organ grinder's fugitive monkey leads Fester to believe that he has turned Pugsley into a monkey.  Morticia and Gomez treat the monkey as though he were their son, welcoming him to the dinner table and giving him Pugsley's chores.</desc>
-    <date>1965</date>
-    <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
-    <episode-num system="onscreen">S1 E128</episode-num>
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
+<programme start="20261111183800 +0000" stop="20261111190700 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
+    <title lang="en">The Eminence in Shadow</title>
+    <sub-title lang="en">Moonlight That Pierces the Darkness</sub-title>
+    <desc lang="en">Cid recollects piano lessons from his past life; Epsilon's performance sets the soundtrack for something else.</desc>
+    <date>2023</date>
+    <category lang="en">Anime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Bingeworthy</category>
+    <category lang="en">Global</category>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/381e098db3c5511c17bfef66d6e200d2.jpg" />
+    <episode-num system="onscreen">S1 E17</episode-num>
   </programme>
   
-<programme start="20261109153300 +0000" stop="20261109160300 +0000" channel="plex.tv.The.Addams.Family.plex">
-    <title lang="en">The Addams Family</title>
-    <sub-title lang="en">Morticia's Favorite Charity</sub-title>
-    <desc lang="en">Moriticia's favorite charity is having an auction--so Morticia persuades her family to part with things to sell. Donations include Wednesday's headless doll, the old flogging table, a stuffed vulture and Uncle Fester's dynamite.</desc>
-    <date>1965</date>
-    <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
-    <episode-num system="onscreen">S1 E129</episode-num>
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
+<programme start="20261111190700 +0000" stop="20261111193700 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
+    <title lang="en">The Eminence in Shadow</title>
+    <sub-title lang="en">Betting on a Moment</sub-title>
+    <desc lang="en">Cid and Claire receive an invitation to a tournament; at the festivities, Cid receives more attention than a background character desires.</desc>
+    <date>2023</date>
+    <category lang="en">Anime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Bingeworthy</category>
+    <category lang="en">Global</category>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/381e098db3c5511c17bfef66d6e200d2.jpg" />
+    <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
   
-<programme start="20261109160300 +0000" stop="20261109163300 +0000" channel="plex.tv.The.Addams.Family.plex">
-    <title lang="en">The Addams Family</title>
-    <sub-title lang="en">Progress And The Addams Family</sub-title>
-    <desc lang="en">The Addams Family ignores notices that their house is to be condemned to make way for a freeway.  When sudden explosions cannot be traced to any member of the family but, instead, to city workmen, Gomez is forced to consider moving the house.</desc>
-    <date>1965</date>
-    <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
-    <episode-num system="onscreen">S1 E130</episode-num>
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109163300 +0000" stop="20261109170200 +0000" channel="plex.tv.The.Addams.Family.plex">
-    <title lang="en">The Addams Family</title>
-    <sub-title lang="en">Uncle Fester's Toupee</sub-title>
-    <desc lang="en">Uncle Fester's pen pal, Madelyn, is coming to visit. Fester panics, as he has described himself as handsome, heroic and romantic.  Gomez and Morticia agree that all Fester needs is a toupee and they help him make several styles.</desc>
-    <date>1965</date>
-    <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
-    <episode-num system="onscreen">S1 E131</episode-num>
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
+<programme start="20261111193700 +0000" stop="20261111200600 +0000" channel="plex.tv.ANIME.x.HIDIVE.plex">
+    <title lang="en">The Eminence in Shadow</title>
+    <sub-title lang="en">Dancing Puppet</sub-title>
+    <desc lang="en">Doom tries to make war with Midgar; the match between Jimina and Iris begins.</desc>
+    <date>2023</date>
+    <category lang="en">Anime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Bingeworthy</category>
+    <category lang="en">Global</category>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/381e098db3c5511c17bfef66d6e200d2.jpg" />
+    <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
   
 <programme start="20261109170200 +0000" stop="20261109173200 +0000" channel="plex.tv.The.Addams.Family.plex">
@@ -10116,53 +10087,66 @@
     </rating>
   </programme>
   
-<programme start="20261109143600 +0000" stop="20261109150900 +0000" channel="plex.tv.The.Rifleman.plex">
-    <title lang="en">The Rifleman</title>
-    <sub-title lang="en">Young Man's Fancy</sub-title>
-    <desc lang="en">Mark falls head-over-heels in puppy love.</desc>
-    <date>1962</date>
+<programme start="20261111175700 +0000" stop="20261111182700 +0000" channel="plex.tv.The.Addams.Family.plex">
+    <title lang="en">The Addams Family</title>
+    <sub-title lang="en">Morticia And The Psychiatrist</sub-title>
+    <desc lang="en">Morticia calls a psychiatrist after she fears Pugsley is becoming normal after he abandons his pet octopus for a puppy and is seen wearing a Boy Scout uniform, playing with a baseball bat, and helping an old lady cross the street.</desc>
+    <date>1964</date>
     <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
-    <episode-num system="onscreen">S4 E19</episode-num>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
+    <episode-num system="onscreen">S1 E102</episode-num>
     <rating system="US">
       <value>TV-G</value>
     </rating>
   </programme>
   
-<programme start="20261109150900 +0000" stop="20261109154000 +0000" channel="plex.tv.The.Rifleman.plex">
-    <title lang="en">The Rifleman</title>
-    <sub-title lang="en">The Man from Salinas</sub-title>
-    <desc lang="en">A young man arrives in North Fork to claim the body of his dead brother.</desc>
-    <date>1962</date>
+<programme start="20261111182700 +0000" stop="20261111185700 +0000" channel="plex.tv.The.Addams.Family.plex">
+    <title lang="en">The Addams Family</title>
+    <sub-title lang="en">Fester's Punctured Romance</sub-title>
+    <desc lang="en">Uncle Fester, who has become lonely, convinces Gomez and Morticia that it is time for him to find a bride. He decides to put an ad in the newspaper, looking for love. But things go awry when a door-to-door saleswoman comes by.</desc>
+    <date>1964</date>
     <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
-    <episode-num system="onscreen">S4 E20</episode-num>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
+    <episode-num system="onscreen">S1 E103</episode-num>
     <rating system="US">
       <value>TV-G</value>
     </rating>
   </programme>
   
-<programme start="20261109154000 +0000" stop="20261109161200 +0000" channel="plex.tv.The.Rifleman.plex">
-    <title lang="en">The Rifleman</title>
-    <sub-title lang="en">Two Ounces of Tin</sub-title>
-    <desc lang="en">The son of a man allegedly murdered in North Fork comes to town to kill Micah.</desc>
-    <date>1962</date>
+<programme start="20261111185700 +0000" stop="20261111192700 +0000" channel="plex.tv.The.Addams.Family.plex">
+    <title lang="en">The Addams Family</title>
+    <sub-title lang="en">Gomez, The Politician</sub-title>
+    <desc lang="en">Election fever grips the Addams household, as Gomez (John Astin) supports the council candidate whose campaign promise is to drain the town's disgusting bogs.  Morticia (Carolyn Jones), who likes "the lovely bogs," labels the candidate an extremist.</desc>
+    <date>1964</date>
     <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
-    <episode-num system="onscreen">S4 E21</episode-num>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
+    <episode-num system="onscreen">S1 E104</episode-num>
     <rating system="US">
       <value>TV-G</value>
     </rating>
   </programme>
   
-<programme start="20261109161200 +0000" stop="20261109164400 +0000" channel="plex.tv.The.Rifleman.plex">
-    <title lang="en">The Rifleman</title>
-    <sub-title lang="en">Deadly Image</sub-title>
-    <desc lang="en">Lucas is accused of murder by a man who claims to be an eyewitness.</desc>
-    <date>1962</date>
+<programme start="20261111192700 +0000" stop="20261111195700 +0000" channel="plex.tv.The.Addams.Family.plex">
+    <title lang="en">The Addams Family</title>
+    <sub-title lang="en">The Addams Family Tree</sub-title>
+    <desc lang="en">Pugsley and Wednesday start a row at a party when their gift of a tarantula upsets Harold, the birthday boy.  Harold's parents insist that the Addams children lack breeding and, therefore, are no longer allowed to play with their son.</desc>
+    <date>1964</date>
     <category lang="en">Classic tv</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
-    <episode-num system="onscreen">S4 E22</episode-num>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
+    <episode-num system="onscreen">S1 E105</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111195700 +0000" stop="20261111202700 +0000" channel="plex.tv.The.Addams.Family.plex">
+    <title lang="en">The Addams Family</title>
+    <sub-title lang="en">Morticia Joins The Ladies League</sub-title>
+    <desc lang="en">After Pugsley befriends Gorgo, a circus gorilla, Gorgo decides to follow Pugsley and Gomez home, where he is accepted as one of the family. But Gorgo gives Morticia's tea guests, the Ladies League members, quite a shock.</desc>
+    <date>1964</date>
+    <category lang="en">Classic tv</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e8234c8631418ddfa90aeaa28ef8bad1.jpg" />
+    <episode-num system="onscreen">S1 E106</episode-num>
     <rating system="US">
       <value>TV-G</value>
     </rating>
@@ -11363,36 +11347,68 @@
     </rating>
   </programme>
   
-<programme start="20261109140000 +0000" stop="20261109150400 +0000" channel="plex.tv.Misterios.sin.Resolver.plex">
-    <title lang="en">Misterios sin resolver</title>
-    <desc lang="en">Asesinato con Clip de Dinero &amp; Actualización, Actualización: Incendiario Desconocido.</desc>
-    <category lang="en">En Español</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/4bf7541c-4fd9-471f-8464-dab4d95cd741/TRC_xumoTile_FilmRise_MisteriosSinResolver-_1920x1080RDx.jpg" />
-    <episode-num system="onscreen">S3 E9</episode-num>
+<programme start="20261111175000 +0000" stop="20261111182200 +0000" channel="plex.tv.The.Rifleman.plex">
+    <title lang="en">The Rifleman</title>
+    <sub-title lang="en">A Case of Identity</sub-title>
+    <desc lang="en">Two tough private detectives appear in North Fork looking for a boy.</desc>
+    <date>1960</date>
+    <category lang="en">Classic tv</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
+    <episode-num system="onscreen">S2 E17</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109150400 +0000" stop="20261109160300 +0000" channel="plex.tv.Misterios.sin.Resolver.plex">
-    <title lang="en">Misterios sin resolver</title>
-    <desc lang="en">Este episodio incluye: Abajo en la Granja, Actualización: La Promesa, Muerte del Camionero.</desc>
-    <category lang="en">En Español</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/4bf7541c-4fd9-471f-8464-dab4d95cd741/TRC_xumoTile_FilmRise_MisteriosSinResolver-_1920x1080RDx.jpg" />
-    <episode-num system="onscreen">S3 E10</episode-num>
+<programme start="20261111182200 +0000" stop="20261111185400 +0000" channel="plex.tv.The.Rifleman.plex">
+    <title lang="en">The Rifleman</title>
+    <sub-title lang="en">The Visitor</sub-title>
+    <desc lang="en">Lucas is drawn to a young widow passing through town on her way to claim an inheritance.</desc>
+    <date>1960</date>
+    <category lang="en">Classic tv</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
+    <episode-num system="onscreen">S2 E18</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   
-<programme start="20261109160300 +0000" stop="20261109165800 +0000" channel="plex.tv.Misterios.sin.Resolver.plex">
-    <title lang="en">Misterios sin resolver</title>
-    <desc lang="en">Este episodio incluye: Foto de los Muertos, Johnny Lee Wilson (Partes 1 &amp; 2 + Actualización.).</desc>
-    <category lang="en">En Español</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/4bf7541c-4fd9-471f-8464-dab4d95cd741/TRC_xumoTile_FilmRise_MisteriosSinResolver-_1920x1080RDx.jpg" />
-    <episode-num system="onscreen">S3 E11</episode-num>
+<programme start="20261111185400 +0000" stop="20261111192600 +0000" channel="plex.tv.The.Rifleman.plex">
+    <title lang="en">The Rifleman</title>
+    <sub-title lang="en">Hero</sub-title>
+    <desc lang="en">After a stablehand kills a notorious gunslinger, he is baffled by the hostility of the townspeople.</desc>
+    <date>1960</date>
+    <category lang="en">Classic tv</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
+    <episode-num system="onscreen">S2 E19</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111192600 +0000" stop="20261111195800 +0000" channel="plex.tv.The.Rifleman.plex">
+    <title lang="en">The Rifleman</title>
+    <sub-title lang="en">The Horse Traders</sub-title>
+    <desc lang="en">Lucas and Mark help a friend who has been cheated in a horse trade.</desc>
+    <date>1960</date>
+    <category lang="en">Classic tv</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111195800 +0000" stop="20261111203000 +0000" channel="plex.tv.The.Rifleman.plex">
+    <title lang="en">The Rifleman</title>
+    <sub-title lang="en">The Spoiler</sub-title>
+    <desc lang="en">An elderly couple moves to North Fork to hide the fact that they are the parents of a killer.</desc>
+    <date>1960</date>
+    <category lang="en">Classic tv</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c318399132cc20fd40fb27354c397e.jpg" />
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
     </rating>
   </programme>
   
@@ -11956,20 +11972,26 @@
     </rating>
   </programme>
   
-<programme start="20261109144400 +0300" stop="20261109151100 +0300" channel="LIFETIME.tr">
-    <title lang="tr">Şikagolu İkinci El Kralları</title>
+<programme start="20261111181000 +0000" stop="20261111191000 +0000" channel="plex.tv.Misterios.sin.Resolver.plex">
+    <title lang="en">Misterios sin resolver</title>
+    <desc lang="en">Este episodio incluye: OVNI Canadiense, Actualización: El Grupo de Brenda, DOE Dejado &amp; Actualización.</desc>
+    <category lang="en">En Español</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/4bf7541c-4fd9-471f-8464-dab4d95cd741/TRC_xumoTile_FilmRise_MisteriosSinResolver-_1920x1080RDx.jpg" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
   </programme>
   
-<programme start="20261109151100 +0300" stop="20261109153900 +0300" channel="LIFETIME.tr">
-    <title lang="tr">Şikagolu İkinci El Kralları</title>
-  </programme>
-  
-<programme start="20261109153900 +0300" stop="20261109160600 +0300" channel="LIFETIME.tr">
-    <title lang="tr">Antika Avcıları</title>
-  </programme>
-  
-<programme start="20261109160600 +0300" stop="20261109163400 +0300" channel="LIFETIME.tr">
-    <title lang="tr">Antika Avcıları</title>
+<programme start="20261111191000 +0000" stop="20261111201000 +0000" channel="plex.tv.Misterios.sin.Resolver.plex">
+    <title lang="en">Misterios sin resolver</title>
+    <desc lang="en">Este episodio incluye: ¿Quién Mató a Jeanine? (Partes 1 &amp; 2) &amp; Actualización, Actualización.</desc>
+    <category lang="en">En Español</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/4bf7541c-4fd9-471f-8464-dab4d95cd741/TRC_xumoTile_FilmRise_MisteriosSinResolver-_1920x1080RDx.jpg" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
   </programme>
   
 <programme start="20261109163400 +0300" stop="20261109173400 +0300" channel="LIFETIME.tr">
@@ -12231,55 +12253,16 @@
     <title lang="tr">Tamirat Tadilat</title>
   </programme>
   
-<programme channel="Vevo.True.School.Hip-Hop.us2" start="20261109130000 +0000" stop="20261109150000 +0000">
-    <title lang="en">The 00s Era</title>
-    <desc lang="en">Dive back into the crunk years with the decade's hottest videos!</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34486292_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S93 E411</episode-num>
-    <previously-shown />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
+<programme start="20261111183400 +0300" stop="20261111190200 +0300" channel="LIFETIME.tr">
+    <title lang="tr">Nakliye Savaşları</title>
   </programme>
   
-<programme channel="Vevo.True.School.Hip-Hop.us2" start="20261109150000 +0000" stop="20261109160000 +0000">
-    <title lang="en">True School Essentials</title>
-    <desc lang="en">Videos that stay true to hip-hop culture.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34485319_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S93 E415</episode-num>
-    <previously-shown />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
+<programme start="20261111190200 +0300" stop="20261111193000 +0300" channel="LIFETIME.tr">
+    <title lang="tr">Nakliye Savaşları</title>
   </programme>
   
-<programme channel="Vevo.True.School.Hip-Hop.us2" start="20261109160000 +0000" stop="20261109170000 +0000">
-    <title lang="en">Underground Rising</title>
-    <desc lang="en">Videos from new and emerging MCs.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34486112_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S93 E417</episode-num>
-    <previously-shown />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
+<programme start="20261111193000 +0300" stop="20261111203000 +0300" channel="LIFETIME.tr">
+    <title lang="tr">Altın Peşinde: Alaska</title>
   </programme>
   
 <programme channel="Vevo.True.School.Hip-Hop.us2" start="20261109170000 +0000" stop="20261109180000 +0000">
@@ -12948,60 +12931,55 @@
     </rating>
   </programme>
   
-<programme channel="MeTV.Toons.us2" start="20261109140000 +0000" stop="20261109150000 +0000">
-    <title lang="en">Bugs Bunny and Friends</title>
-    <desc lang="en">The greatest animated characters and cartoons produced at Warner Bros. legendary Termite Terrace; Bugs Bunny, Daffy Duck, Road Runner and all their friends are featured here weekly.</desc>
-    <date>2021</date>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19292303_b_h8_ab.jpg?w=960&amp;h=540" />
+<programme channel="Vevo.True.School.Hip-Hop.us2" start="20261111180000 +0000" stop="20261111190000 +0000">
+    <title lang="en">Lyrics to Go</title>
+    <desc lang="en">Take a break and lounge out with some of the best lyricists.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23877334_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S93 E517</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating>
   </programme>
   
-<programme channel="MeTV.Toons.us2" start="20261109150000 +0000" stop="20261109153000 +0000">
-    <title lang="en">Mighty Man and Yukk</title>
-    <sub-title lang="en">Big Mouse the Bad Mouse; Magnet Man</sub-title>
-    <desc lang="en">Tiny superhero Mighty Man and his dog, Yukk, fight crime.</desc>
-    <date>2002</date>
+<programme channel="Vevo.True.School.Hip-Hop.us2" start="20261111190000 +0000" stop="20261111200000 +0000">
+    <title lang="en">Heavy Spitters</title>
+    <desc lang="en">Real MC's, Real Lyrics.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="http://dtil.tmsimg.com/assets/p802207_b_h8_aa.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <category lang="en">Hip-Hop &amp; Rap</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21457572_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S93 E519</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
+      <value>14+</value>
     </rating>
   </programme>
   
-<programme channel="MeTV.Toons.us2" start="20261109153000 +0000" stop="20261109160000 +0000">
-    <title lang="en">Mighty Man and Yukk</title>
-    <sub-title lang="en">Anthead; Never Retire With Mr. and Mrs. Van Pire</sub-title>
-    <desc lang="en">Tiny superhero Mighty Man and his dog, Yukk, fight crime.</desc>
-    <date>2003</date>
+<programme channel="Vevo.True.School.Hip-Hop.us2" start="20261111200000 +0000" stop="20261111210000 +0000">
+    <title lang="en">True School Live</title>
+    <desc lang="en">Watch legendary artists on stage during their hottest moment.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="http://dtil.tmsimg.com/assets/p802207_b_h8_aa.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34486096_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S93 E521</episode-num>
     <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
     <rating system="Canadian Parental Rating">
-      <value>G</value>
+      <value>14+</value>
     </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
   </programme>
   
@@ -14730,6 +14708,59 @@
     </rating>
     <rating system="Canadian Parental Rating">
       <value>C8</value>
+    </rating>
+  </programme>
+  
+<programme channel="MeTV.Toons.us2" start="20261111180000 +0000" stop="20261111190000 +0000">
+    <title lang="en">Popeye and Pals</title>
+    <desc lang="en">Popeye, Bluto, Olive Oyl and all his seafaring friends star in these original theatrical cartoons from the genius of Max Fleischer; included are Betty Boop and Bimbo shorts.</desc>
+    <date>2021</date>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19292211_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="MeTV.Toons.us2" start="20261111190000 +0000" stop="20261111200000 +0000">
+    <title lang="en">The Woody Woodpecker and Casper Hour</title>
+    <desc lang="en">A collection of cartoon shorts from the worlds of "Woody Woodpecker" and "Casper the Friendly Ghost," featuring characters like Chilly Willy, Little Audrey, Andy Panda, Baby Huey and more.</desc>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p34287125_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="MeTV.Toons.us2" start="20261111200000 +0000" stop="20261111203000 +0000">
+    <title lang="en">Super Friends: The Legendary Super Powers Show</title>
+    <sub-title lang="en">The Case of the Dreadful Dolls; The Royal Ruse</sub-title>
+    <desc lang="en">The Toyman creates dolls capable of controlling the Super Friends; a princess lures the Super Friends into a trap.</desc>
+    <date>1984</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9239073_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
   </programme>
   

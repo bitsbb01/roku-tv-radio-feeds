@@ -167,18 +167,6 @@
     <display-name lang="en">NTV</display-name>
   </channel>
   
-<programme start="20261109130000 +0000" stop="20261109150000 +0000" channel="NTV.al">
-    <title lang="sq">Programet e NTV</title>
-    <desc lang="sq">Programet e NTV.</desc>
-    <icon src="https://vimg.ipko.tv/mtcms/7b/f/d/7bfd6e90-11b6-4c2b-b417-a0395e1dd479.jpg" />
-  </programme>
-  
-<programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="NTV.al">
-    <title lang="sq">Programet e NTV</title>
-    <desc lang="sq">Programet e NTV.</desc>
-    <icon src="https://vimg.ipko.tv/mtcms/7b/f/d/7bfd6e90-11b6-4c2b-b417-a0395e1dd479.jpg" />
-  </programme>
-  
 <programme start="20261109170000 +0000" stop="20261109190000 +0000" channel="NTV.al">
     <title lang="sq">Programet e NTV</title>
     <desc lang="sq">Programet e NTV.</desc>
@@ -329,67 +317,10 @@
     <icon src="https://vimg.ipko.tv/mtcms/7b/f/d/7bfd6e90-11b6-4c2b-b417-a0395e1dd479.jpg" />
   </programme>
   
-<programme start="20261109143000 +0100" stop="20261109150000 +0100" channel="NTV.at">
-    <title lang="de">News Spezial</title>
-    <desc lang="de">Die Sondersendungen des Nachrichtenformats werden zu besonderen Anlässen ausgestrahlt. Sie behandeln aktuelle, oft außergewöhnliche oder besonders relevante Themen aus Politik, Wirtschaft und Gesellschaft. Häuft geht es um bedeutende Ereignisse wie Wahlen, Natur-Katastrophen, Terror-Anschläge, große politische Entscheidungen oder weltweite Krisen. Geboten werden Analysen, Hintergrund-Berichte und Kommentare genauso wie Live-Schalten zu Experten oder Korrespondenten. So können die Zuschauer umfassender und detaillierter über aktuelle Entwicklungen informiert werden als in einer regulären Nachrichten-Sendung.</desc>
-    <category lang="de">news</category>
-    <category lang="de">current affairs (general)</category>
-    <icon src="https://files.fairu.app/e5aa4942-c014-5460-8d7f-a3b059ecb535/news-spezialjpg.jpg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109150000 +0100" stop="20261109153000 +0100" channel="NTV.at">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.</desc>
-    <category lang="de">news</category>
-    <category lang="de">current affairs (general)</category>
-    <icon src="https://files.fairu.app/123115d2-881a-5da3-bac5-b67aaa138483/nachrichtenjpg_1792831653.jpg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109153000 +0100" stop="20261109154000 +0100" channel="NTV.at">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort - vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten.</desc>
-    <category lang="de">news</category>
-    <category lang="de">current affairs</category>
-    <icon src="https://files.fairu.app/3b4124a3-3a11-5d76-9925-3899788e8b8a/ntv-wirtschaftjpg.jpg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109154000 +0100" stop="20261109160000 +0100" channel="NTV.at">
-    <title lang="de">ntv Startup</title>
-    <sub-title lang="de">Thema u.a.: Preisträger des KfW Award</sub-title>
-    <desc lang="de">Startups gewinnen als wichtiger Impulsgeber für Wirtschaft und Gesellschaft zunehmend an Bedeutung. In dieser Ausgabe von ntv Startup geht es um Gewinnerinnen und Gewinner des angesehenen Gründerwettbewerbs "KfW Award Gründen.</desc>
-    <category lang="de">news magazine</category>
-    <icon src="https://files.fairu.app/01484f21-b433-5cf0-9134-64d08edc8d5a/ntv-startupjpg.jpg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109160000 +0100" stop="20261109161500 +0100" channel="NTV.at">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.</desc>
-    <category lang="de">news</category>
-    <category lang="de">current affairs (general)</category>
-    <icon src="https://files.fairu.app/7ed90893-8d40-5952-9817-b7e5226b213f/nachrichtenjpg_1792831653.jpg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109161500 +0100" stop="20261109163000 +0100" channel="NTV.at">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort - vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten.</desc>
-    <category lang="de">news</category>
-    <category lang="de">current affairs</category>
-    <icon src="https://files.fairu.app/3b4124a3-3a11-5d76-9925-3899788e8b8a/ntv-wirtschaftjpg.jpg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109163000 +0100" stop="20261109170000 +0100" channel="NTV.at">
-    <title lang="de">News Spezial</title>
-    <desc lang="de">Die Sondersendungen des Nachrichtenformats werden zu besonderen Anlässen ausgestrahlt. Sie behandeln aktuelle, oft außergewöhnliche oder besonders relevante Themen aus Politik, Wirtschaft und Gesellschaft. Häuft geht es um bedeutende Ereignisse wie Wahlen, Natur-Katastrophen, Terror-Anschläge, große politische Entscheidungen oder weltweite Krisen. Geboten werden Analysen, Hintergrund-Berichte und Kommentare genauso wie Live-Schalten zu Experten oder Korrespondenten. So können die Zuschauer umfassender und detaillierter über aktuelle Entwicklungen informiert werden als in einer regulären Nachrichten-Sendung.</desc>
-    <category lang="de">news</category>
-    <category lang="de">current affairs (general)</category>
-    <icon src="https://files.fairu.app/e5aa4942-c014-5460-8d7f-a3b059ecb535/news-spezialjpg.jpg" />
-    <country lang="de">D</country>
+<programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="NTV.al">
+    <title lang="sq">Programet e NTV</title>
+    <desc lang="sq">Programet e NTV.</desc>
+    <icon src="https://vimg.ipko.tv/mtcms/7b/f/d/7bfd6e90-11b6-4c2b-b417-a0395e1dd479.jpg" />
   </programme>
   
 <programme start="20261109170000 +0100" stop="20261109171500 +0100" channel="NTV.at">
@@ -1556,18 +1487,67 @@
     <country lang="de">D</country>
   </programme>
   
-<programme channel="Stingray.iConcerts.HD.be" start="20261109140300 +0000" stop="20261109162600 +0000">
-    <title lang="en">Peter Gabriel: New Blood Live in London</title>
-    <desc lang="en">Filmed at the Hammersmith Apollo in March 2011, New Blood - Live In London captures Peter Gabriel performing live with the 46 piece New Blood Orchestra.</desc>
-    <date>2017</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14148167_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
+<programme start="20261111180000 +0100" stop="20261111183000 +0100" channel="NTV.at">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.</desc>
+    <category lang="de">news</category>
+    <category lang="de">current affairs (general)</category>
+    <icon src="https://files.fairu.app/8c01fd05-8b70-5780-8f57-565d670186b9/nachrichtenjpg_1793004625.jpg" />
+    <country lang="de">D</country>
+  </programme>
+  
+<programme start="20261111183000 +0100" stop="20261111184000 +0100" channel="NTV.at">
+    <title lang="de">ntv Wirtschaft</title>
+    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort - vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten.</desc>
+    <category lang="de">news</category>
+    <category lang="de">current affairs</category>
+    <icon src="https://files.fairu.app/363cdf3f-c330-5098-af82-da30c0df81ca/ntv-wirtschaftjpg.jpg" />
+    <country lang="de">D</country>
+  </programme>
+  
+<programme start="20261111184000 +0100" stop="20261111190000 +0100" channel="NTV.at">
+    <title lang="de">ntv Service</title>
+    <sub-title lang="de">Thema u.a.: Veggie-Hack-Alternativen im Test</sub-title>
+    <desc lang="de">Die aktuellen politischen und wirtschaftlichen Entwicklungen zeigen, wie sehr wir als Konsumenten von den Folgen betroffen sind. Verbrauchersendungen sortieren die relevanten Informationen und bereiten sie für die Zuschauer verständlich und zuverlässig auf. ntv baut mit dem Service-Magazin seine jahrelange Kompetenz bei Ratgeber-Themen weiter aus und besetzt gleichzeitig auch neue Themenfelder. Im Mittelpunkt stehen alltagsnahe Fragen, praktische Tipps und Einordnungen, die helfen, komplexe Zusammenhänge besser zu verstehen und fundierte Entscheidungen im Alltag zu treffen.</desc>
+    <category lang="de">news magazine</category>
+    <icon src="https://files.fairu.app/7aca8d98-acbe-514d-92cf-295c2d8ecd76/ntv-servicejpg_1793004625.jpg" />
+    <country lang="de">D</country>
+  </programme>
+  
+<programme start="20261111190000 +0100" stop="20261111191500 +0100" channel="NTV.at">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.</desc>
+    <category lang="de">news</category>
+    <category lang="de">current affairs (general)</category>
+    <icon src="https://files.fairu.app/44e4c025-abb2-5526-9afb-831f595837d5/nachrichtenjpg_1793004626.jpg" />
+    <country lang="de">D</country>
+  </programme>
+  
+<programme start="20261111191500 +0100" stop="20261111193000 +0100" channel="NTV.at">
+    <title lang="de">ntv Wirtschaft</title>
+    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort - vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten.</desc>
+    <category lang="de">news</category>
+    <category lang="de">current affairs</category>
+    <icon src="https://files.fairu.app/363cdf3f-c330-5098-af82-da30c0df81ca/ntv-wirtschaftjpg.jpg" />
+    <country lang="de">D</country>
+  </programme>
+  
+<programme start="20261111193000 +0100" stop="20261111200000 +0100" channel="NTV.at">
+    <title lang="de">News Spezial</title>
+    <desc lang="de">Die Sondersendungen des Nachrichtenformats werden zu besonderen Anlässen ausgestrahlt. Sie behandeln aktuelle, oft außergewöhnliche oder besonders relevante Themen aus Politik, Wirtschaft und Gesellschaft. Häuft geht es um bedeutende Ereignisse wie Wahlen, Natur-Katastrophen, Terror-Anschläge, große politische Entscheidungen oder weltweite Krisen. Geboten werden Analysen, Hintergrund-Berichte und Kommentare genauso wie Live-Schalten zu Experten oder Korrespondenten. So können die Zuschauer umfassender und detaillierter über aktuelle Entwicklungen informiert werden als in einer regulären Nachrichten-Sendung.</desc>
+    <category lang="de">news</category>
+    <category lang="de">current affairs (general)</category>
+    <icon src="https://files.fairu.app/5197404f-dbae-5c52-8962-945d13bac045/news-spezialjpg.jpg" />
+    <country lang="de">D</country>
+  </programme>
+  
+<programme start="20261111200000 +0100" stop="20261111201500 +0100" channel="NTV.at">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.</desc>
+    <category lang="de">news</category>
+    <category lang="de">current affairs (general)</category>
+    <icon src="https://files.fairu.app/ea8f6ebe-76b2-5ce9-9e11-44e92436e48a/nachrichtenjpg_1793004626.jpg" />
+    <country lang="de">D</country>
   </programme>
   
 <programme channel="Stingray.iConcerts.HD.be" start="20261109162600 +0000" stop="20261109182900 +0000">
@@ -2380,114 +2360,17 @@
     </rating>
   </programme>
   
-<programme channel="n-tv.be" start="20261109144000 +0000" stop="20261109150000 +0000">
-    <title lang="de">Startup Magazin</title>
-    <sub-title lang="de">Folge 09_034</sub-title>
-    <desc lang="de">Start-ups gewinnen als wichtiger Impulsgeber für Wirtschaft und Gesellschaft zunehmend an Bedeutung. Dieses Magazin widmet sich in jeder Ausgabe jeweils einem Thema, das Janna Linke gemeinsam mit einem Experten von verschiedenen Seiten beleuchtet.</desc>
-    <credits>
-      <actor>Etienne Bell</actor>
-      <actor>Carola Ferstl</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">Documentary</category>
-    <category lang="de">Bus./financial</category>
-    <category lang="de">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15247922_st_h10_ae.jpg?w=960&amp;h=540" />
+<programme channel="Stingray.iConcerts.HD.be" start="20261111194000 +0000" stop="20261111200700 +0000">
+    <title lang="en">Florence And The Machine - Austin City Limits</title>
+    <desc lang="en">Florence and the Machine perform at the Austin City Limits Music Festival, an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
+    <category lang="en">Special</category>
+    <category lang="en">Music</category>
+    <category lang="en">Concert</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26310960_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
     </rating>
-  </programme>
-  
-<programme channel="n-tv.be" start="20261109150000 +0000" stop="20261109151500 +0000">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
-    <credits>
-      <actor>Etienne Bell</actor>
-      <actor>Mara Bergmann</actor>
-      <actor>Annika De Buhr</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">News</category>
-    <category lang="de">Politics</category>
-    <category lang="de">Weather</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10943759_b_h8_ah.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  
-<programme channel="n-tv.be" start="20261109151500 +0000" stop="20261109153000 +0000">
-    <title lang="de">ntv Wirtschaft</title>
-    <sub-title lang="de">Folge 11_009</sub-title>
-    <desc lang="de">Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
-    <credits>
-      <actor>Raimund Brichta</actor>
-      <actor>Isabelle Körner</actor>
-      <actor>Astrid Fronja</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">News</category>
-    <category lang="de">Bus./financial</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32924156_st_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  
-<programme channel="n-tv.be" start="20261109153000 +0000" stop="20261109160000 +0000">
-    <title lang="de">News Spezial</title>
-    <sub-title lang="de">Folge 11_009</sub-title>
-    <desc lang="de">Das Nachrichtenmagazin berichtet über die aktuellsten Ereignisse und spezielle Themen.</desc>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10943774_st_h10_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  
-<programme channel="n-tv.be" start="20261109160000 +0000" stop="20261109161500 +0000">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
-    <credits>
-      <actor>Etienne Bell</actor>
-      <actor>Mara Bergmann</actor>
-      <actor>Annika De Buhr</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">News</category>
-    <category lang="de">Politics</category>
-    <category lang="de">Weather</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10943759_b_h8_ah.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  
-<programme channel="n-tv.be" start="20261109161500 +0000" stop="20261109163000 +0000">
-    <title lang="de">ntv Wirtschaft</title>
-    <sub-title lang="de">Folge 11_009</sub-title>
-    <desc lang="de">Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
-    <credits>
-      <actor>Raimund Brichta</actor>
-      <actor>Isabelle Körner</actor>
-      <actor>Astrid Fronja</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">News</category>
-    <category lang="de">Bus./financial</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32924156_st_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  
-<programme channel="n-tv.be" start="20261109163000 +0000" stop="20261109170000 +0000">
-    <title lang="de">News Spezial</title>
-    <sub-title lang="de">Folge 11_009</sub-title>
-    <desc lang="de">Das Nachrichtenmagazin berichtet über die aktuellsten Ereignisse und spezielle Themen.</desc>
-    <date>2026</date>
-    <category lang="de">Series</category>
-    <category lang="de">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10943774_st_h10_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />
   </programme>
   
 <programme channel="n-tv.be" start="20261109170000 +0000" stop="20261109173000 +0000">
@@ -4437,27 +4320,118 @@
     </rating>
   </programme>
   
-<programme channel="BNN.Bloomberg.ca2" start="20261109140000 +0000" stop="20261109160000 +0000">
-    <title lang="en">The Open</title>
-    <desc lang="en">Veteran financial journalist Andrew Bell delivers insight on market movers and stories driving action, plus real-time coverage of Canadian and U.S. markets.</desc>
+<programme channel="n-tv.be" start="20261111180000 +0000" stop="20261111181500 +0000">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
     <credits>
-      <actor>Amber Kanwar</actor>
-      <actor>Jon Erlichman</actor>
+      <actor>Etienne Bell</actor>
+      <actor>Mara Bergmann</actor>
+      <actor>Annika De Buhr</actor>
     </credits>
-    <date>2018</date>
-    <category lang="en">Bus./financial</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15456027_b_h8_ab.jpg?w=960&amp;h=540" />
+    <date>2026</date>
+    <category lang="de">Series</category>
+    <category lang="de">News</category>
+    <category lang="de">Politics</category>
+    <category lang="de">Weather</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10943759_b_h8_ah.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E16462</episode-num>
     <previously-shown />
   </programme>
   
-<programme channel="BNN.Bloomberg.ca2" start="20261109160000 +0000" stop="20261109170000 +0000">
-    <title lang="en">Morning Markets</title>
-    <desc lang="en">Breaking news and interviews with North America's experts on how to best position investment portfolios.</desc>
+<programme channel="n-tv.be" start="20261111181500 +0000" stop="20261111183000 +0000">
+    <title lang="de">ntv Wirtschaft</title>
+    <sub-title lang="de">Folge 11_011</sub-title>
+    <desc lang="de">Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
+    <credits>
+      <actor>Raimund Brichta</actor>
+      <actor>Isabelle Körner</actor>
+      <actor>Astrid Fronja</actor>
+    </credits>
     <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Bus./financial</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23801193_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E223</episode-num>
+    <category lang="de">Series</category>
+    <category lang="de">News</category>
+    <category lang="de">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32924156_st_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  
+<programme channel="n-tv.be" start="20261111183000 +0000" stop="20261111190000 +0000">
+    <title lang="de">News Spezial</title>
+    <sub-title lang="de">Folge 11_011</sub-title>
+    <desc lang="de">Das Nachrichtenmagazin berichtet über die aktuellsten Ereignisse und spezielle Themen.</desc>
+    <date>2026</date>
+    <category lang="de">Series</category>
+    <category lang="de">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10943774_st_h10_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  
+<programme channel="n-tv.be" start="20261111190000 +0000" stop="20261111191500 +0000">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
+    <credits>
+      <actor>Etienne Bell</actor>
+      <actor>Mara Bergmann</actor>
+      <actor>Annika De Buhr</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="de">Series</category>
+    <category lang="de">News</category>
+    <category lang="de">Politics</category>
+    <category lang="de">Weather</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10943759_b_h8_ah.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E16463</episode-num>
+    <previously-shown />
+  </programme>
+  
+<programme channel="n-tv.be" start="20261111191500 +0000" stop="20261111200000 +0000">
+    <title lang="de">Mysteriöse Phänomene - Rätsel von oben</title>
+    <sub-title lang="de">Folge 5</sub-title>
+    <desc lang="de">Diesmal geht es um eine sich drehende Insel in einem argentinischen Sumpf, ein riesiges geometrisches Dreieck in der Wüste von Arizona und um mehrfarbige Pools in Äthiopien sowie um eine gigantische menschliche Figur im australischen Outback.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>George Kourounis</actor>
+      <actor>Guy Walters</actor>
+      <director>Suzan Yum</director>
+    </credits>
+    <date>2024</date>
+    <category lang="de">Series</category>
+    <category lang="de">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21741630_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+<programme channel="n-tv.be" start="20261111200000 +0000" stop="20261111200500 +0000">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
+    <credits>
+      <actor>Etienne Bell</actor>
+      <actor>Mara Bergmann</actor>
+      <actor>Annika De Buhr</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="de">Series</category>
+    <category lang="de">News</category>
+    <category lang="de">Politics</category>
+    <category lang="de">Weather</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10943759_b_h8_ah.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E16464</episode-num>
     <previously-shown />
   </programme>
   
@@ -5055,34 +5029,26 @@
     <previously-shown />
   </programme>
   
-<programme channel="NTV.ca2" start="20261109140000 +0000" stop="20261109150000 +0000">
-    <title lang="en">The Morning Show</title>
-    <desc lang="en">Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and performances.</desc>
+<programme channel="BNN.Bloomberg.ca2" start="20261111180000 +0000" stop="20261111185900 +0000">
+    <title lang="en">Trading Day</title>
+    <desc lang="en">"Trading Day" delivers real-time coverage of breaking business news and expert analysis on stocks and stories shaping today's market action.</desc>
     <credits>
-      <actor>Carolyn Mackenzie</actor>
-      <actor>Jeff McArthur</actor>
-      <actor>Liem Vu</actor>
+      <actor>Amber Kanwar</actor>
     </credits>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <date>2008</date>
+    <category lang="en">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p963944_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
   
-<programme channel="NTV.ca2" start="20261109150000 +0000" stop="20261109153000 +0000">
-    <title lang="en">100 Huntley Street</title>
-    <desc lang="en">Providing the Gospel of Jesus Christ on a daily basis.</desc>
-    <credits>
-      <actor>John Hull</actor>
-      <actor>Joe Amaral</actor>
-      <actor>Moira Brown</actor>
-    </credits>
-    <date>1977</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20272024_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+<programme channel="BNN.Bloomberg.ca2" start="20261111185900 +0000" stop="20261111200000 +0000">
+    <title lang="en">Bloomberg Businessweek Daily</title>
+    <desc lang="en">Carol Massar and Tim Stenovec bring the latest news from the world of business and finance and the interesting stories of global technology, politics, economics and more by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
+    <date>2026</date>
+    <category lang="en">Bus./financial</category>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32937032_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating>
@@ -5094,44 +5060,16 @@
     </rating>
   </programme>
   
-<programme channel="NTV.ca2" start="20261109153000 +0000" stop="20261109160000 +0000">
-    <title lang="en">NTV Newsday</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p817815_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  
-<programme channel="NTV.ca2" start="20261109160000 +0000" stop="20261109170000 +0000">
-    <title lang="en">The Young and the Restless</title>
-    <desc lang="en">Adam overstays his welcome; Claire pushes Audra's buttons; Abby shares concerns about her health with Devon; Phyllis reveals a new business plan.</desc>
+<programme channel="BNN.Bloomberg.ca2" start="20261111200000 +0000" stop="20261111203000 +0000">
+    <title lang="en">Commodities</title>
+    <desc lang="en">Andrew Bell provides insight into the world of commodities and the companies that produce them, including interviews with mineral and mining entrepreneurs from Canada and around the globe.</desc>
     <credits>
-      <actor>Peter Bergman</actor>
-      <actor>Eric Braeden</actor>
-      <actor>Christel Khalil</actor>
+      <actor>Andrew Bell</actor>
     </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S54 E23</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
+    <date>2009</date>
+    <category lang="en">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7840840_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
   
 <programme channel="NTV.ca2" start="20261109170000 +0000" stop="20261109173000 +0000">
@@ -6527,15 +6465,121 @@
     </rating>
   </programme>
   
-<programme channel="Stingray.Remember.the.’80s.ca2" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="en">Stingray Remember the '80s</title>
-    <desc lang="en">The best of pop music from the 80s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11762905_b_h8_aa.jpg?w=960&amp;h=540" />
+<programme channel="NTV.ca2" start="20261111180000 +0000" stop="20261111190000 +0000">
+    <title lang="en">TMS2</title>
+    <desc lang="en">TMS2 brings the biggest names, hottest entertainment stories and must-know lifestyle trends to Canadians every weekday afternoon, hosted by Morgan Hoffman and Brad Smith, and featuring Entertainment Reporter, Brittnee Blair; from exclusive celebrity interviews and pop culture coverage to expert advice on food, fashion, home and wellness, TMS2 gives viewers an entertaining, interactive way to stay in the know.</desc>
+    <credits>
+      <actor>Morgan Hoffman</actor>
+      <actor>Brad Smith</actor>
+      <actor>Brittnee Blair</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">News</category>
+    <category lang="en">Interview</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33991719_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
+  </programme>
+  
+<programme channel="NTV.ca2" start="20261111190000 +0000" stop="20261111193000 +0000">
+    <title lang="en">The Drew Barrymore Show</title>
+    <sub-title lang="en">AnnaSophia Robb</sub-title>
+    <desc lang="en">AnnaSophia Robb ("I Play Rocky").</desc>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>AnnaSophia Robb</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E83</episode-num>
+    <premiere lang="en" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+<programme channel="NTV.ca2" start="20261111193000 +0000" stop="20261111200000 +0000">
+    <title lang="en">The Drew Barrymore Show</title>
+    <sub-title lang="en">John Malkovich</sub-title>
+    <desc lang="en">John Malkovich plays a round of behind-the-scenes, dishing on some of his biggest roles, and tells Drew about starring in "Wild Horse Nine.".</desc>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>John Malkovich</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E84</episode-num>
+    <premiere lang="en" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+<programme channel="NTV.ca2" start="20261111200000 +0000" stop="20261111203000 +0000">
+    <title lang="en">Abbott Elementary</title>
+    <sub-title lang="en">Double Date</sub-title>
+    <desc lang="en">Two teachers head out on a double date, but when they run into familiar bar patrons, it proves to be an unfortunate distraction; at Ava's first book club meeting, the group ends up in a debate over who would be the best post-apocalyptic leader.</desc>
+    <credits>
+      <actor>Quinta Brunson</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Janelle James</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20001974_b_h8_ar.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
   </programme>
   
 <programme channel="Stingray.Remember.the.’80s.ca2" start="20261109150000 +0000" stop="20261109190000 +0000">
@@ -6681,63 +6725,15 @@
     <previously-shown />
   </programme>
   
-<programme channel="n-tv.ch" start="20261109144000 +0000" stop="20261109150000 +0000">
-    <title lang="de">Startup Magazin</title>
-    <desc lang="de">Start-ups gewinnen als wichtiger Impulsgeber für Wirtschaft und Gesellschaft zunehmend an Bedeutung. Dieses Magazin widmet sich in jeder Ausgabe jeweils einem Thema, das Janna Linke gemeinsam mit einem Experten von verschiedenen Seiten beleuchtet.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15247922bdh10aa_Backdrop_W660.webp" />
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  
-<programme channel="n-tv.ch" start="20261109150000 +0000" stop="20261109151500 +0000">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943759bdh8ag_Backdrop_W660.webp" />
-    <country lang="de">DE</country>
-  </programme>
-  
-<programme channel="n-tv.ch" start="20261109151500 +0000" stop="20261109153000 +0000">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32924156bh8aa_BannerL1_W660.webp" />
-    <country lang="de">DE</country>
-  </programme>
-  
-<programme channel="n-tv.ch" start="20261109153000 +0000" stop="20261109160000 +0000">
-    <title lang="de">News Spezial</title>
-    <desc lang="de">Das Nachrichtenmagazin berichtet über die aktuellsten Ereignisse und spezielle Themen.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943774ih10aa_Iconic_W660.webp" />
-    <country lang="de">DE</country>
-  </programme>
-  
-<programme channel="n-tv.ch" start="20261109160000 +0000" stop="20261109161500 +0000">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943759bdh8ag_Backdrop_W660.webp" />
-    <country lang="de">DE</country>
-  </programme>
-  
-<programme channel="n-tv.ch" start="20261109161500 +0000" stop="20261109163000 +0000">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32924156bh8aa_BannerL1_W660.webp" />
-    <country lang="de">DE</country>
-  </programme>
-  
-<programme channel="n-tv.ch" start="20261109163000 +0000" stop="20261109170000 +0000">
-    <title lang="de">News Spezial</title>
-    <desc lang="de">Das Nachrichtenmagazin berichtet über die aktuellsten Ereignisse und spezielle Themen.</desc>
-    <date>2026</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943774ih10aa_Iconic_W660.webp" />
-    <country lang="de">DE</country>
+<programme channel="Stingray.Remember.the.’80s.ca2" start="20261111190000 +0000" stop="20261111230000 +0000">
+    <title lang="en">Stingray Remember the '80s</title>
+    <desc lang="en">The best of pop music from the 80s.</desc>
+    <date>2015</date>
+    <category lang="en">Special</category>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11762905_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
   
 <programme channel="n-tv.ch" start="20261109170000 +0000" stop="20261109173000 +0000">
@@ -7723,66 +7719,59 @@
     </rating>
   </programme>
   
-<programme start="20261109144000 +0000" stop="20261109150000 +0000" channel="ntv.de">
-    <title lang="de">ntv Startup</title>
-    <sub-title lang="de">Thema u.a.: Preisträger des KfW Award</sub-title>
-    <desc lang="de">Startups gewinnen als wichtiger Impulsgeber für Wirtschaft und Gesellschaft zunehmend an Bedeutung. In dieser Ausgabe von ntv Startup geht es um Gewinnerinnen und Gewinner des angesehenen Gründerwettbewerbs "KfW Award Gründen.</desc>
-    <date>2026</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/22/79/3e/6aedea15328b063a1f3e7922.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  
-<programme start="20261109150000 +0000" stop="20261109151500 +0000" channel="ntv.de">
+<programme channel="n-tv.ch" start="20261111180000 +0000" stop="20261111181500 +0000">
     <title lang="de">Nachrichten</title>
-    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen. (Senderinfo).</desc>
+    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
     <date>2026</date>
-    <category lang="de">Nachrichten</category>
-    <icon src="http://img.tvspielfilm.de/cf/59/17/54597287e4b0f17a831759cf.jpeg" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943759bdh8ag_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
   </programme>
   
-<programme start="20261109151500 +0000" stop="20261109153000 +0000" channel="ntv.de">
+<programme channel="n-tv.ch" start="20261111181500 +0000" stop="20261111183000 +0000">
     <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort – vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten. (Senderinfo).</desc>
+    <desc lang="de">Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
     <date>2026</date>
-    <category lang="de">Wirtschaftsmagazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32924156bh8aa_BannerL1_W660.webp" />
+    <country lang="de">DE</country>
   </programme>
   
-<programme start="20261109153000 +0000" stop="20261109160000 +0000" channel="ntv.de">
+<programme channel="n-tv.ch" start="20261111183000 +0000" stop="20261111190000 +0000">
     <title lang="de">News Spezial</title>
-    <sub-title lang="de">Bedrohung 2.0: Cyberspionage und Hackerangriffe</sub-title>
-    <desc lang="de">Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo).</desc>
+    <desc lang="de">Das Nachrichtenmagazin berichtet über die aktuellsten Ereignisse und spezielle Themen.</desc>
     <date>2026</date>
-    <category lang="de">Sondersendung</category>
-    <icon src="http://img.tvspielfilm.de/ef/de/f3/59baa0f1f033af7017f3deef.jpeg" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943774ih10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
   </programme>
   
-<programme start="20261109160000 +0000" stop="20261109161500 +0000" channel="ntv.de">
+<programme channel="n-tv.ch" start="20261111190000 +0000" stop="20261111191500 +0000">
     <title lang="de">Nachrichten</title>
-    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen. (Senderinfo).</desc>
+    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
     <date>2026</date>
-    <category lang="de">Nachrichten</category>
-    <icon src="http://img.tvspielfilm.de/cf/59/17/54597287e4b0f17a831759cf.jpeg" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943759bdh8ag_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
   </programme>
   
-<programme start="20261109161500 +0000" stop="20261109163000 +0000" channel="ntv.de">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort – vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Wirtschaftsmagazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
+<programme channel="n-tv.ch" start="20261111191500 +0000" stop="20261111200000 +0000">
+    <title lang="de">Mysteriöse Phänomene - Rätsel von oben</title>
+    <desc lang="de">Diesmal geht es um eine sich drehende Insel in einem argentinischen Sumpf, ein riesiges geometrisches Dreieck in der Wüste von Arizona und um mehrfarbige Pools in Äthiopien sowie um eine gigantische menschliche Figur im australischen Outback.</desc>
+    <credits>
+      <director>Suzan Yum</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26998371eh10aa_Iconic_W660.webp" />
+    <country lang="de">CA</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
   </programme>
   
-<programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="ntv.de">
-    <title lang="de">News Spezial</title>
-    <sub-title lang="de">Bedrohung 2.0: Cyberspionage und Hackerangriffe</sub-title>
-    <desc lang="de">Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo).</desc>
+<programme channel="n-tv.ch" start="20261111200000 +0000" stop="20261111200500 +0000">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Berichtet wird über aktuelle Themen des Tages und die wichtigsten Entwicklungen in der Welt. Zudem werden Hintergründe und Einschätzungen von Politikern und Experten geliefert und es wird zusammengefasst, was die Menschen bewegt.</desc>
     <date>2026</date>
-    <category lang="de">Sondersendung</category>
-    <icon src="http://img.tvspielfilm.de/ef/de/f3/59baa0f1f033af7017f3deef.jpeg" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10943759bdh8ag_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
   </programme>
   
 <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="ntv.de">
@@ -8773,70 +8762,73 @@
     <country lang="de">D</country>
   </programme>
   
-<programme channel="N-TV.fr" start="20261109144000 +0000" stop="20261109150000 +0000">
-    <title lang="fr">ntv Startup</title>
-    <sub-title lang="fr">Preisträger des KfW Award</sub-title>
-    <desc lang="fr">Startups gewinnen als wichtiger Impulsgeber für Wirtschaft und Gesellschaft zunehmend an Bedeutung. In dieser Ausgabe von ntv Startup geht es um Gewinnerinnen und Gewinner des angesehenen Gründerwettbewerbs "KfW Award Gründen", die am 4.November in Berlin geehrt werden.</desc>
-    <category lang="fr">Magazine de société</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/7/15233706.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/6/15233671.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/6/15233629.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/15233694.jpg" />
-    <episode-num system="onscreen">S9 E34</episode-num>
+<programme start="20261111180000 +0000" stop="20261111181500 +0000" channel="ntv.de">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/cf/59/17/54597287e4b0f17a831759cf.jpeg" />
   </programme>
   
-<programme channel="N-TV.fr" start="20261109150000 +0000" stop="20261109151500 +0000">
-    <title lang="fr">Nachrichten</title>
-    <category lang="fr">Journal</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/15233622.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/5/15233580.jpg" />
+<programme start="20261111181500 +0000" stop="20261111183000 +0000" channel="ntv.de">
+    <title lang="de">ntv Wirtschaft</title>
+    <desc lang="de">"ntv Wirtschaft" bringt die wichtigsten Wirtschafts-, Verbraucher- und Finanzthemen des Tages auf den Punkt, erklärt Hintergründe und ordnet Entwicklungen verständlich ein. Neben Verbrauchern kommen relevante Experten zu Wort – vom Startup-Gründer bis zum Vorstandschef. Reporter in Frankfurt und New York zeigen zudem die neuesten Trends und Bewegungen an den Finanzmärkten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Wirtschaftsmagazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
   </programme>
   
-<programme channel="N-TV.fr" start="20261109151500 +0000" stop="20261109153000 +0000">
-    <title lang="fr">ntv Wirtschaft</title>
-    <category lang="fr">Magazine d'information</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/15233680.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/6/15233609.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/5/15233589.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/6/15233644.jpg" />
-    <episode-num system="onscreen">S11 E9</episode-num>
+<programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="ntv.de">
+    <title lang="de">News Spezial</title>
+    <desc lang="de">Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Sondersendung</category>
+    <icon src="http://img.tvspielfilm.de/ef/de/f3/59baa0f1f033af7017f3deef.jpeg" />
   </programme>
   
-<programme channel="N-TV.fr" start="20261109153000 +0000" stop="20261109160000 +0000">
-    <title lang="fr">News Spezial</title>
-    <category lang="fr">Journal</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/2/15519299.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/2/15519296.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/6/15233600.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/2/15519298.jpg" />
-    <episode-num system="onscreen">S11 E9</episode-num>
+<programme start="20261111190000 +0000" stop="20261111191500 +0000" channel="ntv.de">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/cf/59/17/54597287e4b0f17a831759cf.jpeg" />
   </programme>
   
-<programme channel="N-TV.fr" start="20261109160000 +0000" stop="20261109161500 +0000">
-    <title lang="fr">Nachrichten</title>
-    <category lang="fr">Journal</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/15233622.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/5/15233580.jpg" />
+<programme start="20261111191500 +0000" stop="20261111200000 +0000" channel="ntv.de">
+    <title lang="de">Mysteriöse Phänomene – Rätsel von oben</title>
+    <sub-title lang="de">Extraordinarily Out of the Ordinary</sub-title>
+    <desc lang="de">Aus der Vogelperspektive sieht man eine drehende Insel in einem massiven Sumpf in Argentinien, ein perfekt geformtes riesiges geometrisches Dreieck, das aus dem Gestrüpp in der Wüste von Arizona auftaucht, geheimnisvolle mehrfarbige Pools, die die Landschaft in Nordäthiopien übersäen, und eine gigantische menschliche Figur, die im abgelegenen australischen Outback verborgen ist. (Senderinfo).</desc>
+    <credits>
+      <actor role="Self - RCGS Explorer-In-Residence">George Kourounis</actor>
+      <actor role="Self - Anthropologist &amp; Historical Archaeologist">Karen Bellinger</actor>
+      <actor role="Self - Conservation Biologist">Peter Soroye</actor>
+      <actor role="Self - Archaeologist">Anthea Nardi</actor>
+      <actor role="Self - Ecologist &amp; Data Scientist">Cylita Guy</actor>
+      <actor role="Self - Evolutionary Biologist">Dan Riskin</actor>
+      <actor role="Self - Art &amp; Cultural Historian">Sheila K. Hoffman</actor>
+      <actor role="Self - History Communicator">Torri Yates-Orr</actor>
+      <actor role="Self - Historian &amp; Journalist">Guy Walters</actor>
+      <actor role="Self - Archaeological Scientist">Natasha Billson</actor>
+      <producer>Victor Kushmaniuk</producer>
+      <producer>Tara Elwood</producer>
+      <producer>Michael Kot</producer>
+      <producer>Betty Orr</producer>
+      <composer>Richard Pell</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="de">Mysterydokureihe</category>
+    <icon src="http://img.tvspielfilm.de/92/5a/bc/6ad626b76b6f3b46dcbc5a92.jpeg" />
+    <country lang="de">Kan.</country>
+    <episode-num system="onscreen">E26</episode-num>
   </programme>
   
-<programme channel="N-TV.fr" start="20261109161500 +0000" stop="20261109163000 +0000">
-    <title lang="fr">ntv Wirtschaft</title>
-    <category lang="fr">Magazine d'information</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/15233680.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/6/15233609.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/5/15233589.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/6/15233644.jpg" />
-    <episode-num system="onscreen">S11 E9</episode-num>
-  </programme>
-  
-<programme channel="N-TV.fr" start="20261109163000 +0000" stop="20261109170000 +0000">
-    <title lang="fr">News Spezial</title>
-    <category lang="fr">Journal</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/2/15519299.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/2/15519296.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/6/15233600.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/2/15519298.jpg" />
-    <episode-num system="onscreen">S11 E9</episode-num>
+<programme start="20261111200000 +0000" stop="20261111200500 +0000" channel="ntv.de">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">ntv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/cf/59/17/54597287e4b0f17a831759cf.jpeg" />
   </programme>
   
 <programme channel="N-TV.fr" start="20261109170000 +0000" stop="20261109173000 +0000">
@@ -9849,49 +9841,57 @@
     <episode-num system="onscreen">S5 E134</episode-num>
   </programme>
   
-<programme start="20261109143000 +0530" stop="20261109150000 +0530" channel="NTV.in">
-    <title lang="te-IN">మూవీ మిక్చర్</title>
-    <sub-title lang="te-IN">The host talks about the latest releases from Tollywood and provides updates on the most trending news and gossip from the world of cinema</sub-title>
-    <desc lang="te-IN">వ్యాఖ్యాత సినిమా తాజా విడుదలల గురించి, సినిమా ప్రపంచం నుండి అత్యంత ట్రెండింగ్ వార్తలు, గాసిప్‌లపై విశేషాలను అందిస్తారు.</desc>
-    <category lang="te-IN">178</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2f6a7ceb857be33899a8f0465944bede.jpg" />
-    <premiere />
+<programme channel="N-TV.fr" start="20261111180000 +0000" stop="20261111181500 +0000">
+    <title lang="fr">Nachrichten</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/15233622.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/5/15233580.jpg" />
   </programme>
   
-<programme start="20261109150000 +0530" stop="20261109153000 +0530" channel="NTV.in">
-    <title lang="te-IN">న్యూస్ ఆన్‌లైన్</title>
-    <sub-title lang="te-IN">The host provides comprehensive news coverage, offering breaking updates on politics, critical affairs, sports and entertainment to ensure a well-rounded view of the world</sub-title>
-    <desc lang="te-IN">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు రాజకీయాలు, కీలకవ్యవహారాలు , క్రీడలు, వినోద రంగాలకు చెందిన తాజా విశేషాలను అందిస్తారు.</desc>
-    <category lang="te-IN">178</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/45e1060e3b61c1902328549e5451155d.jpg" />
-    <premiere />
+<programme channel="N-TV.fr" start="20261111181500 +0000" stop="20261111183000 +0000">
+    <title lang="fr">ntv Wirtschaft</title>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/15233680.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/6/15233609.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/5/15233589.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/6/15233644.jpg" />
+    <episode-num system="onscreen">S11 E11</episode-num>
   </programme>
   
-<programme start="20261109153000 +0530" stop="20261109160000 +0530" channel="NTV.in">
-    <title lang="te-IN">ఫోకస్</title>
-    <sub-title lang="te-IN">Experts offer an in-depth analysis on various socio-economic and political topics and current affairs that impact commoners</sub-title>
-    <desc lang="te-IN">నిపుణులు సామాన్యులను ప్రభావితం చేస్తున్న సామాజిక-ఆర్ధిక, రాజకీయ రంగాలకు చెందిన తాజా వార్తలపై లోతైన విశ్లేషణ అందిస్తారు.</desc>
-    <category lang="te-IN">178</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d1dd6f5d0cb0260820d2afcd8dbacf00.jpg" />
-    <premiere />
+<programme channel="N-TV.fr" start="20261111183000 +0000" stop="20261111190000 +0000">
+    <title lang="fr">News Spezial</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/2/15519299.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/2/15519296.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/6/15233600.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/2/15519298.jpg" />
+    <episode-num system="onscreen">S11 E11</episode-num>
   </programme>
   
-<programme start="20261109160000 +0530" stop="20261109163000 +0530" channel="NTV.in">
-    <title lang="te-IN">న్యూస్ ఆన్‌లైన్</title>
-    <sub-title lang="te-IN">The host provides comprehensive news coverage, offering breaking updates on politics, critical affairs, sports and entertainment to ensure a well-rounded view of the world</sub-title>
-    <desc lang="te-IN">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు రాజకీయాలు, కీలకవ్యవహారాలు , క్రీడలు, వినోద రంగాలకు చెందిన తాజా విశేషాలను అందిస్తారు.</desc>
-    <category lang="te-IN">178</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/45e1060e3b61c1902328549e5451155d.jpg" />
-    <premiere />
+<programme channel="N-TV.fr" start="20261111190000 +0000" stop="20261111191500 +0000">
+    <title lang="fr">Nachrichten</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/15233622.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/5/15233580.jpg" />
   </programme>
   
-<programme start="20261109163000 +0530" stop="20261109170000 +0530" channel="NTV.in">
-    <title lang="te-IN">ఫోకస్</title>
-    <sub-title lang="te-IN">Experts offer an in-depth analysis on various socio-economic and political topics and current affairs that impact commoners</sub-title>
-    <desc lang="te-IN">నిపుణులు సామాన్యులను ప్రభావితం చేస్తున్న సామాజిక-ఆర్ధిక, రాజకీయ రంగాలకు చెందిన తాజా వార్తలపై లోతైన విశ్లేషణ అందిస్తారు.</desc>
-    <category lang="te-IN">178</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d1dd6f5d0cb0260820d2afcd8dbacf00.jpg" />
-    <premiere />
+<programme channel="N-TV.fr" start="20261111191500 +0000" stop="20261111200000 +0000">
+    <title lang="fr">Mysteriöse Phänomene - Rätsel von oben</title>
+    <sub-title lang="fr">Extraordinarily Out of the Ordinary</sub-title>
+    <desc lang="fr">Die Ansicht von oben zeigt verschiedene faszinierende geographische Formationen auf der ganzen Welt.</desc>
+    <category lang="fr">Documentaire scientifique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/2/15414246.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/2/15414240.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/16245681.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/2/15414243.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  
+<programme channel="N-TV.fr" start="20261111200000 +0000" stop="20261111200500 +0000">
+    <title lang="fr">Nachrichten</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/15233622.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/5/15233580.jpg" />
   </programme>
   
 <programme start="20261109170000 +0530" stop="20261109173000 +0530" channel="NTV.in">
@@ -10769,6 +10769,51 @@
     <premiere />
   </programme>
   
+<programme start="20261111180000 +0530" stop="20261111183000 +0530" channel="NTV.in">
+    <title lang="te-IN">న్యూస్ ఆన్‌లైన్</title>
+    <sub-title lang="te-IN">The host provides comprehensive news coverage, offering breaking updates on politics, critical affairs, sports and entertainment to ensure a well-rounded view of the world</sub-title>
+    <desc lang="te-IN">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు రాజకీయాలు, కీలకవ్యవహారాలు , క్రీడలు, వినోద రంగాలకు చెందిన తాజా విశేషాలను అందిస్తారు.</desc>
+    <category lang="te-IN">178</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/45e1060e3b61c1902328549e5451155d.jpg" />
+    <premiere />
+  </programme>
+  
+<programme start="20261111183000 +0530" stop="20261111190000 +0530" channel="NTV.in">
+    <title lang="te-IN">ఆఫ్ ద రికార్డ్</title>
+    <sub-title lang="te-IN">The host presents the latest updates and developments about the activities of various political and social parties across India</sub-title>
+    <desc lang="te-IN">వ్యాఖ్యాత దేశవ్యాప్తపు రాజకీయ, సామాజిక పార్టీలకు సంబంధించిన తాజా విశేషాలు, వాటి కార్యకలాపాల గురించి తెలియచేస్తారు.</desc>
+    <category lang="te-IN">178</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/da0aa6b262bbb5f229ba53eeb2a65f7b.jpg" />
+    <premiere />
+  </programme>
+  
+<programme start="20261111190000 +0530" stop="20261111193000 +0530" channel="NTV.in">
+    <title lang="te-IN">లైవ్ షో</title>
+    <sub-title lang="te-IN">A live show that features experts from various fields sharing and debating interesting information with the viewers</sub-title>
+    <desc lang="te-IN">విభిన్న రంగాలకు చెందిన నిపుణులు ఆసక్తికరమైన విషయాలకు చెందిన సమాచారాన్ని వీక్షకులతో పంచుకుంటూ, వాటిపై చర్చిస్తారు.</desc>
+    <category lang="te-IN">178</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ef097212d40d37b62beb7f61632f4d1e.jpg" />
+    <premiere />
+  </programme>
+  
+<programme start="20261111193000 +0530" stop="20261111200000 +0530" channel="NTV.in">
+    <title lang="te-IN">రియల్ స్టోరీస్</title>
+    <sub-title lang="te-IN">The host brings real-life stories regarding crime, relationships, and other authentic and genuine events to the audience</sub-title>
+    <desc lang="te-IN">వ్యాఖ్యాత నేరాలు, సంబంధాలు, ఇతర వాస్తవమైన సంఘటనలకు సంబంధించిన నిజ జీవిత కథలను ప్రేక్షకులకు అందిస్తారు.</desc>
+    <category lang="te-IN">178</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b1b14e0a7d0a69547fbe29f7989d2aa1.jpg" />
+    <premiere />
+  </programme>
+  
+<programme start="20261111200000 +0530" stop="20261111203000 +0530" channel="NTV.in">
+    <title lang="te-IN">న్యూస్ ఆన్‌లైన్</title>
+    <sub-title lang="te-IN">The host provides comprehensive news coverage, offering breaking updates on politics, critical affairs, sports and entertainment to ensure a well-rounded view of the world</sub-title>
+    <desc lang="te-IN">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు రాజకీయాలు, కీలకవ్యవహారాలు , క్రీడలు, వినోద రంగాలకు చెందిన తాజా విశేషాలను అందిస్తారు.</desc>
+    <category lang="te-IN">178</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/45e1060e3b61c1902328549e5451155d.jpg" />
+    <premiere />
+  </programme>
+  
 <programme channel="NTV.in" start="20261109220000 +0530" stop="20261109223000 +0530">
     <title lang="en">News 360</title>
     <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
@@ -11155,55 +11200,6 @@
     <category lang="en">News</category>
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p10172227_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  
-<programme start="20261109144000 -0100" stop="20261109150000 -0100" channel="n-tv.lu">
-    <title lang="de">ntv Startup</title>
-    <desc lang="de">Startups gewinnen als wichtiger Impulsgeber für Wirtschaft und Gesellschaft zunehmend an Bedeutung. In dieser Ausgabe von ntv Startup geht es um Gewinnerinnen und Gewinner des angesehenen Gründerwettbewerbs "KfW Award Gründen.</desc>
-    <date>2026</date>
-    <category lang="de">Info</category>
-  </programme>
-  
-<programme start="20261109150000 -0100" stop="20261109151500 -0100" channel="n-tv.lu">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">Die Nachrichten von n-tv erklären das Weltgeschehen kompakt und verständlich. Sie berichten über aktuelle politische, wirtschaftliche, soziale, kulturelle und sportliche Ereignisse sowie weitere relevante Entwicklungen in übersichtlicher Form. Ziel ist es, komplexe Zusammenhänge schnell einzuordnen und auf den Punkt zu bringen. Ausgestrahlt werden die Nachrichten 365 Tage im Jahr: montags bis freitags zu jeder vollen Stunde, vormittags zusätzlich alle halben Stunden sowie morgens zwischen 7 und 9 Uhr im 15-Minuten-Takt. So bleiben Zuschauer kontinuierlich über das Weltgeschehen informiert.</desc>
-    <date>2026</date>
-    <category lang="de">Nachrichten</category>
-  </programme>
-  
-<programme start="20261109151500 -0100" stop="20261109153000 -0100" channel="n-tv.lu">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">ntv Wirtschaft" fasst die wichtigsten Wirtschafts-, Finanz- und Verbraucherthemen des Tages kompakt und verständlich zusammen. Die Sendung erklärt Hintergründe, ordnet aktuelle Entwicklungen ein und zeigt, welche Auswirkungen sie auf Unternehmen, Märkte und Verbraucher haben. Dabei kommen unterschiedliche Experten zu Wort – vom Gründer eines Start-ups bis zum Vorstand eines Großunternehmens. Ergänzt wird das Format durch Berichte von Reportern in Frankfurt und New York, die aktuelle Trends, Marktbewegungen und Stimmungen an den internationalen Finanzplätzen einordnen. So bietet die Sendung einen fundierten Überblick über die wirtschaftlichen Themen des Tages.</desc>
-    <date>2026</date>
-    <category lang="de">Info</category>
-  </programme>
-  
-<programme start="20261109153000 -0100" stop="20261109160000 -0100" channel="n-tv.lu">
-    <title lang="de">News Spezial</title>
-    <desc lang="de">Die Sondersendungen des Nachrichtenformats werden zu besonderen Anlässen ausgestrahlt. Sie behandeln aktuelle, oft außergewöhnliche oder besonders relevante Themen aus Politik, Wirtschaft und Gesellschaft. Häuft geht es um bedeutende Ereignisse wie Wahlen, Natur-Katastrophen, Terror-Anschläge, große politische Entscheidungen oder weltweite Krisen. Geboten werden Analysen, Hintergrund-Berichte und Kommentare genauso wie Live-Schalten zu Experten oder Korrespondenten. So können die Zuschauer umfassender und detaillierter über aktuelle Entwicklungen informiert werden als in einer regulären Nachrichten-Sendung.</desc>
-    <date>2026</date>
-    <category lang="de">Info</category>
-  </programme>
-  
-<programme start="20261109160000 -0100" stop="20261109161500 -0100" channel="n-tv.lu">
-    <title lang="de">Nachrichten</title>
-    <desc lang="de">Die Nachrichten von n-tv erklären das Weltgeschehen kompakt und verständlich. Sie berichten über aktuelle politische, wirtschaftliche, soziale, kulturelle und sportliche Ereignisse sowie weitere relevante Entwicklungen in übersichtlicher Form. Ziel ist es, komplexe Zusammenhänge schnell einzuordnen und auf den Punkt zu bringen. Ausgestrahlt werden die Nachrichten 365 Tage im Jahr: montags bis freitags zu jeder vollen Stunde, vormittags zusätzlich alle halben Stunden sowie morgens zwischen 7 und 9 Uhr im 15-Minuten-Takt. So bleiben Zuschauer kontinuierlich über das Weltgeschehen informiert.</desc>
-    <date>2026</date>
-    <category lang="de">Nachrichten</category>
-  </programme>
-  
-<programme start="20261109161500 -0100" stop="20261109163000 -0100" channel="n-tv.lu">
-    <title lang="de">ntv Wirtschaft</title>
-    <desc lang="de">ntv Wirtschaft" fasst die wichtigsten Wirtschafts-, Finanz- und Verbraucherthemen des Tages kompakt und verständlich zusammen. Die Sendung erklärt Hintergründe, ordnet aktuelle Entwicklungen ein und zeigt, welche Auswirkungen sie auf Unternehmen, Märkte und Verbraucher haben. Dabei kommen unterschiedliche Experten zu Wort – vom Gründer eines Start-ups bis zum Vorstand eines Großunternehmens. Ergänzt wird das Format durch Berichte von Reportern in Frankfurt und New York, die aktuelle Trends, Marktbewegungen und Stimmungen an den internationalen Finanzplätzen einordnen. So bietet die Sendung einen fundierten Überblick über die wirtschaftlichen Themen des Tages.</desc>
-    <date>2026</date>
-    <category lang="de">Info</category>
-  </programme>
-  
-<programme start="20261109163000 -0100" stop="20261109170000 -0100" channel="n-tv.lu">
-    <title lang="de">News Spezial</title>
-    <desc lang="de">Die Sondersendungen des Nachrichtenformats werden zu besonderen Anlässen ausgestrahlt. Sie behandeln aktuelle, oft außergewöhnliche oder besonders relevante Themen aus Politik, Wirtschaft und Gesellschaft. Häuft geht es um bedeutende Ereignisse wie Wahlen, Natur-Katastrophen, Terror-Anschläge, große politische Entscheidungen oder weltweite Krisen. Geboten werden Analysen, Hintergrund-Berichte und Kommentare genauso wie Live-Schalten zu Experten oder Korrespondenten. So können die Zuschauer umfassender und detaillierter über aktuelle Entwicklungen informiert werden als in einer regulären Nachrichten-Sendung.</desc>
-    <date>2026</date>
-    <category lang="de">Info</category>
   </programme>
   
 <programme start="20261109170000 -0100" stop="20261109173000 -0100" channel="n-tv.lu">
@@ -11996,6 +11992,49 @@
     <category lang="de">Info</category>
   </programme>
   
+<programme start="20261111180000 -0100" stop="20261111181500 -0100" channel="n-tv.lu">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Die Nachrichten von n-tv erklären das Weltgeschehen kompakt und verständlich. Sie berichten über aktuelle politische, wirtschaftliche, soziale, kulturelle und sportliche Ereignisse sowie weitere relevante Entwicklungen in übersichtlicher Form. Ziel ist es, komplexe Zusammenhänge schnell einzuordnen und auf den Punkt zu bringen. Ausgestrahlt werden die Nachrichten 365 Tage im Jahr: montags bis freitags zu jeder vollen Stunde, vormittags zusätzlich alle halben Stunden sowie morgens zwischen 7 und 9 Uhr im 15-Minuten-Takt. So bleiben Zuschauer kontinuierlich über das Weltgeschehen informiert.</desc>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+  </programme>
+  
+<programme start="20261111181500 -0100" stop="20261111183000 -0100" channel="n-tv.lu">
+    <title lang="de">ntv Wirtschaft</title>
+    <desc lang="de">ntv Wirtschaft" fasst die wichtigsten Wirtschafts-, Finanz- und Verbraucherthemen des Tages kompakt und verständlich zusammen. Die Sendung erklärt Hintergründe, ordnet aktuelle Entwicklungen ein und zeigt, welche Auswirkungen sie auf Unternehmen, Märkte und Verbraucher haben. Dabei kommen unterschiedliche Experten zu Wort – vom Gründer eines Start-ups bis zum Vorstand eines Großunternehmens. Ergänzt wird das Format durch Berichte von Reportern in Frankfurt und New York, die aktuelle Trends, Marktbewegungen und Stimmungen an den internationalen Finanzplätzen einordnen. So bietet die Sendung einen fundierten Überblick über die wirtschaftlichen Themen des Tages.</desc>
+    <date>2026</date>
+    <category lang="de">Info</category>
+  </programme>
+  
+<programme start="20261111183000 -0100" stop="20261111190000 -0100" channel="n-tv.lu">
+    <title lang="de">News Spezial</title>
+    <desc lang="de">Die Sondersendungen des Nachrichtenformats werden zu besonderen Anlässen ausgestrahlt. Sie behandeln aktuelle, oft außergewöhnliche oder besonders relevante Themen aus Politik, Wirtschaft und Gesellschaft. Häuft geht es um bedeutende Ereignisse wie Wahlen, Natur-Katastrophen, Terror-Anschläge, große politische Entscheidungen oder weltweite Krisen. Geboten werden Analysen, Hintergrund-Berichte und Kommentare genauso wie Live-Schalten zu Experten oder Korrespondenten. So können die Zuschauer umfassender und detaillierter über aktuelle Entwicklungen informiert werden als in einer regulären Nachrichten-Sendung.</desc>
+    <date>2026</date>
+    <category lang="de">Info</category>
+  </programme>
+  
+<programme start="20261111190000 -0100" stop="20261111191500 -0100" channel="n-tv.lu">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Die Nachrichten von n-tv erklären das Weltgeschehen kompakt und verständlich. Sie berichten über aktuelle politische, wirtschaftliche, soziale, kulturelle und sportliche Ereignisse sowie weitere relevante Entwicklungen in übersichtlicher Form. Ziel ist es, komplexe Zusammenhänge schnell einzuordnen und auf den Punkt zu bringen. Ausgestrahlt werden die Nachrichten 365 Tage im Jahr: montags bis freitags zu jeder vollen Stunde, vormittags zusätzlich alle halben Stunden sowie morgens zwischen 7 und 9 Uhr im 15-Minuten-Takt. So bleiben Zuschauer kontinuierlich über das Weltgeschehen informiert.</desc>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+  </programme>
+  
+<programme start="20261111191500 -0100" stop="20261111200000 -0100" channel="n-tv.lu">
+    <title lang="de">Mysteriöse Phänomene – Rätsel von oben</title>
+    <desc lang="de">Aus der Vogelperspektive sieht man eine drehende Insel in einem massiven Sumpf in Argentinien, ein perfekt geformtes riesiges geometrisches Dreieck, das aus dem Gestrüpp in der Wüste von Arizona auftaucht, geheimnisvolle mehrfarbige Pools, die die Landschaft in Nordäthiopien übersäen, und eine gigantische menschliche Figur, die im abgelegenen australischen Outback verborgen ist.</desc>
+    <date>2024</date>
+    <category lang="de">Info</category>
+    <icon src="http://images.media-press.cloud/4075e972681e45f8920f59d6f2f49ad9" />
+  </programme>
+  
+<programme start="20261111200000 -0100" stop="20261111200500 -0100" channel="n-tv.lu">
+    <title lang="de">Nachrichten</title>
+    <desc lang="de">Die Nachrichten von n-tv erklären das Weltgeschehen kompakt und verständlich. Sie berichten über aktuelle politische, wirtschaftliche, soziale, kulturelle und sportliche Ereignisse sowie weitere relevante Entwicklungen in übersichtlicher Form. Ziel ist es, komplexe Zusammenhänge schnell einzuordnen und auf den Punkt zu bringen. Ausgestrahlt werden die Nachrichten 365 Tage im Jahr: montags bis freitags zu jeder vollen Stunde, vormittags zusätzlich alle halben Stunden sowie morgens zwischen 7 und 9 Uhr im 15-Minuten-Takt. So bleiben Zuschauer kontinuierlich über das Weltgeschehen informiert.</desc>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+  </programme>
+  
 <programme start="20261110233000 +0800" stop="20261111004500 +0800" channel="NTV.mn">
     <title lang="mn">"Мөнх тэнгэрийн хүчин дор" МУСК 1-р анги</title>
   </programme>
@@ -12068,24 +12107,12 @@
     <title lang="mn">Монгол бахархалын өдөрт зориулсан "Чингис хааны цом"-ын төлөөх чансаа өндөр 128 бөхийн барилдаан</title>
   </programme>
   
-<programme channel="Stingray.iConcerts.HD.pl" start="20261109140100 -0600" stop="20261109162200 -0600">
-    <title lang="pl">Guns N' Roses - Live From The O2 Arena London</title>
-    <date>2012</date>
-    <category lang="pl">koncert</category>
+<programme start="20261111193000 +0800" stop="20261111195500 +0800" channel="NTV.mn">
+    <title lang="mn">"NTV 20" Уралдаанд шалгарсан бүтээл: Маргааш нь</title>
   </programme>
   
-<programme channel="Stingray.iConcerts.HD.pl" start="20261109162200 -0600" stop="20261109165000 -0600">
-    <title lang="pl">Florence And The Machine - Austin City Limits</title>
-    <desc lang="pl">USA. The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
-    <date>2016</date>
-    <category lang="pl">koncert</category>
-  </programme>
-  
-<programme channel="Stingray.iConcerts.HD.pl" start="20261109165000 -0600" stop="20261109170000 -0600">
-    <title lang="pl">Various Artists - iConcerts Hits</title>
-    <desc lang="pl">United Kingdom. A selection of our best concert previews and exclusive interviews.</desc>
-    <date>2022</date>
-    <category lang="pl">koncert</category>
+<programme start="20261111195500 +0800" stop="20261111201500 +0800" channel="NTV.mn">
+    <title lang="mn">“Art: Нэг бүтээл” цуврал нэвтрүүлэг дугаар 2</title>
   </programme>
   
 <programme channel="Stingray.iConcerts.HD.pl" start="20261109170000 -0600" stop="20261109182400 -0600">
@@ -12385,34 +12412,24 @@
     <category lang="pl">koncert</category>
   </programme>
   
-<programme channel="n-tv.pl" start="20261109140500 -0600" stop="20261109150000 -0600">
-    <title lang="pl">Privatjets - So fliegen die Superreichen</title>
-    <title lang="xx">Private Jets: Reserved for the Rich?</title>
-    <date>2026</date>
-    <category lang="pl">Dokumentation</category>
+<programme channel="Stingray.iConcerts.HD.pl" start="20261111183800 -0600" stop="20261111193000 -0600">
+    <title lang="pl">Beck - Austin City Limits</title>
+    <desc lang="pl">USA. The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
+    <date>2014</date>
+    <category lang="pl">koncert</category>
   </programme>
   
-<programme channel="n-tv.pl" start="20261109150000 -0600" stop="20261109150500 -0600">
-    <title lang="pl">Nachrichten</title>
-    <date>2026</date>
+<programme channel="Stingray.iConcerts.HD.pl" start="20261111193000 -0600" stop="20261111200000 -0600">
+    <title lang="pl">Various Artists - iConcerts Hits</title>
+    <desc lang="pl">USA. A selection of our best concert previews and exclusive interviews.</desc>
+    <date>2012</date>
+    <category lang="pl">koncert</category>
   </programme>
   
-<programme channel="n-tv.pl" start="20261109150500 -0600" stop="20261109160000 -0600">
-    <title lang="pl">Made in China - Das große Geheimnis unseres Alltags</title>
-    <date>2025</date>
-    <category lang="pl">Dokumentation</category>
-  </programme>
-  
-<programme channel="n-tv.pl" start="20261109160000 -0600" stop="20261109161500 -0600">
-    <title lang="pl">Nachrichten</title>
-    <date>2026</date>
-  </programme>
-  
-<programme channel="n-tv.pl" start="20261109161500 -0600" stop="20261109163000 -0600">
-    <title lang="pl">ntv Wirtschaft 11</title>
-    <date>2026</date>
-    <category lang="pl">Magazin</category>
-    <episode-num system="onscreen">E9</episode-num>
+<programme channel="Stingray.iConcerts.HD.pl" start="20261111200000 -0600" stop="20261111215100 -0600">
+    <title lang="pl">Matchbox Twenty - Live in London 2012</title>
+    <date>2012</date>
+    <category lang="pl">koncert</category>
   </programme>
   
 <programme channel="n-tv.pl" start="20261109163000 -0600" stop="20261109171500 -0600">
@@ -13252,69 +13269,35 @@
     <episode-num system="onscreen">E4</episode-num>
   </programme>
   
-<programme start="20261109143400 +0000" stop="20261109145900 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">O Sister, Where Art Thou?</sub-title>
-    <desc lang="en">When Becky helps Harris keep a secret from Darlene, it causes a split between the two sisters.</desc>
-    <date>2018</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme channel="n-tv.pl" start="20261111181000 -0600" stop="20261111190000 -0600">
+    <title lang="pl">Schauplatz Wildnis - Kämpfe im Tierreich</title>
+    <title lang="xx">Wild Battleground: Cold Fury</title>
+    <credits>
+      <director>Nik Wansbrough</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pl">Dokumentationsreihe</category>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
   
-<programme start="20261109145900 +0000" stop="20261109152500 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Rage Against the Machine</sub-title>
-    <desc lang="en">Dan gets injured covering D.J.'s vending machine route, but choosing to sue could lead to D.J. getting fired.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme channel="n-tv.pl" start="20261111190000 -0600" stop="20261111195000 -0600">
+    <title lang="pl">Schauplatz Wildnis - Kämpfe im Tierreich</title>
+    <title lang="xx">Wild Battleground: Packing Heat</title>
+    <credits>
+      <director>Nik Wansbrough</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pl">Dokumentationsreihe</category>
+    <episode-num system="onscreen">E2</episode-num>
   </programme>
   
-<programme start="20261109152500 +0000" stop="20261109155000 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Don't Shoot the Piano Teacher</sub-title>
-    <desc lang="en">When Ben offers Mark free piano lessons, Darlene thinks it’s a way to test his parenting skills.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109155000 +0000" stop="20261109161600 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">We Contine to Truck</sub-title>
-    <desc lang="en">As Darlene grapples with a life-altering offer, a conversation with David turns her world more upside-down.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109161600 +0000" stop="20261109164100 +0000" channel="plex.tv.The.Conners.plex">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Preemies, Weed and Infidelity</sub-title>
-    <desc lang="en">After Emilio's deported, Jackie steps up and creates a birth plan for Becky.</desc>
-    <date>2019</date>
-    <category lang="en">Bingeworthy</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+<programme channel="n-tv.pl" start="20261111195000 -0600" stop="20261111203500 -0600">
+    <title lang="pl">Top Secret! Die geheimsten Orte der Welt</title>
+    <title lang="xx">World's Most Secret Places: Svalbard Doomsday Vault</title>
+    <sub-title lang="pl">Svalbard - Der Tresor der Welt</sub-title>
+    <date>2025</date>
+    <category lang="pl">Dokumentationsreihe</category>
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   
 <programme start="20261109164100 +0000" stop="20261109170700 +0000" channel="plex.tv.The.Conners.plex">
@@ -14822,42 +14805,68 @@
     </rating>
   </programme>
   
-<programme start="20261109144000 +0000" stop="20261109151100 +0000" channel="plex.tv.ÚN.TV.plex">
-    <title lang="en">Espléndida</title>
-    <sub-title lang="en">Programa 25</sub-title>
-    <desc lang="en">Conversamos con una experta en temas de pareja sobre cómo comenzar de nuevo luego de una separación. Analizamos los errores más comunes a la hora de alimentar a nuestros hijos y les compartimos algunas soluciones.</desc>
-    <date>2022</date>
-    <category lang="en">En Español</category>
-    <icon src="https://partner-upload-assets.wurl.com/atresmedia_corporacion/Esplendida_poster.jpg" />
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="US">
-      <value>A</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109151100 +0000" stop="20261109154100 +0000" channel="plex.tv.ÚN.TV.plex">
-    <title lang="en">Vidas Reales</title>
-    <sub-title lang="en">Marie Chantal</sub-title>
-    <desc lang="en">Divertida, emprendedora, guapa, elegante, empresaria de éxito, muchos son los adjetivos necesarios para describir a Marie Chantal que hacen que sea una de las royals más fotografiadas.</desc>
-    <date>2018</date>
-    <category lang="en">En Español</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/20173-22221/41314999-https-//content-partner-mrss-feeds-s3-amazonaws-com/atresmedia-corporacion/Vidas-2_v2.jpg" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="US">
-      <value>A</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109154100 +0000" stop="20261109164600 +0000" channel="plex.tv.ÚN.TV.plex">
-    <title lang="en">Las 50 Mujeres Más Influyentes</title>
-    <sub-title lang="en">Las 50 mujeres latinas más influyentes</sub-title>
-    <desc lang="en">Las 50 latinas más influyentes que con su talento, voluntad y ambición están haciendo historia en el mundo del entretenimiento, la cultura, el arte y la moda.</desc>
+<programme start="20261111180600 +0000" stop="20261111183200 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Live From Lanford</sub-title>
+    <desc lang="en">The Conners share their opinions on voting; Louise gets an offer that could take her away from Lanford.</desc>
     <date>2020</date>
-    <category lang="en">En Español</category>
-    <icon src="https://partner-upload-assets.wurl.com/atresmedia_corporacion/Las%2050%20Mujeres%20Mas%20Influyentes_poster.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
     <rating system="US">
-      <value>A</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111183200 +0000" stop="20261111185700 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Brothers, Babies and Breakdowns</sub-title>
+    <desc lang="en">Dan avoids coping with a death, only to be faced with it head-on; Ben and Darlene address his baby fever.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111185700 +0000" stop="20261111192300 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Bad Dads and Grads</sub-title>
+    <desc lang="en">Dan begins to bond with his younger half-brother but is angry their dad paid for Ed Jr.'s college education.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111192300 +0000" stop="20261111194800 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Beards, Thrupples and Robots</sub-title>
+    <desc lang="en">Darlene gets a job at Price Warehouse; Ben shaves his beard to look more clean-cut to advertisers.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111194800 +0000" stop="20261111201300 +0000" channel="plex.tv.The.Conners.plex">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Tats and Tias</sub-title>
+    <desc lang="en">Newly unemployed Harris moves back into the house; the entire Conner family contemplate tattoos.</desc>
+    <date>2020</date>
+    <category lang="en">Bingeworthy</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/024c1df6ba6f27154dbc596f8cdce7e7.jpg" />
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
     </rating>
   </programme>
   
@@ -15848,13 +15857,55 @@
     </rating>
   </programme>
   
-<programme start="20261109140300 +0000" stop="20261109162600 +0000" channel="Stingray.iConcerts.HD.pt">
-    <title lang="pt">Peter Gabriel - New Blood Live in London</title>
-    <desc lang="pt">Filmed at the Hammersmith Apollo in March 2011, "New Blood - Live In London" captures Peter Gabriel performing live with the 46 piece New Blood Orchestra.</desc>
-    <category lang="pt">Música</category>
-    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fea5cdca6b43446a09d42208b0f3f45c0&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
-    <rating system="Imdb">
-      <value>M3</value>
+<programme start="20261111180400 +0000" stop="20261111183500 +0000" channel="plex.tv.ÚN.TV.plex">
+    <title lang="en">Coronas Y Palacios</title>
+    <sub-title lang="en">Programa 68</sub-title>
+    <desc lang="en">El Rey Juan Carlos comunica su intención de abandonar el país para frenar el deterioro de la imagen de la monarquía tras las últimas informaciones. Analizamos las claves del reinado de Juan Carlos I.</desc>
+    <date>2020</date>
+    <category lang="en">En Español</category>
+    <icon src="https://partner-upload-assets.wurl.com/atresmedia_corporacion/Coronas%20Y%20Palacios_poster.jpg" />
+    <episode-num system="onscreen">S1 E68</episode-num>
+    <rating system="US">
+      <value>A</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111183500 +0000" stop="20261111192700 +0000" channel="plex.tv.ÚN.TV.plex">
+    <title lang="en">El Clóset De</title>
+    <sub-title lang="en">Victoria Beckham</sub-title>
+    <desc lang="en">Victoria Beckham es un ícono de estilo, y abrimos su clóset para analizar su evolución de Spice Girl a diseñadora minimalista y posh.</desc>
+    <date>2020</date>
+    <category lang="en">En Español</category>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/20177-22225/41324403-https-//content-partner-mrss-feeds-s3-amazonaws-com/atresmedia-corporacion/El-20Cl_v2.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>A</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111192700 +0000" stop="20261111195800 +0000" channel="plex.tv.ÚN.TV.plex">
+    <title lang="en">Top De Estilo</title>
+    <sub-title lang="en">Programa 69</sub-title>
+    <desc lang="en">Recordamos los estilismos de la modelo Bella Hadid. El experto en moda, Fred Redondo, analiza los looks con flecos de las celebridades. Repasamos los mejor vestidos en los Fashion Awards 2021.</desc>
+    <date>2023</date>
+    <category lang="en">En Español</category>
+    <icon src="https://partner-upload-assets.wurl.com/atresmedia_corporacion/Top%20De%20Estilo_poster.jpg" />
+    <episode-num system="onscreen">S1 E69</episode-num>
+    <rating system="US">
+      <value>A</value>
+    </rating>
+  </programme>
+  
+<programme start="20261111195800 +0000" stop="20261111204900 +0000" channel="plex.tv.ÚN.TV.plex">
+    <title lang="en">Especiales Unica Tv</title>
+    <sub-title lang="en">Benito Santos</sub-title>
+    <desc lang="en">Benito Santos ha vestido a celebridades y primeras damas y ha puesto el nombre de México en alto a través de sus coloridos looks. Nos revela los secretos de su estilo y nos cuenta detalles de su vida.</desc>
+    <date>2022</date>
+    <category lang="en">En Español</category>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/20173-22221/41315000-https-//content-partner-mrss-feeds-s3-amazonaws-com/atresmedia-corporacion/Especia_v3.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>A</value>
     </rating>
   </programme>
   
@@ -16319,22 +16370,14 @@
     </rating>
   </programme>
   
-<programme channel="Stingray.iConcerts.HD.ro" start="20261109140142 -0600" stop="20261109162225 -0600">
-    <title lang="ro">Guns N' Roses - Live From The O2 Arena London</title>
-    <desc lang="ro">Watch this mega-production of Guns N’ Roses performing live at the O2 Arena to its fans singing and vibrating to each song. Includes; Paradise City, Sweet Child O’ Mine, November Rain and many more.</desc>
-    <category lang="ro">Muzică</category>
-  </programme>
-  
-<programme channel="Stingray.iConcerts.HD.ro" start="20261109162226 -0600" stop="20261109165039 -0600">
-    <title lang="ro">Florence And The Machine - Austin City Limits</title>
-    <desc lang="ro">The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
-    <category lang="ro">Muzică</category>
-  </programme>
-  
-<programme channel="Stingray.iConcerts.HD.ro" start="20261109165040 -0600" stop="20261109165959 -0600">
-    <title lang="ro">Various Artists - iConcerts Hits</title>
-    <desc lang="ro">A selection of our best concert previews and exclusive interviews.</desc>
-    <category lang="ro">Muzică</category>
+<programme start="20261111194000 +0000" stop="20261111200700 +0000" channel="Stingray.iConcerts.HD.pt">
+    <title lang="pt">Florence And The Machine - Austin City Limits</title>
+    <desc lang="pt">The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F06df67c50b9147cdb53324d41ceb4f4b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
   </programme>
   
 <programme channel="Stingray.iConcerts.HD.ro" start="20261109170000 -0600" stop="20261109182424 -0600">
@@ -16606,29 +16649,22 @@
     <category lang="ro">Muzică</category>
   </programme>
   
-<programme channel="N-TV.ro" start="20261109140500 -0600" stop="20261109145959 -0600">
-    <title lang="ro">Undenkbare Momente</title>
-    <category lang="ro">Diverse</category>
+<programme channel="Stingray.iConcerts.HD.ro" start="20261111183840 -0600" stop="20261111193024 -0600">
+    <title lang="ro">Beck - Austin City Limits</title>
+    <desc lang="ro">The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
+    <category lang="ro">Muzică</category>
   </programme>
   
-<programme channel="N-TV.ro" start="20261109150000 -0600" stop="20261109150459 -0600">
-    <title lang="ro">Nachrichten</title>
-    <category lang="ro">Ştiri</category>
+<programme channel="Stingray.iConcerts.HD.ro" start="20261111193025 -0600" stop="20261111195959 -0600">
+    <title lang="ro">Various Artists - iConcerts Hits</title>
+    <desc lang="ro">A selection of our best concert previews and exclusive interviews.</desc>
+    <category lang="ro">Muzică</category>
   </programme>
   
-<programme channel="N-TV.ro" start="20261109150500 -0600" stop="20261109155959 -0600">
-    <title lang="ro">Undenkbare Momente</title>
-    <category lang="ro">Diverse</category>
-  </programme>
-  
-<programme channel="N-TV.ro" start="20261109160000 -0600" stop="20261109161459 -0600">
-    <title lang="ro">Nachrichten</title>
-    <category lang="ro">Ştiri</category>
-  </programme>
-  
-<programme channel="N-TV.ro" start="20261109161500 -0600" stop="20261109162959 -0600">
-    <title lang="ro">ntv Wirtschaft</title>
-    <category lang="ro">Diverse</category>
+<programme channel="Stingray.iConcerts.HD.ro" start="20261111200000 -0600" stop="20261111215138 -0600">
+    <title lang="ro">Matchbox Twenty - Live in London 2012</title>
+    <desc lang="ro">Filmed at Roundhouse, London, this concert film will give all fans a spectacular Live experience from start to finish. Matchbox Twenty performs their hits including "Bright Lights" , "Parade" , "You're So Real",  and many more….</desc>
+    <category lang="ro">Muzică</category>
   </programme>
   
 <programme channel="N-TV.ro" start="20261109163000 -0600" stop="20261109171959 -0600">
@@ -17180,16 +17216,19 @@
     <category lang="ro">Diverse</category>
   </programme>
   
-<programme start="20261109130000 +0100" stop="20261109150000 +0100" channel="NTV.rs">
-    <title lang="sr">Niška TV</title>
-    <category lang="sr">Info</category>
-    <icon src="https://mediasb2c.mts.rs/medias/Left-Side-155x88-.jpg?context=bWFzdGVyfHJvb3R8MjAxN3xpbWFnZS9qcGVnfGFHUTVMMmc0TWk4MU1qUXdNelE0TXpnd016WTNPQzlNWldaMElGTnBaR1VnS0RFMU5YZzRPQ2t1YW5Cbnw0NmYwMTJmNzFjMThlYWVjNzAyZGI2YzYwMTczYmNhMWZjNDE5YjU2ZWFlY2ZiMjlkNTAxNTA1NzgzOGRhYzhh" />
+<programme channel="N-TV.ro" start="20261111181000 -0600" stop="20261111185459 -0600">
+    <title lang="ro">Riverwoods – Schottlands wilde Flüsse</title>
+    <category lang="ro">Diverse</category>
   </programme>
   
-<programme start="20261109150000 +0100" stop="20261109170000 +0100" channel="NTV.rs">
-    <title lang="sr">Niška TV</title>
-    <category lang="sr">Info</category>
-    <icon src="https://mediasb2c.mts.rs/medias/Left-Side-155x88-.jpg?context=bWFzdGVyfHJvb3R8MjAxN3xpbWFnZS9qcGVnfGFHUTVMMmc0TWk4MU1qUXdNelE0TXpnd016WTNPQzlNWldaMElGTnBaR1VnS0RFMU5YZzRPQ2t1YW5Cbnw0NmYwMTJmNzFjMThlYWVjNzAyZGI2YzYwMTczYmNhMWZjNDE5YjU2ZWFlY2ZiMjlkNTAxNTA1NzgzOGRhYzhh" />
+<programme channel="N-TV.ro" start="20261111185500 -0600" stop="20261111193959 -0600">
+    <title lang="ro">Mysteriöse Phänomene – Rätsel von oben</title>
+    <category lang="ro">Divertisment</category>
+  </programme>
+  
+<programme channel="N-TV.ro" start="20261111194000 -0600" stop="20261111202459 -0600">
+    <title lang="ro">Vulkane – Countdown der Naturgewalten</title>
+    <category lang="ro">Diverse</category>
   </programme>
   
 <programme start="20261109170000 +0100" stop="20261109190000 +0100" channel="NTV.rs">
@@ -17342,56 +17381,10 @@
     <icon src="https://mediasb2c.mts.rs/medias/Left-Side-155x88-.jpg?context=bWFzdGVyfHJvb3R8MjAxN3xpbWFnZS9qcGVnfGFHUTVMMmc0TWk4MU1qUXdNelE0TXpnd016WTNPQzlNWldaMElGTnBaR1VnS0RFMU5YZzRPQ2t1YW5Cbnw0NmYwMTJmNzFjMThlYWVjNzAyZGI2YzYwMTczYmNhMWZjNDE5YjU2ZWFlY2ZiMjlkNTAxNTA1NzgzOGRhYzhh" />
   </programme>
   
-<programme start="20261109143000 +0300" stop="20261109145000 +0300" channel="NTV.tr">
-    <title lang="tr">Finans Kafe</title>
-  </programme>
-  
-<programme start="20261109145000 +0300" stop="20261109145500 +0300" channel="NTV.tr">
-    <title lang="tr">Paranın Nabzı</title>
-  </programme>
-  
-<programme start="20261109145500 +0300" stop="20261109150000 +0300" channel="NTV.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  
-<programme start="20261109150000 +0300" stop="20261109151500 +0300" channel="NTV.tr">
-    <title lang="tr">Öğle Bülteni</title>
-  </programme>
-  
-<programme start="20261109151500 +0300" stop="20261109152000 +0300" channel="NTV.tr">
-    <title lang="tr">Paranın Nabzı</title>
-  </programme>
-  
-<programme start="20261109152000 +0300" stop="20261109153000 +0300" channel="NTV.tr">
-    <title lang="tr">Yarınlar İçin</title>
-  </programme>
-  
-<programme start="20261109153000 +0300" stop="20261109155500 +0300" channel="NTV.tr">
-    <title lang="tr">Bakış</title>
-  </programme>
-  
-<programme start="20261109155500 +0300" stop="20261109160000 +0300" channel="NTV.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  
-<programme start="20261109160000 +0300" stop="20261109163500 +0300" channel="NTV.tr">
-    <title lang="tr">Günün İçinden</title>
-  </programme>
-  
-<programme start="20261109163500 +0300" stop="20261109164000 +0300" channel="NTV.tr">
-    <title lang="tr">Piyasalar</title>
-  </programme>
-  
-<programme start="20261109164000 +0300" stop="20261109164500 +0300" channel="NTV.tr">
-    <title lang="tr">Nasıl Azaltırım?</title>
-  </programme>
-  
-<programme start="20261109164500 +0300" stop="20261109165500 +0300" channel="NTV.tr">
-    <title lang="tr">Spor</title>
-  </programme>
-  
-<programme start="20261109165500 +0300" stop="20261109170000 +0300" channel="NTV.tr">
-    <title lang="tr">Hava Durumu</title>
+<programme start="20261111190000 +0100" stop="20261111210000 +0100" channel="NTV.rs">
+    <title lang="sr">Niška TV</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/Left-Side-155x88-.jpg?context=bWFzdGVyfHJvb3R8MjAxN3xpbWFnZS9qcGVnfGFHUTVMMmc0TWk4MU1qUXdNelE0TXpnd016WTNPQzlNWldaMElGTnBaR1VnS0RFMU5YZzRPQ2t1YW5Cbnw0NmYwMTJmNzFjMThlYWVjNzAyZGI2YzYwMTczYmNhMWZjNDE5YjU2ZWFlY2ZiMjlkNTAxNTA1NzgzOGRhYzhh" />
   </programme>
   
 <programme start="20261109170000 +0300" stop="20261109173000 +0300" channel="NTV.tr">
@@ -17993,124 +17986,52 @@
     <title lang="tr">Gece Gündüz</title>
   </programme>
   
-<programme start="20261109143000 +0300" stop="20261109145000 +0300" channel="NTV.tr">
-    <title lang="tr">Finans Kafe</title>
-    <desc lang="tr">Piyasalarda ilk yarı bitiyor, iş dünyası öğle molasına çıkıyor. İlk yarıyı piyasalar nasıl tamamladı? Gündemdeki gelişmeler rakamlara nasıl yansıdı? Günün ikinci yarısında ne olacak? Melda Yücel Kocaalp, uzman konukları ve telefon bağlantıları ile piyasaları ikinci yarıya hazırlıyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20241105159041.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109145000 +0300" stop="20261109145500 +0300" channel="NTV.tr">
-    <title lang="tr">Paranın Nabzı</title>
-    <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250624806707.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109145500 +0300" stop="20261109150000 +0300" channel="NTV.tr">
+<programme start="20261111175500 +0300" stop="20261111180000 +0300" channel="NTV.tr">
     <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları, Hava Durumu kuşağında ekrana geliyor.İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250624807337.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
   </programme>
   
-<programme start="20261109150000 +0300" stop="20261109152500 +0300" channel="NTV.tr">
-    <title lang="tr">Öğle Bülteni</title>
-    <desc lang="tr">Önceki gün, gece veya günün sabah saatlerinde yaşanan gelişmeler, tüm ayrıntılarıyla izleyicilere aktarılıyor.Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen gelişmeler, dış ülkelerde yaşananlar, izleyicilere ayrıntılarıyla sunuluyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20210914158717.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109152500 +0300" stop="20261109153000 +0300" channel="NTV.tr">
-    <title lang="tr">Paranın Nabzı</title>
-    <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250624806707.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109153000 +0300" stop="20261109155500 +0300" channel="NTV.tr">
-    <title lang="tr">Bakış</title>
-    <desc lang="tr">Trafikten sağlığa tüm sigortalar... Bireysel emeklilik sistemi... Tarım ve depreme kadar hayatın tüm riskleri... Siz sorun, uzmanlar yanıtlasın.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20260729268251.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109155500 +0300" stop="20261109160000 +0300" channel="NTV.tr">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları, Hava Durumu kuşağında ekrana geliyor.İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250624807337.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  
-<programme start="20261109160000 +0300" stop="20261109163500 +0300" channel="NTV.tr">
+<programme start="20261111180000 +0300" stop="20261111182500 +0300" channel="NTV.tr">
     <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Haber maratonu süresince gelişmelerin yaşandığı merkezlerden canlı bağlantılar, muhabirlerden yansıyan son gelişmeler sıcağı sıcağına izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20260307801667.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
   </programme>
   
-<programme start="20261109163500 +0300" stop="20261109164000 +0300" channel="NTV.tr">
+<programme start="20261111182500 +0300" stop="20261111183000 +0300" channel="NTV.tr">
     <title lang="tr">Piyasalar</title>
-    <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250623805584.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
   </programme>
   
-<programme start="20261109164000 +0300" stop="20261109164500 +0300" channel="NTV.tr">
-    <title lang="tr">Nasıl Azaltırım?</title>
-    <desc lang="tr">Daha bilinçli tüketimin, israfı önlemenin ve çevre dostu seçimlerin püf noktaları Nasıl Azaltırım? ile NTV ekranlarına geliyor. Dünyamız her geçen gün biraz daha ısınıyor İklim değişiyor, doğal kaynaklarımız tükeniyor. Alışveriş alışkanlıklarımızdan ulaşım tercihlerimize, gıda israfından hızlı modaya kadar attığımız her adım karbon ayak izimizi artırıyor. Oysa dünyamızı korumak elimizde.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20261107361867.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
+<programme start="20261111183000 +0300" stop="20261111184000 +0300" channel="NTV.tr">
+    <title lang="tr">Zirveden Notlar</title>
   </programme>
   
-<programme start="20261109164500 +0300" stop="20261109165500 +0300" channel="NTV.tr">
+<programme start="20261111184000 +0300" stop="20261111184500 +0300" channel="NTV.tr">
+    <title lang="tr">Uzman Bakışı</title>
+  </programme>
+  
+<programme start="20261111184500 +0300" stop="20261111185500 +0300" channel="NTV.tr">
     <title lang="tr">Spor</title>
-    <desc lang="tr">Türkiye ve dünyadaki günün önemli spor gelişmeleri hakkında en taze haberler spor bültenlerinde ekrana geliyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250508158824.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
   </programme>
   
-<programme start="20261109165500 +0300" stop="20261109170000 +0300" channel="NTV.tr">
+<programme start="20261111185500 +0300" stop="20261111190000 +0300" channel="NTV.tr">
     <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları, Hava Durumu kuşağında ekrana geliyor.İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Aktüalite</category>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/prevueposter/20250624807337.jpg" />
-    <rating system="TR">
-      <value>0+</value>
-    </rating>
+  </programme>
+  
+<programme start="20261111190000 +0300" stop="20261111191000 +0300" channel="NTV.tr">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  
+<programme start="20261111191000 +0300" stop="20261111191500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  
+<programme start="20261111191500 +0300" stop="20261111195500 +0300" channel="NTV.tr">
+    <title lang="tr">Ceyda Düvenci ile Bambaşka Sohbetler</title>
+  </programme>
+  
+<programme start="20261111195500 +0300" stop="20261111200000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  
+<programme start="20261111200000 +0300" stop="20261111205000 +0300" channel="NTV.tr">
+    <title lang="tr">Ana Haber</title>
   </programme>
   
 <programme start="20261109170000 +0300" stop="20261109173000 +0300" channel="NTV.tr">
@@ -19000,62 +18921,6 @@
     </rating>
   </programme>
   
-<programme channel="NTV.uk" start="20261109140000 +0000" stop="20261109150800 +0000">
-    <title lang="en">Mitthe Noy Shotti</title>
-    <desc lang="en">NTV Telefilm starring Arosh Khan, Priyonti Urbi, Shampa Nizam and many more. Directed by Imraul Rafat.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3c36b3a9-b705-4ae4-aafe-eec5fd1143b3/16-9" />
-  </programme>
-  
-<programme channel="NTV.uk" start="20261109150800 +0000" stop="20261109151400 +0000">
-    <title lang="en">Adhan-e-Asr</title>
-    <desc lang="en">Call to prayer.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Religion</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fd4c6b76-32fb-48ad-bd59-167d229c4d50/16-9" />
-  </programme>
-  
-<programme channel="NTV.uk" start="20261109151400 +0000" stop="20261109153000 +0000">
-    <title lang="en">Mitthe Noy Shotti</title>
-    <desc lang="en">NTV Telefilm starring Arosh Khan, Priyonti Urbi, Shampa Nizam and many more. Directed by Imraul Rafat.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8fff909f-f986-4ee4-a2b2-4610de9d8d18/16-9" />
-  </programme>
-  
-<programme channel="NTV.uk" start="20261109153000 +0000" stop="20261109160000 +0000">
-    <title lang="en">NTV NEWS-Shondhar Khobor</title>
-    <desc lang="en">NTV evening news from Bangladesh.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/570eedb7-726a-4f9b-b340-1cadb6577c29/16-9" />
-  </programme>
-  
-<programme channel="NTV.uk" start="20261109160000 +0000" stop="20261109163000 +0000">
-    <title lang="en">Food Caravan</title>
-    <desc lang="en">A cooking show featuring special recipes presented by Shahbin Mahfuza Jaybin and directed by Abu Rayhan Jewel.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <icon src="https://images.metadata.sky.com/pd-image/daa9bebc-60c3-4abb-be44-6a0a812fb671/16-9" />
-  </programme>
-  
-<programme channel="NTV.uk" start="20261109163000 +0000" stop="20261109170000 +0000">
-    <title lang="en">Alokpath</title>
-    <desc lang="en">An Islamic talk show directed by Abul Kalam Azad.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Educational</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a6a1c269-0c86-4696-b22d-22bd4e2fe0eb/16-9" />
-  </programme>
-  
-<programme channel="NTV.uk" start="20261109170000 +0000" stop="20261109170200 +0000">
-    <title lang="en">Bhotbhoti</title>
-    <desc lang="en">NTV Special Natok starring Khairul Bashar, Sadnima Binte Noman and many more. Directed by Maruf Hossain Shajib.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7db3b8b0-a239-4eeb-ab70-34d8ca1725cf/16-9" />
-  </programme>
-  
 <programme channel="NTV.uk" start="20261109170200 +0000" stop="20261109170700 +0000">
     <title lang="en">Adhan-e-Maghrib</title>
     <desc lang="en">Call to prayer.</desc>
@@ -19749,6 +19614,46 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/78ba10a4-5d52-410c-80fe-5ba468c88d46/16-9" />
+  </programme>
+  
+<programme channel="NTV.uk" start="20261111180000 +0000" stop="20261111181500 +0000">
+    <title lang="en">Evening News</title>
+    <desc lang="en">News coverage on a daily basis focusing on contemporary issues.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0316194f-eb2d-4981-b84e-fcbc2fe1c4b2/16-9" />
+  </programme>
+  
+<programme channel="NTV.uk" start="20261111181500 +0000" stop="20261111182300 +0000">
+    <title lang="en">NTV NEWS-Rater Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/81e72b43-c6bd-42a0-a0ff-6f548e363327/16-9" />
+  </programme>
+  
+<programme channel="NTV.uk" start="20261111182300 +0000" stop="20261111182800 +0000">
+    <title lang="en">Adhan-e-Isha</title>
+    <desc lang="en">Call to prayer.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4674e51a-aad0-4ec9-b1a2-853e52161f74/16-9" />
+  </programme>
+  
+<programme channel="NTV.uk" start="20261111182800 +0000" stop="20261111190000 +0000">
+    <title lang="en">NTV NEWS-Rater Khobor</title>
+    <desc lang="en">NTV evening news from Bangladesh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0a81f527-ce53-4f9d-af91-8d4c443ef58f/16-9" />
+  </programme>
+  
+<programme channel="NTV.uk" start="20261111190000 +0000" stop="20261111203000 +0000">
+    <title lang="en">Law and Justice</title>
+    <desc lang="en">A live programme featuring discussion on various legal topics with expert lawyers. Viewers can phone in and ask questions. Produced by Robin Hyder khan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e67ef2d6-78d3-4b86-a080-5a5218504aab/16-9" />
   </programme>
   
 </tv>

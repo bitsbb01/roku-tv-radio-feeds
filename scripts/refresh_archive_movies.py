@@ -17,12 +17,46 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "playlists" / "archive_movies.m3u8"
+COVERS = ROOT / "covers" / "ia-movies"
+RAW_COVERS = "https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies"
 HEADERS = {"User-Agent": "JGJG-TV-Radio-Archive-Feed/1.0"}
 QUERY = "mediatype:movies AND licenseurl:http*publicdomain*"
 
 
 def clean(value: object) -> str:
     return re.sub(r"\s+", " ", str(value or "")).replace('"', "'").strip()
+
+
+
+def cache_cover(identifier: str, record: dict) -> str:
+    """Cache the Internet Archive item thumbnail in this repository."""
+    safe_id = re.sub(r"[^A-Za-z0-9._-]", "_", identifier)
+    names = []
+    for file_info in record.get("files") or []:
+        name = str(file_info.get("name") or "")
+        if name.lower() in {"__ia_thumb.jpg", "cover.jpg", "poster.jpg", "thumbnail.jpg"}:
+            names.append(name)
+    names.sort(key=lambda name: 0 if name.lower() == "__ia_thumb.jpg" else 1)
+    urls = [
+        f"https://archive.org/download/{quote(identifier, safe='')}/{quote(name, safe='/')}"
+        for name in names
+    ]
+    urls.append(f"https://archive.org/services/img/{quote(identifier, safe='')}")
+    for url in urls:
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=(15, 45))
+            if response.status_code != 200 or len(response.content) < 1024:
+                continue
+            content_type = response.headers.get("content-type", "").lower()
+            extension = ".jpg" if "image/jpeg" in content_type else ".png" if "image/png" in content_type else ""
+            if not extension:
+                continue
+            COVERS.mkdir(parents=True, exist_ok=True)
+            (COVERS / f"{safe_id}{extension}").write_bytes(response.content)
+            return f"{RAW_COVERS}/{quote(safe_id + extension, safe='')}"
+        except requests.RequestException as exc:
+            logging.debug("Could not cache cover for %s: %s", identifier, exc)
+    return f"https://archive.org/services/img/{quote(identifier, safe='')}"
 
 
 def make_entry(doc: dict) -> tuple[str, str] | None:
@@ -86,7 +120,7 @@ def make_entry(doc: dict) -> tuple[str, str] | None:
     year = str(year)
     if year not in title:
         title = f"{title} ({year})"
-    logo = f"https://archive.org/services/img/{quote(identifier, safe='')}"
+    logo = cache_cover(identifier, record)
     stream = f"https://archive.org/download/{quote(identifier, safe='')}/{quote(filename, safe='/')}"
     extinf = (
         f'#EXTINF:-1 tvg-id="ia-{identifier}" tvg-logo="{logo}" '

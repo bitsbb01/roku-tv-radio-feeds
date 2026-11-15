@@ -85,10 +85,10 @@ https://archive.org/download/love_and_sad_songs_collection/23_Blue_crystals_vbr.
 https://archive.org/download/solo-piano-7/Torley-176-Journeys-begin.mp3
 #EXTINF:-1 tvg-id="ia-music-saw01x2" tvg-logo="https://archive.org/services/img/saw01x2" group-title="Internet Archive | brainsaw | http://creativecommons.org/licenses/by-nc-sa/2.5/",Music for the Paranoid Schizophrenic
 https://archive.org/download/saw01x2/brainsaw.saw01.12_vbr.mp3
-#EXTINF:-1 tvg-id="ia-music-4BoyBlueOneDayItaloDiscoVideo_201811" tvg-logo="https://archive.org/services/img/4BoyBlueOneDayItaloDiscoVideo_201811" group-title="Internet Archive | mandragora | http://creativecommons.org/publicdomain/mark/1.0/",4 Boy Blue One Day [ Italo Disco] Video
-https://archive.org/download/4BoyBlueOneDayItaloDiscoVideo_201811/1-Y%26T%20-%20Temptation.mp3
 #EXTINF:-1 tvg-id="ia-music-chamber_music_librivox" tvg-logo="https://archive.org/services/img/chamber_music_librivox" group-title="Internet Archive | James Joyce | http://creativecommons.org/licenses/publicdomain/",Chamber Music
 https://archive.org/download/chamber_music_librivox/chamber_music_joyce_apc_64kb.mp3
+#EXTINF:-1 tvg-id="ia-music-4BoyBlueOneDayItaloDiscoVideo_201811" tvg-logo="https://archive.org/services/img/4BoyBlueOneDayItaloDiscoVideo_201811" group-title="Internet Archive | mandragora | http://creativecommons.org/publicdomain/mark/1.0/",4 Boy Blue One Day [ Italo Disco] Video
+https://archive.org/download/4BoyBlueOneDayItaloDiscoVideo_201811/1-Y%26T%20-%20Temptation.mp3
 #EXTINF:-1 tvg-id="ia-music-MoxEarlyGanglions" tvg-logo="https://archive.org/services/img/MoxEarlyGanglions" group-title="Internet Archive | MOX | http://creativecommons.org/licenses/by-nc-nd/2.0/uk/",[AUDVEE04] Early Ganglions
 https://archive.org/download/MoxEarlyGanglions/11_-_Mania.mp3
 #EXTINF:-1 tvg-id="ia-music-CalmPills" tvg-logo="https://archive.org/services/img/CalmPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Calm Pills - Relaxing Ambient Music
@@ -225,6 +225,8 @@ https://archive.org/download/preludes_of_poetry_and_music_1902_librivox/preludes
 https://archive.org/download/christmascarols2011_1112_librivox/wethreekings_hopkins_sl_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-NS019" tvg-logo="https://archive.org/services/img/NS019" group-title="Internet Archive | pEACEFANg | http://creativecommons.org/licenses/by-nc-sa/4.0/",pEACEFANg EP
 https://archive.org/download/NS019/06-NS019-Macoun_Like_Wound.mp3
+#EXTINF:-1 tvg-id="ia-music-ChillPills" tvg-logo="https://archive.org/services/img/ChillPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Chill Pills - Uplifting Chillout Music
+https://archive.org/download/ChillPills/Uplifting_Pills_-_Chill_Pill_9_-_Reminiscenes_2567BFB7-3512-48AD-B422-26EE5C2AEAF0.mp3
 #EXTINF:-1 tvg-id="ia-music-210LikeAWallInWhichAnInsectLivesAndGnaws" tvg-logo="https://archive.org/services/img/210LikeAWallInWhichAnInsectLivesAndGnaws" group-title="Internet Archive | Bull of Heaven | http://creativecommons.org/publicdomain/mark/1.0/",210: Like a Wall in Which an Insect Lives and Gnaws
 https://archive.org/download/210LikeAWallInWhichAnInsectLivesAndGnaws/210_ExcerptG.mp3
 #EXTINF:-1 tvg-id="ia-music-OTRR_Alka_Seltzer_Time_Singles" tvg-logo="https://archive.org/services/img/OTRR_Alka_Seltzer_Time_Singles" group-title="Internet Archive | Old Time Radio Researchers Group | http://creativecommons.org/licenses/by-nc-nd/2.5/",Alka-Seltzer Time - Single Episodes
@@ -237,8 +239,6 @@ https://archive.org/download/musopen-chopin/Wiosna.mp3
 https://archive.org/download/harpers_young_people_01_19_1911_librivox/hyp019_10_various_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-ReichBerkeleyMuseum" tvg-logo="https://archive.org/services/img/ReichBerkeleyMuseum" group-title="Internet Archive | Steve Reich | http://creativecommons.org/licenses/by-nc-nd/3.0/",Steve Reich at UC Berkeley University Museum
 https://archive.org/download/ReichBerkeleyMuseum/steve_reich_berkeley_1644.mp3
-#EXTINF:-1 tvg-id="ia-music-ChillPills" tvg-logo="https://archive.org/services/img/ChillPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Chill Pills - Uplifting Chillout Music
-https://archive.org/download/ChillPills/Uplifting_Pills_-_Chill_Pill_9_-_Reminiscenes_2567BFB7-3512-48AD-B422-26EE5C2AEAF0.mp3
 #EXTINF:-1 tvg-id="ia-music-littlejourneys_greatmusicians_1512_librivox" tvg-logo="https://archive.org/services/img/littlejourneys_greatmusicians_1512_librivox" group-title="Internet Archive | Elbert Hubbard | http://creativecommons.org/publicdomain/mark/1.0/",Little Journeys to the Homes of Great Musicians
 https://archive.org/download/littlejourneys_greatmusicians_1512_librivox/littlejourneys_greatmusicians_24_hubbard_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-stuartevansmusichomesweethome_202002" tvg-logo="https://archive.org/services/img/stuartevansmusichomesweethome_202002" group-title="Internet Archive | Unknown artist | https://creativecommons.org/licenses/by/4.0/",Stuart Evans Music Home Sweet Home

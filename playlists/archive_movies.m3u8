@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ia-AboutBan1935" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/AboutBan1935.jpg" group-title="Internet Archive - Public Domain label",About Bananas (1935)
 https://archive.org/download/AboutBan1935/AboutBan1935_512kb.mp4
+#EXTINF:-1 tvg-id="ia-Doctorin1946" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/Doctorin1946.jpg" group-title="Internet Archive - Public Domain label",Doctor in Industry (Part I) (1946)
+https://archive.org/download/Doctorin1946/Doctorin1946_512kb.mp4
 #EXTINF:-1 tvg-id="ia-HealthYo1953" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/HealthYo1953.jpg" group-title="Internet Archive - Public Domain label",Health: Your Posture (1953)
 https://archive.org/download/HealthYo1953/HealthYo1953_512kb.mp4
 #EXTINF:-1 tvg-id="ia-FromtheG1954" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/FromtheG1954.jpg" group-title="Internet Archive - Public Domain label",From the Ground Up (1954)
@@ -13,6 +15,8 @@ https://archive.org/download/JoanAvoi1947/JoanAvoi1947_512kb.mp4
 https://archive.org/download/EatforHe1954/EatforHe1954_512kb.mp4
 #EXTINF:-1 tvg-id="ia-sex_madness" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/sex_madness.jpg" group-title="Internet Archive - Public Domain label",Sex Madness (1938)
 https://archive.org/download/sex_madness/sex_madness_512kb.mp4
+#EXTINF:-1 tvg-id="ia-Automoti1940" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/Automoti1940.jpg" group-title="Internet Archive - Public Domain label",Automotive Service (1940)
+https://archive.org/download/Automoti1940/Automoti1940_512kb.mp4
 #EXTINF:-1 tvg-id="ia-Careofth1949" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/Careofth1949.jpg" group-title="Internet Archive - Public Domain label",Care of the Skin (1949)
 https://archive.org/download/Careofth1949/Careofth1949_512kb.mp4
 #EXTINF:-1 tvg-id="ia-Sniffles1955" tvg-logo="https://raw.githubusercontent.com/bitsbb01/roku-tv-radio-feeds/main/covers/ia-movies/Sniffles1955.jpg" group-title="Internet Archive - Public Domain label",Sniffles and Sneezes (1955)

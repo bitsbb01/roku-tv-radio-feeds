@@ -81,6 +81,8 @@ https://archive.org/download/djtakimusiclifepodcast/remixed-hitmashed-up.mp3
 https://archive.org/download/DWK127/Kova_-_05_-_I_Keep_Secrets.mp3
 #EXTINF:-1 tvg-id="ia-music-love_and_sad_songs_collection" tvg-logo="https://archive.org/services/img/love_and_sad_songs_collection" group-title="Internet Archive | Tonipsycho | http://creativecommons.org/licenses/by-nd-nc/1.0/fi/",Love And Sad Songs
 https://archive.org/download/love_and_sad_songs_collection/23_Blue_crystals_vbr.mp3
+#EXTINF:-1 tvg-id="ia-music-CalmPills" tvg-logo="https://archive.org/services/img/CalmPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Calm Pills - Relaxing Ambient Music
+https://archive.org/download/CalmPills/Uplifting_Pills_-_Calm_Pill_9_-_Beacon_2AD2E9EA-F213-4751-B6E7-0FCD427DABC4.mp3
 #EXTINF:-1 tvg-id="ia-music-solo-piano-7" tvg-logo="https://archive.org/services/img/solo-piano-7" group-title="Internet Archive | Torley | http://creativecommons.org/licenses/by-sa/3.0/us/",solo piano 7
 https://archive.org/download/solo-piano-7/Torley-176-Journeys-begin.mp3
 #EXTINF:-1 tvg-id="ia-music-saw01x2" tvg-logo="https://archive.org/services/img/saw01x2" group-title="Internet Archive | brainsaw | http://creativecommons.org/licenses/by-nc-sa/2.5/",Music for the Paranoid Schizophrenic
@@ -89,8 +91,6 @@ https://archive.org/download/saw01x2/brainsaw.saw01.12_vbr.mp3
 https://archive.org/download/chamber_music_librivox/chamber_music_joyce_apc_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-4BoyBlueOneDayItaloDiscoVideo_201811" tvg-logo="https://archive.org/services/img/4BoyBlueOneDayItaloDiscoVideo_201811" group-title="Internet Archive | mandragora | http://creativecommons.org/publicdomain/mark/1.0/",4 Boy Blue One Day [ Italo Disco] Video
 https://archive.org/download/4BoyBlueOneDayItaloDiscoVideo_201811/1-Y%26T%20-%20Temptation.mp3
-#EXTINF:-1 tvg-id="ia-music-CalmPills" tvg-logo="https://archive.org/services/img/CalmPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Calm Pills - Relaxing Ambient Music
-https://archive.org/download/CalmPills/Uplifting_Pills_-_Calm_Pill_9_-_Beacon_2AD2E9EA-F213-4751-B6E7-0FCD427DABC4.mp3
 #EXTINF:-1 tvg-id="ia-music-MoxEarlyGanglions" tvg-logo="https://archive.org/services/img/MoxEarlyGanglions" group-title="Internet Archive | MOX | http://creativecommons.org/licenses/by-nc-nd/2.0/uk/",[AUDVEE04] Early Ganglions
 https://archive.org/download/MoxEarlyGanglions/11_-_Mania.mp3
 #EXTINF:-1 tvg-id="ia-music-DWK315" tvg-logo="https://archive.org/services/img/DWK315" group-title="Internet Archive | Anitek | http://creativecommons.org/licenses/by-nc-nd/3.0/",Luna (LP)
@@ -185,12 +185,12 @@ https://archive.org/download/testing12345678/55_IsntitGrandBoys_vbr.mp3
 https://archive.org/download/ca300_ca/515_gunjyo__end.mp3
 #EXTINF:-1 tvg-id="ia-music-christmas_carols_2010_librivox" tvg-logo="https://archive.org/services/img/christmas_carols_2010_librivox" group-title="Internet Archive | Various | http://creativecommons.org/publicdomain/mark/1.0/",Christmas Carol Collection 2010
 https://archive.org/download/christmas_carols_2010_librivox/whatchild_dix_mfslaw_64kb.mp3
-#EXTINF:-1 tvg-id="ia-music-CetteAnneWe3likM3awwline" tvg-logo="https://archive.org/services/img/CetteAnneWe3likM3awwline" group-title="Internet Archive | موقع الشعب الرجاوي | http://creativecommons.org/publicdomain/mark/1.0/",Music raja mp3
-https://archive.org/download/CetteAnneWe3likM3awwline/ya%20rabi%20ya%20l3ali%203ach9i%20f%20germanie.mp3
-#EXTINF:-1 tvg-id="ia-music-DWK119" tvg-logo="https://archive.org/services/img/DWK119" group-title="Internet Archive | Jenova 7 | http://creativecommons.org/licenses/by-nc-nd/3.0/",Dusted Jazz Volume Two (LP)
-https://archive.org/download/DWK119/Jenova_7_-_21_-_One_For_The_Road.mp3
 #EXTINF:-1 tvg-id="ia-music-WM076" tvg-logo="https://archive.org/services/img/WM076" group-title="Internet Archive | Various Artists | http://creativecommons.org/licenses/by-nc-sa/3.0/",Various Artists - Wakka Chikka Wakka Chikka: Porn Music For The Masses Volume 2 [WM076]
 https://archive.org/download/WM076/WM076-21-BillysFirstDayOnTheJobFINAL.mp3
+#EXTINF:-1 tvg-id="ia-music-DWK119" tvg-logo="https://archive.org/services/img/DWK119" group-title="Internet Archive | Jenova 7 | http://creativecommons.org/licenses/by-nc-nd/3.0/",Dusted Jazz Volume Two (LP)
+https://archive.org/download/DWK119/Jenova_7_-_21_-_One_For_The_Road.mp3
+#EXTINF:-1 tvg-id="ia-music-CetteAnneWe3likM3awwline" tvg-logo="https://archive.org/services/img/CetteAnneWe3likM3awwline" group-title="Internet Archive | موقع الشعب الرجاوي | http://creativecommons.org/publicdomain/mark/1.0/",Music raja mp3
+https://archive.org/download/CetteAnneWe3likM3awwline/ya%20rabi%20ya%20l3ali%203ach9i%20f%20germanie.mp3
 #EXTINF:-1 tvg-id="ia-music-MaherZainSoSoonOfficialMusicVideo_201905" tvg-logo="https://archive.org/services/img/MaherZainSoSoonOfficialMusicVideo_201905" group-title="Internet Archive | DOZENET | https://creativecommons.org/licenses/by-nc-nd/4.0/",Maher Zain So Soon Official Music Video
 https://archive.org/download/MaherZainSoSoonOfficialMusicVideo_201905/%D9%86%D8%A7%D8%B3%20%D8%AA%D8%B4%D8%A8%D9%87%D9%84%D9%86%D8%A7%20%D9%85%D8%A7%D9%87%D8%B1%20%D8%B2%D9%8A%D9%86%20%D8%AC%D8%AF%D9%8A%D8%AF.mp3
 #EXTINF:-1 tvg-id="ia-music-wolfgangamadeusmozart_1507_librivox" tvg-logo="https://archive.org/services/img/wolfgangamadeusmozart_1507_librivox" group-title="Internet Archive | Herbert Francis Peyser | http://creativecommons.org/publicdomain/mark/1.0/",Wolfgang Amadeus Mozart
@@ -227,12 +227,12 @@ https://archive.org/download/christmascarols2011_1112_librivox/wethreekings_hopk
 https://archive.org/download/NS019/06-NS019-Macoun_Like_Wound.mp3
 #EXTINF:-1 tvg-id="ia-music-210LikeAWallInWhichAnInsectLivesAndGnaws" tvg-logo="https://archive.org/services/img/210LikeAWallInWhichAnInsectLivesAndGnaws" group-title="Internet Archive | Bull of Heaven | http://creativecommons.org/publicdomain/mark/1.0/",210: Like a Wall in Which an Insect Lives and Gnaws
 https://archive.org/download/210LikeAWallInWhichAnInsectLivesAndGnaws/210_ExcerptG.mp3
+#EXTINF:-1 tvg-id="ia-music-ChillPills" tvg-logo="https://archive.org/services/img/ChillPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Chill Pills - Uplifting Chillout Music
+https://archive.org/download/ChillPills/Uplifting_Pills_-_Chill_Pill_9_-_Reminiscenes_2567BFB7-3512-48AD-B422-26EE5C2AEAF0.mp3
 #EXTINF:-1 tvg-id="ia-music-OTRR_Alka_Seltzer_Time_Singles" tvg-logo="https://archive.org/services/img/OTRR_Alka_Seltzer_Time_Singles" group-title="Internet Archive | Old Time Radio Researchers Group | http://creativecommons.org/licenses/by-nc-nd/2.5/",Alka-Seltzer Time - Single Episodes
 https://archive.org/download/OTRR_Alka_Seltzer_Time_Singles/Alka-Seltzer%20Time%2053-11-06%20%28x%29%20First%20Song%20-%20Collegiate.mp3
 #EXTINF:-1 tvg-id="ia-music-WalkingOnTheShore" tvg-logo="https://archive.org/services/img/WalkingOnTheShore" group-title="Internet Archive | Dipartimento Suono Pubblico | http://creativecommons.org/licenses/by-nd/3.0/",Walking on the Shore
 https://archive.org/download/WalkingOnTheShore/DipartimentoSuonoPubblico-WalkingOnTheShore.mp3
-#EXTINF:-1 tvg-id="ia-music-ChillPills" tvg-logo="https://archive.org/services/img/ChillPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Chill Pills - Uplifting Chillout Music
-https://archive.org/download/ChillPills/Uplifting_Pills_-_Chill_Pill_9_-_Reminiscenes_2567BFB7-3512-48AD-B422-26EE5C2AEAF0.mp3
 #EXTINF:-1 tvg-id="ia-music-harpers_young_people_01_19_1911_librivox" tvg-logo="https://archive.org/services/img/harpers_young_people_01_19_1911_librivox" group-title="Internet Archive | Various | http://creativecommons.org/publicdomain/mark/1.0/",Harper's Young People, Vol. 01, Issue 19, March 9, 1880
 https://archive.org/download/harpers_young_people_01_19_1911_librivox/hyp019_10_various_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-ReichBerkeleyMuseum" tvg-logo="https://archive.org/services/img/ReichBerkeleyMuseum" group-title="Internet Archive | Steve Reich | http://creativecommons.org/licenses/by-nc-nd/3.0/",Steve Reich at UC Berkeley University Museum
@@ -269,10 +269,10 @@ https://archive.org/download/AllTimeLow-Acoustic/AllTimeLow-StayAwake.mp3
 https://archive.org/download/MusicCc-Non-commercialUse/Putsasoll_-_Our_breeze.mp3
 #EXTINF:-1 tvg-id="ia-music-birthoftragedy_2102_librivox" tvg-logo="https://archive.org/services/img/birthoftragedy_2102_librivox" group-title="Internet Archive | Friedrich Nietzsche | http://creativecommons.org/publicdomain/mark/1.0/",The Birth of Tragedy; or, Hellenism and Pessimism (Version 2)
 https://archive.org/download/birthoftragedy_2102_librivox/birthoftragedy_28_nietzsche_64kb.mp3
-#EXTINF:-1 tvg-id="ia-music-after_music_1104_librivox" tvg-logo="https://archive.org/services/img/after_music_1104_librivox" group-title="Internet Archive | Josephine Preston Peabody | http://creativecommons.org/publicdomain/mark/1.0/",After Music
-https://archive.org/download/after_music_1104_librivox/aftermusic_peabody_tg_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-BibliaEnAudioRVA1909" tvg-logo="https://archive.org/services/img/BibliaEnAudioRVA1909" group-title="Internet Archive | Samuel Montoya | http://creativecommons.org/publicdomain/mark/1.0/",La Biblia en Audio (Spanish Audio Bible) - Reina Valera Antigua 1909
 https://archive.org/download/BibliaEnAudioRVA1909/66-Apocalipsis%2022.mp3
+#EXTINF:-1 tvg-id="ia-music-after_music_1104_librivox" tvg-logo="https://archive.org/services/img/after_music_1104_librivox" group-title="Internet Archive | Josephine Preston Peabody | http://creativecommons.org/publicdomain/mark/1.0/",After Music
+https://archive.org/download/after_music_1104_librivox/aftermusic_peabody_tg_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-170105OSPODCASTGospelST" tvg-logo="https://archive.org/services/img/170105OSPODCASTGospelST" group-title="Internet Archive | Unknown artist | http://creativecommons.org/licenses/by-nc-nd/3.0/",170105 OS PODCAST Gospel ST
 https://archive.org/download/170105OSPODCASTGospelST/170105-OS-PODCAST-Gospel-ST.mp3
 #EXTINF:-1 tvg-id="ia-music-slutsoundsepisode17" tvg-logo="https://archive.org/services/img/slutsoundsepisode17" group-title="Internet Archive | Slut Sounds | https://creativecommons.org/licenses/by-nc-nd/4.0/",Slut Sounds Episode 17

@@ -81,6 +81,8 @@ https://archive.org/download/djtakimusiclifepodcast/remixed-hitmashed-up.mp3
 https://archive.org/download/DWK127/Kova_-_05_-_I_Keep_Secrets.mp3
 #EXTINF:-1 tvg-id="ia-music-love_and_sad_songs_collection" tvg-logo="https://archive.org/services/img/love_and_sad_songs_collection" group-title="Internet Archive | Tonipsycho | http://creativecommons.org/licenses/by-nd-nc/1.0/fi/",Love And Sad Songs
 https://archive.org/download/love_and_sad_songs_collection/23_Blue_crystals_vbr.mp3
+#EXTINF:-1 tvg-id="ia-music-CalmPills" tvg-logo="https://archive.org/services/img/CalmPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Calm Pills - Relaxing Ambient Music
+https://archive.org/download/CalmPills/Uplifting_Pills_-_Calm_Pill_9_-_Beacon_2AD2E9EA-F213-4751-B6E7-0FCD427DABC4.mp3
 #EXTINF:-1 tvg-id="ia-music-solo-piano-7" tvg-logo="https://archive.org/services/img/solo-piano-7" group-title="Internet Archive | Torley | http://creativecommons.org/licenses/by-sa/3.0/us/",solo piano 7
 https://archive.org/download/solo-piano-7/Torley-176-Journeys-begin.mp3
 #EXTINF:-1 tvg-id="ia-music-saw01x2" tvg-logo="https://archive.org/services/img/saw01x2" group-title="Internet Archive | brainsaw | http://creativecommons.org/licenses/by-nc-sa/2.5/",Music for the Paranoid Schizophrenic
@@ -89,8 +91,6 @@ https://archive.org/download/saw01x2/brainsaw.saw01.12_vbr.mp3
 https://archive.org/download/chamber_music_librivox/chamber_music_joyce_apc_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-4BoyBlueOneDayItaloDiscoVideo_201811" tvg-logo="https://archive.org/services/img/4BoyBlueOneDayItaloDiscoVideo_201811" group-title="Internet Archive | mandragora | http://creativecommons.org/publicdomain/mark/1.0/",4 Boy Blue One Day [ Italo Disco] Video
 https://archive.org/download/4BoyBlueOneDayItaloDiscoVideo_201811/1-Y%26T%20-%20Temptation.mp3
-#EXTINF:-1 tvg-id="ia-music-CalmPills" tvg-logo="https://archive.org/services/img/CalmPills" group-title="Internet Archive | Alaeddin Hallak | http://creativecommons.org/publicdomain/zero/1.0/",Calm Pills - Relaxing Ambient Music
-https://archive.org/download/CalmPills/Uplifting_Pills_-_Calm_Pill_9_-_Beacon_2AD2E9EA-F213-4751-B6E7-0FCD427DABC4.mp3
 #EXTINF:-1 tvg-id="ia-music-MoxEarlyGanglions" tvg-logo="https://archive.org/services/img/MoxEarlyGanglions" group-title="Internet Archive | MOX | http://creativecommons.org/licenses/by-nc-nd/2.0/uk/",[AUDVEE04] Early Ganglions
 https://archive.org/download/MoxEarlyGanglions/11_-_Mania.mp3
 #EXTINF:-1 tvg-id="ia-music-DWK315" tvg-logo="https://archive.org/services/img/DWK315" group-title="Internet Archive | Anitek | http://creativecommons.org/licenses/by-nc-nd/3.0/",Luna (LP)
@@ -199,10 +199,10 @@ https://archive.org/download/wolfgangamadeusmozart_1507_librivox/wolfgangamadeus
 https://archive.org/download/snf075_2006_librivox/snf075_watermusic_huxley_dwd_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-SSepisode15_201803" tvg-logo="https://archive.org/services/img/SSepisode15_201803" group-title="Internet Archive | Slut Sounds | http://creativecommons.org/licenses/by-nc-nd/3.0/",Bobbing for Apples
 https://archive.org/download/SSepisode15_201803/SSepisode15.mp3
-#EXTINF:-1 tvg-id="ia-music-OTRR_BCRC_Singles" tvg-logo="https://archive.org/services/img/OTRR_BCRC_Singles" group-title="Internet Archive | Old Time Radio Researchers Group | http://creativecommons.org/licenses/by-nc-nd/3.0/us/",The Bing Crosby-Rosemary Clooney Show - Single Episodes
-https://archive.org/download/OTRR_BCRC_Singles/BcrcShow62-09-24671FirstSong-Avalon.mp3
 #EXTINF:-1 tvg-id="ia-music-pmbs03e05_basil_kirchin" tvg-logo="https://archive.org/services/img/pmbs03e05_basil_kirchin" group-title="Internet Archive | Project Moonbase | http://creativecommons.org/licenses/by-nc-nd/3.0/",pmbs03e05_basil_kirchin
 https://archive.org/download/pmbs03e05_basil_kirchin/pmbs03e05_basil_kirchin.mp3
+#EXTINF:-1 tvg-id="ia-music-OTRR_BCRC_Singles" tvg-logo="https://archive.org/services/img/OTRR_BCRC_Singles" group-title="Internet Archive | Old Time Radio Researchers Group | http://creativecommons.org/licenses/by-nc-nd/3.0/us/",The Bing Crosby-Rosemary Clooney Show - Single Episodes
+https://archive.org/download/OTRR_BCRC_Singles/BcrcShow62-09-24671FirstSong-Avalon.mp3
 #EXTINF:-1 tvg-id="ia-music-alonet_007" tvg-logo="https://archive.org/services/img/alonet_007" group-title="Internet Archive | aloardi | http://creativecommons.org/licenses/by-nc-sa/3.0/",Puerto_Maldonado_2_Ruido_al_paso_2006
 https://archive.org/download/alonet_007/27_Victor_Zambrano_C.MP3
 #EXTINF:-1 tvg-id="ia-music-RadioWolneMedia_193" tvg-logo="https://archive.org/services/img/RadioWolneMedia_193" group-title="Internet Archive | Unknown artist | http://creativecommons.org/licenses/by-nc-nd/3.0/",Radio Wolne Media
@@ -211,14 +211,14 @@ https://archive.org/download/RadioWolneMedia_193/J_M_Goshki_-_Wejdz_na_stol.mp3
 https://archive.org/download/hymn_collection_001_0909_librivox/hymns001_wegathertogether_cc_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-ChildrenSongsVol1" tvg-logo="https://archive.org/services/img/ChildrenSongsVol1" group-title="Internet Archive | Ramesh & Students of Swarnim School | http://creativecommons.org/licenses/publicdomain/",'Children Songs, Vol. 1' (Nepal)
 https://archive.org/download/ChildrenSongsVol1/19_Track_19_64kb.mp3
+#EXTINF:-1 tvg-id="ia-music-musopen-chopin" tvg-logo="https://archive.org/services/img/musopen-chopin" group-title="Internet Archive | Aaron Dunn | http://creativecommons.org/publicdomain/zero/1.0/",Musopen - The Complete Chopin Collection
+https://archive.org/download/musopen-chopin/Wiosna.mp3
 #EXTINF:-1 tvg-id="ia-music-how_to_sing_rg_librivox" tvg-logo="https://archive.org/services/img/how_to_sing_rg_librivox" group-title="Internet Archive | Lehmann, Lilli | http://creativecommons.org/licenses/publicdomain/",How to Sing (Meine Gesangskunst)
 https://archive.org/download/how_to_sing_rg_librivox/howtosing_21_lehmann_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-Hotnewbeats.com-NewSongs-February2012" tvg-logo="https://archive.org/services/img/Hotnewbeats.com-NewSongs-February2012" group-title="Internet Archive | www.hotnewbeats.com | http://creativecommons.org/licenses/by-sa/3.0/",HotNewBeats.com - new songs - february 2012
 https://archive.org/download/Hotnewbeats.com-NewSongs-February2012/YoungBuck-Foreverscoobfeat.StarlitoQuannieCashTheCityPaperRobinRaynelleStixIzza-Hotnewbeats.com.mp3
 #EXTINF:-1 tvg-id="ia-music-csr044" tvg-logo="https://archive.org/services/img/csr044" group-title="Internet Archive | Various Artists | http://creativecommons.org/licenses/by-nc/2.0/",Various Artists - Swingin' Singles [csr044]
 https://archive.org/download/csr044/csr044_swingin-singles_side-b_16_fortyone_remix-project-2.mp3
-#EXTINF:-1 tvg-id="ia-music-musopen-chopin" tvg-logo="https://archive.org/services/img/musopen-chopin" group-title="Internet Archive | Aaron Dunn | http://creativecommons.org/publicdomain/zero/1.0/",Musopen - The Complete Chopin Collection
-https://archive.org/download/musopen-chopin/Wiosna.mp3
 #EXTINF:-1 tvg-id="ia-music-aarons_rod_1601_librivox" tvg-logo="https://archive.org/services/img/aarons_rod_1601_librivox" group-title="Internet Archive | D. H. Lawrence | http://creativecommons.org/publicdomain/mark/1.0/",Aaron's Rod
 https://archive.org/download/aarons_rod_1601_librivox/aaronsrod_38_lawrence_64kb.mp3
 #EXTINF:-1 tvg-id="ia-music-preludes_of_poetry_and_music_1902_librivox" tvg-logo="https://archive.org/services/img/preludes_of_poetry_and_music_1902_librivox" group-title="Internet Archive | Irene Curtis | http://creativecommons.org/publicdomain/mark/1.0/",Preludes of Poetry and Music

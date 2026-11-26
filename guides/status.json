@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-11-25T18:08:45+00:00",
+  "updated_at_utc": "2026-11-26T17:51:50+00:00",
   "feeds": {
     "main": {
       "playlist_ids": 229,
       "playlist_names": 402,
       "guide_channels": 755,
-      "programmes": 51100,
+      "programmes": 52468,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "pluto": {
-      "playlist_ids": 2664,
-      "playlist_names": 1620,
-      "guide_channels": 3108,
-      "programmes": 74434,
+      "playlist_ids": 2666,
+      "playlist_names": 1621,
+      "guide_channels": 3109,
+      "programmes": 74620,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     },
     "tubi": {
@@ -22,14 +22,14 @@
       "note": "No XMLTV schedule is published for this playlist; the app should show No Guide Available."
     },
     "localnow": {
-      "error": "Failed to fetch https://www.apsattv.com/localnow.m3u: HTTPSConnectionPool(host='www.apsattv.com', port=443): Max retries exceeded with url: /localnow.m3u (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.apsattv.com', port=443) at 0x73f938fcac00>, 'Connection to www.apsattv.com timed out. (connect timeout=20)'))",
+      "error": "Failed to fetch https://www.apsattv.com/localnow.m3u: HTTPSConnectionPool(host='www.apsattv.com', port=443): Max retries exceeded with url: /localnow.m3u (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.apsattv.com', port=443) at 0x78c902029460>, 'Connection to www.apsattv.com timed out. (connect timeout=20)'))",
       "url": "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/main/epg.xml"
     },
     "xumo": {
-      "playlist_ids": 437,
-      "playlist_names": 437,
-      "guide_channels": 437,
-      "programmes": 15769,
+      "playlist_ids": 438,
+      "playlist_names": 438,
+      "guide_channels": 438,
+      "programmes": 15821,
       "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
     },
     "airy": {
@@ -48,14 +48,14 @@
       "playlist_ids": 2889,
       "playlist_names": 943,
       "guide_channels": 2889,
-      "programmes": 85072,
+      "programmes": 104399,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
     },
     "roku": {
-      "playlist_ids": 257,
-      "playlist_names": 257,
-      "guide_channels": 257,
-      "programmes": 16938,
+      "playlist_ids": 259,
+      "playlist_names": 259,
+      "guide_channels": 256,
+      "programmes": 16624,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
     },
     "tcl": {
@@ -63,24 +63,24 @@
       "url": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main/tcl_epg.xml"
     },
     "country_us": {
-      "playlist_ids": 1538,
-      "playlist_names": 1535,
+      "playlist_ids": 1531,
+      "playlist_names": 1528,
       "guide_channels": 20,
-      "programmes": 1169,
+      "programmes": 1181,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_ca": {
-      "playlist_ids": 265,
-      "playlist_names": 265,
+      "playlist_ids": 262,
+      "playlist_names": 262,
       "guide_channels": 26,
-      "programmes": 2121,
+      "programmes": 2090,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_uk": {
-      "playlist_ids": 302,
-      "playlist_names": 302,
+      "playlist_ids": 301,
+      "playlist_names": 301,
       "guide_channels": 25,
-      "programmes": 896,
+      "programmes": 871,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     }
   }

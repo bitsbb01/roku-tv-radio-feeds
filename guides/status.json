@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-11-27T17:37:45+00:00",
+  "updated_at_utc": "2026-11-28T16:21:16+00:00",
   "feeds": {
     "main": {
       "playlist_ids": 229,
       "playlist_names": 402,
-      "guide_channels": 755,
-      "programmes": 50576,
+      "guide_channels": 757,
+      "programmes": 51196,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "pluto": {
       "playlist_ids": 2665,
       "playlist_names": 1620,
       "guide_channels": 3109,
-      "programmes": 74896,
+      "programmes": 74737,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     },
     "tubi": {
@@ -29,7 +29,7 @@
       "playlist_ids": 438,
       "playlist_names": 438,
       "guide_channels": 438,
-      "programmes": 15741,
+      "programmes": 16197,
       "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
     },
     "airy": {
@@ -48,14 +48,14 @@
       "playlist_ids": 2187,
       "playlist_names": 690,
       "guide_channels": 2187,
-      "programmes": 68906,
+      "programmes": 48398,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
     },
     "roku": {
-      "playlist_ids": 256,
-      "playlist_names": 256,
-      "guide_channels": 256,
-      "programmes": 16681,
+      "playlist_ids": 259,
+      "playlist_names": 259,
+      "guide_channels": 258,
+      "programmes": 16238,
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
     },
     "tcl": {
@@ -63,24 +63,24 @@
       "url": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main/tcl_epg.xml"
     },
     "country_us": {
-      "playlist_ids": 1510,
-      "playlist_names": 1507,
+      "playlist_ids": 1514,
+      "playlist_names": 1511,
       "guide_channels": 20,
-      "programmes": 1151,
+      "programmes": 1127,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_ca": {
       "playlist_ids": 262,
       "playlist_names": 262,
       "guide_channels": 26,
-      "programmes": 2012,
+      "programmes": 1949,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     },
     "country_uk": {
       "playlist_ids": 301,
       "playlist_names": 301,
       "guide_channels": 25,
-      "programmes": 855,
+      "programmes": 849,
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
     }
   }
